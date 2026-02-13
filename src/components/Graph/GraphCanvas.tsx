@@ -204,22 +204,26 @@ export default function GraphCanvas() {
     [posOverrides]
   );
 
+  type LinkEndpoint = string | { id?: string; x?: number; y?: number };
+  type RuntimeLink = Omit<ContentEdge, "source" | "target"> & {
+    source: LinkEndpoint;
+    target: LinkEndpoint;
+  };
+
   const linkCanvasObject = useCallback(
     (
-      link: ContentEdge & {
-        source: string | { id?: string; x?: number; y?: number };
-        target: string | { id?: string; x?: number; y?: number };
-      },
+      rawLink: never,
       ctx: CanvasRenderingContext2D,
       globalScale: number
     ) => {
+      const link = rawLink as RuntimeLink;
       // Override link endpoint positions with animated positions
       const srcId = typeof link.source === "string" ? link.source : link.source?.id ?? "";
       const tgtId = typeof link.target === "string" ? link.target : link.target?.id ?? "";
       const srcPos = posOverrides.get(srcId);
       const tgtPos = posOverrides.get(tgtId);
 
-      let renderLink = link;
+      let renderLink: RuntimeLink = link;
       if (srcPos || tgtPos) {
         renderLink = { ...link };
         if (srcPos && typeof link.source === "object") {
