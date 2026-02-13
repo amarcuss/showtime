@@ -1,0 +1,6202 @@
+[
+  {
+    "id": "alien",
+    "title": "Alien",
+    "year": 1979,
+    "type": "movie",
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "Ridley Scott",
+    "cast": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "John Hurt",
+      "Ian Holm"
+    ],
+    "rating": 8.5,
+    "summary": "The crew of a commercial spacecraft encounters a deadly lifeform after investigating an unknown transmission.",
+    "posterUrl": "/posters/alien.jpg"
+  },
+  {
+    "id": "aliens",
+    "title": "Aliens",
+    "year": 1986,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "James Cameron",
+    "cast": [
+      "Sigourney Weaver",
+      "Michael Biehn",
+      "Carrie Henn",
+      "Lance Henriksen"
+    ],
+    "rating": 8.4,
+    "summary": "Ripley returns to the planet where her crew encountered the hostile Alien, this time accompanied by a unit of Colonial Marines.",
+    "posterUrl": "/posters/aliens.jpg"
+  },
+  {
+    "id": "american-beauty",
+    "title": "American Beauty",
+    "year": 1999,
+    "type": "movie",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Sam Mendes",
+    "cast": [
+      "Kevin Spacey",
+      "Annette Bening",
+      "Thora Birch",
+      "Mena Suvari"
+    ],
+    "rating": 8.3,
+    "summary": "A sexually frustrated suburban father has a midlife crisis after becoming infatuated with his daughter's best friend.",
+    "posterUrl": "/posters/american-beauty.jpg"
+  },
+  {
+    "id": "american-history-x",
+    "title": "American History X",
+    "year": 1998,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Tony Kaye",
+    "cast": [
+      "Edward Norton",
+      "Edward Furlong",
+      "Beverly D'Angelo",
+      "Ethan Suplee"
+    ],
+    "rating": 8.5,
+    "summary": "A former neo-Nazi skinhead tries to prevent his younger brother from going down the same path he did.",
+    "posterUrl": "/posters/american-history-x.jpg"
+  },
+  {
+    "id": "american-psycho",
+    "title": "American Psycho",
+    "year": 2000,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "director": "Mary Harron",
+    "cast": [
+      "Christian Bale",
+      "Justin Theroux",
+      "Josh Lucas",
+      "Reese Witherspoon"
+    ],
+    "rating": 7.6,
+    "summary": "A wealthy New York investment banker hides his psychopathic alter ego from his coworkers and friends.",
+    "posterUrl": "/posters/american-psycho.jpg"
+  },
+  {
+    "id": "apocalypse-now",
+    "title": "Apocalypse Now",
+    "year": 1979,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "War"
+    ],
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Martin Sheen",
+      "Marlon Brando",
+      "Robert Duvall",
+      "Dennis Hopper"
+    ],
+    "rating": 8.4,
+    "summary": "During the Vietnam War, Captain Willard is sent on a dangerous mission up the Nung River into Cambodia to assassinate a renegade colonel.",
+    "posterUrl": "/posters/apocalypse-now.jpg"
+  },
+  {
+    "id": "arrested-development",
+    "title": "Arrested Development",
+    "year": 2003,
+    "endYear": 2019,
+    "type": "tv",
+    "genres": [
+      "Comedy"
+    ],
+    "creators": [
+      "Mitchell Hurwitz"
+    ],
+    "cast": [
+      "Jason Bateman",
+      "Michael Cera",
+      "Portia de Rossi",
+      "Will Arnett",
+      "Jessica Walter"
+    ],
+    "rating": 8.7,
+    "summary": "Michael Bluth finds himself forced to keep his wealthy, dysfunctional family together after the patriarch is imprisoned.",
+    "posterUrl": "/posters/arrested-development.jpg"
+  },
+  {
+    "id": "avatar",
+    "title": "Avatar",
+    "year": 2009,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "director": "James Cameron",
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldana",
+      "Sigourney Weaver",
+      "Stephen Lang"
+    ],
+    "rating": 7.9,
+    "summary": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following orders and protecting the world he feels is his home.",
+    "posterUrl": "/posters/avatar.jpg"
+  },
+  {
+    "id": "avengers-endgame",
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "director": "Anthony Russo",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth",
+      "Scarlett Johansson"
+    ],
+    "rating": 8.4,
+    "summary": "After Thanos' devastating snap, the remaining Avengers assemble one final time to undo the damage and restore balance to the universe.",
+    "posterUrl": "/posters/avengers-endgame.jpg"
+  },
+  {
+    "id": "back-to-the-future",
+    "title": "Back to the Future",
+    "year": 1985,
+    "type": "movie",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "director": "Robert Zemeckis",
+    "cast": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson",
+      "Crispin Glover"
+    ],
+    "rating": 8.5,
+    "summary": "Marty McFly is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his eccentric scientist friend Doc Brown.",
+    "posterUrl": "/posters/back-to-the-future.jpg"
+  },
+  {
+    "id": "batman-begins",
+    "title": "Batman Begins",
+    "year": 2005,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Michael Caine",
+      "Liam Neeson",
+      "Katie Holmes",
+      "Gary Oldman"
+    ],
+    "rating": 8.2,
+    "summary": "After training with his mentor, Bruce Wayne returns to Gotham City and begins his crusade against crime as Batman.",
+    "posterUrl": "/posters/batman-begins.jpg"
+  },
+  {
+    "id": "better-call-saul",
+    "title": "Better Call Saul",
+    "year": 2015,
+    "endYear": 2022,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "creators": [
+      "Vince Gilligan",
+      "Peter Gould"
+    ],
+    "cast": [
+      "Bob Odenkirk",
+      "Rhea Seehorn",
+      "Jonathan Banks",
+      "Michael Mando",
+      "Giancarlo Esposito"
+    ],
+    "rating": 8.9,
+    "summary": "The transformation of Jimmy McGill into the morally compromised lawyer Saul Goodman, set years before the events of Breaking Bad.",
+    "posterUrl": "/posters/better-call-saul.jpg"
+  },
+  {
+    "id": "the-big-lebowski",
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Joel Coen",
+    "cast": [
+      "Jeff Bridges",
+      "John Goodman",
+      "Julianne Moore",
+      "Steve Buscemi"
+    ],
+    "rating": 8.1,
+    "summary": "Laid-back Los Angeles slacker Jeff 'The Dude' Lebowski is mistaken for a millionaire of the same name and gets drawn into a bizarre kidnapping scheme.",
+    "posterUrl": "/posters/the-big-lebowski.jpg"
+  },
+  {
+    "id": "blade-runner",
+    "title": "Blade Runner",
+    "year": 1982,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "Ridley Scott",
+    "cast": [
+      "Harrison Ford",
+      "Rutger Hauer",
+      "Sean Young",
+      "Daryl Hannah"
+    ],
+    "rating": 8.1,
+    "summary": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth seeking their creator.",
+    "posterUrl": "/posters/blade-runner.jpg"
+  },
+  {
+    "id": "blade-runner-2049",
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Ryan Gosling",
+      "Harrison Ford",
+      "Ana de Armas",
+      "Jared Leto"
+    ],
+    "rating": 8,
+    "summary": "Young blade runner K's discovery of a long-buried secret leads him on a quest to find Rick Deckard, a former blade runner who has been missing for thirty years.",
+    "posterUrl": "/posters/blade-runner-2049.jpg"
+  },
+  {
+    "id": "breaking-bad",
+    "title": "Breaking Bad",
+    "year": 2008,
+    "endYear": 2013,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "creators": [
+      "Vince Gilligan"
+    ],
+    "cast": [
+      "Bryan Cranston",
+      "Aaron Paul",
+      "Anna Gunn",
+      "Dean Norris",
+      "Giancarlo Esposito"
+    ],
+    "rating": 9.5,
+    "summary": "A high school chemistry teacher diagnosed with terminal lung cancer turns to manufacturing methamphetamine to secure his family's future.",
+    "isSeed": true,
+    "posterUrl": "/posters/breaking-bad.jpg"
+  },
+  {
+    "id": "braveheart",
+    "title": "Braveheart",
+    "year": 1995,
+    "type": "movie",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "director": "Mel Gibson",
+    "cast": [
+      "Mel Gibson",
+      "Sophie Marceau",
+      "Patrick McGoohan",
+      "Angus Macfadyen"
+    ],
+    "rating": 8.3,
+    "summary": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+    "posterUrl": "/posters/braveheart.jpg"
+  },
+  {
+    "id": "the-breakfast-club",
+    "title": "The Breakfast Club",
+    "year": 1985,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "John Hughes",
+    "cast": [
+      "Emilio Estevez",
+      "Judd Nelson",
+      "Molly Ringwald",
+      "Ally Sheedy",
+      "Anthony Michael Hall"
+    ],
+    "rating": 7.8,
+    "summary": "Five high school students from different social cliques are forced to spend a Saturday in detention, where they discover they have more in common than they thought.",
+    "posterUrl": "/posters/the-breakfast-club.jpg"
+  },
+  {
+    "id": "buffy-the-vampire-slayer",
+    "title": "Buffy the Vampire Slayer",
+    "year": 1997,
+    "endYear": 2003,
+    "type": "tv",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "creators": [
+      "Joss Whedon"
+    ],
+    "cast": [
+      "Sarah Michelle Gellar",
+      "Nicholas Brendon",
+      "Alyson Hannigan",
+      "Anthony Head"
+    ],
+    "rating": 8.3,
+    "summary": "A young woman destined to slay vampires, demons, and other supernatural forces battles evil while navigating the challenges of everyday life.",
+    "posterUrl": "/posters/buffy-the-vampire-slayer.jpg"
+  },
+  {
+    "id": "cast-away",
+    "title": "Cast Away",
+    "year": 2000,
+    "type": "movie",
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Robert Zemeckis",
+    "cast": [
+      "Tom Hanks",
+      "Helen Hunt",
+      "Nick Searcy"
+    ],
+    "rating": 7.8,
+    "summary": "A FedEx executive must transform himself physically and emotionally to survive after a plane crash strands him on a deserted island.",
+    "posterUrl": "/posters/cast-away.jpg"
+  },
+  {
+    "id": "children-of-men",
+    "title": "Children of Men",
+    "year": 2006,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "Alfonso Cuaron",
+    "cast": [
+      "Clive Owen",
+      "Julianne Moore",
+      "Michael Caine",
+      "Chiwetel Ejiofor"
+    ],
+    "rating": 7.9,
+    "summary": "In a chaotic world where humanity has become infertile, a disillusioned bureaucrat is tasked with transporting a miraculously pregnant woman to safety.",
+    "posterUrl": "/posters/children-of-men.jpg"
+  },
+  {
+    "id": "the-dark-knight",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart",
+      "Michael Caine",
+      "Gary Oldman"
+    ],
+    "rating": 9,
+    "summary": "Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice when the menace known as the Joker wreaks havoc on Gotham.",
+    "isSeed": true,
+    "posterUrl": "/posters/the-dark-knight.jpg"
+  },
+  {
+    "id": "coco",
+    "title": "Coco",
+    "year": 2017,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Musical"
+    ],
+    "director": "Lee Unkrich",
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael Garcia Bernal",
+      "Benjamin Bratt"
+    ],
+    "rating": 8.4,
+    "summary": "Aspiring musician Miguel enters the Land of the Dead to find his great-great-grandfather, a legendary singer, and uncovers a family mystery.",
+    "posterUrl": "/posters/coco.jpg"
+  },
+  {
+    "id": "curb-your-enthusiasm",
+    "title": "Curb Your Enthusiasm",
+    "year": 2000,
+    "endYear": 2024,
+    "type": "tv",
+    "genres": [
+      "Comedy"
+    ],
+    "creators": [
+      "Larry David"
+    ],
+    "cast": [
+      "Larry David",
+      "Jeff Garlin",
+      "Cheryl Hines",
+      "Susie Essman",
+      "J.B. Smoove"
+    ],
+    "rating": 8.7,
+    "summary": "Seinfeld co-creator Larry David plays a fictionalized version of himself, stumbling through social situations and confrontations in Los Angeles.",
+    "posterUrl": "/posters/curb-your-enthusiasm.jpg"
+  },
+  {
+    "id": "dark",
+    "title": "Dark",
+    "year": 2017,
+    "endYear": 2020,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "creators": [
+      "Baran bo Odar",
+      "Jantje Friese"
+    ],
+    "cast": [
+      "Louis Hofmann",
+      "Oliver Masucci",
+      "Jordis Triebel",
+      "Lisa Vicari"
+    ],
+    "rating": 8.8,
+    "summary": "A missing child sets four families on a frantic hunt for answers as they uncover a mind-bending mystery that spans three generations.",
+    "posterUrl": "/posters/dark.jpg"
+  },
+  {
+    "id": "the-departed",
+    "title": "The Departed",
+    "year": 2006,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson",
+      "Mark Wahlberg"
+    ],
+    "rating": 8.5,
+    "summary": "An undercover cop and a mole in the police force attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "posterUrl": "/posters/the-departed.jpg"
+  },
+  {
+    "id": "dexter",
+    "title": "Dexter",
+    "year": 2006,
+    "endYear": 2013,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "creators": [
+      "James Manos Jr."
+    ],
+    "cast": [
+      "Michael C. Hall",
+      "Jennifer Carpenter",
+      "David Zayas",
+      "James Remar"
+    ],
+    "rating": 8.7,
+    "summary": "A forensic blood spatter analyst for the Miami police department moonlights as a serial killer who targets other murderers.",
+    "posterUrl": "/posters/dexter.jpg"
+  },
+  {
+    "id": "die-hard",
+    "title": "Die Hard",
+    "year": 1988,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "director": "John McTiernan",
+    "cast": [
+      "Bruce Willis",
+      "Alan Rickman",
+      "Bonnie Bedelia",
+      "Reginald VelJohnson"
+    ],
+    "rating": 8.2,
+    "summary": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza.",
+    "posterUrl": "/posters/die-hard.jpg"
+  },
+  {
+    "id": "django-unchained",
+    "title": "Django Unchained",
+    "year": 2012,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Jamie Foxx",
+      "Christoph Waltz",
+      "Leonardo DiCaprio",
+      "Kerry Washington",
+      "Samuel L. Jackson"
+    ],
+    "rating": 8.4,
+    "summary": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+    "posterUrl": "/posters/django-unchained.jpg"
+  },
+  {
+    "id": "downton-abbey",
+    "title": "Downton Abbey",
+    "year": 2010,
+    "endYear": 2015,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "creators": [
+      "Julian Fellowes"
+    ],
+    "cast": [
+      "Hugh Bonneville",
+      "Maggie Smith",
+      "Michelle Dockery",
+      "Jim Carter"
+    ],
+    "rating": 8.7,
+    "summary": "The lives of the aristocratic Crawley family and their servants in the post-Edwardian era, chronicling great events in history and social upheaval.",
+    "posterUrl": "/posters/downton-abbey.jpg"
+  },
+  {
+    "id": "dune",
+    "title": "Dune",
+    "year": 2021,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Timothee Chalamet",
+      "Rebecca Ferguson",
+      "Oscar Isaac",
+      "Zendaya",
+      "Jason Momoa"
+    ],
+    "rating": 8,
+    "summary": "Paul Atreides, a brilliant and gifted young man, must travel to the most dangerous planet in the universe to ensure the future of his family and his people.",
+    "posterUrl": "/posters/dune.jpg"
+  },
+  {
+    "id": "et-the-extra-terrestrial",
+    "title": "E.T. the Extra-Terrestrial",
+    "year": 1982,
+    "type": "movie",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Sci-Fi"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Henry Thomas",
+      "Drew Barrymore",
+      "Dee Wallace",
+      "Robert MacNaughton"
+    ],
+    "rating": 7.9,
+    "summary": "A troubled child summons the courage to help a friendly alien escape Earth and return to his home planet.",
+    "posterUrl": "/posters/et-the-extra-terrestrial.jpg"
+  },
+  {
+    "id": "eternal-sunshine-of-the-spotless-mind",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "director": "Michel Gondry",
+    "cast": [
+      "Jim Carrey",
+      "Kate Winslet",
+      "Kirsten Dunst",
+      "Tom Wilkinson",
+      "Elijah Wood"
+    ],
+    "rating": 8.3,
+    "summary": "When a couple undergo a medical procedure to erase each other from their memories, Joel discovers mid-process that he wants to hold on to the fading traces of Clementine.",
+    "posterUrl": "/posters/eternal-sunshine-of-the-spotless-mind.jpg"
+  },
+  {
+    "id": "everything-everywhere-all-at-once",
+    "title": "Everything Everywhere All at Once",
+    "year": 2022,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "director": "Daniel Kwan",
+    "cast": [
+      "Michelle Yeoh",
+      "Stephanie Hsu",
+      "Ke Huy Quan",
+      "Jamie Lee Curtis"
+    ],
+    "rating": 8,
+    "summary": "A middle-aged Chinese immigrant is swept up in an insane adventure where she alone can save existence by exploring other universes and connecting with the lives she could have led.",
+    "posterUrl": "/posters/everything-everywhere-all-at-once.jpg"
+  },
+  {
+    "id": "fargo",
+    "title": "Fargo",
+    "year": 1996,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Joel Coen",
+    "cast": [
+      "Frances McDormand",
+      "William H. Macy",
+      "Steve Buscemi",
+      "Peter Stormare"
+    ],
+    "rating": 8.1,
+    "summary": "Minnesota car salesman Jerry Lundegaard's botched kidnapping scheme unravels when a pregnant police chief investigates a series of roadside homicides.",
+    "posterUrl": "/posters/fargo.jpg"
+  },
+  {
+    "id": "fargo-tv",
+    "title": "Fargo",
+    "year": 2014,
+    "endYear": 2024,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "creators": [
+      "Noah Hawley"
+    ],
+    "cast": [
+      "Billy Bob Thornton",
+      "Martin Freeman",
+      "Allison Tolman",
+      "Chris Rock"
+    ],
+    "rating": 8.9,
+    "summary": "An anthology series inspired by the Coen Brothers film, exploring various tales of crime, deception, and murder in the American Midwest.",
+    "posterUrl": "/posters/fargo-tv.jpg"
+  },
+  {
+    "id": "fight-club",
+    "title": "Fight Club",
+    "year": 1999,
+    "type": "movie",
+    "genres": [
+      "Drama"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter",
+      "Meat Loaf"
+    ],
+    "rating": 8.8,
+    "summary": "An insomniac office worker and a reckless soap salesman form an underground fight club that evolves into an anarchist movement.",
+    "isSeed": true,
+    "posterUrl": "/posters/fight-club.jpg"
+  },
+  {
+    "id": "finding-nemo",
+    "title": "Finding Nemo",
+    "year": 2003,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Andrew Stanton",
+    "cast": [
+      "Albert Brooks",
+      "Ellen DeGeneres",
+      "Alexander Gould",
+      "Willem Dafoe"
+    ],
+    "rating": 8.2,
+    "summary": "After his son is captured and taken to Sydney, a timid clownfish sets out on a journey across the ocean to bring him home.",
+    "posterUrl": "/posters/finding-nemo.jpg"
+  },
+  {
+    "id": "fleabag",
+    "title": "Fleabag",
+    "year": 2016,
+    "endYear": 2019,
+    "type": "tv",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "creators": [
+      "Phoebe Waller-Bridge"
+    ],
+    "cast": [
+      "Phoebe Waller-Bridge",
+      "Sian Clifford",
+      "Olivia Colman",
+      "Andrew Scott"
+    ],
+    "rating": 8.7,
+    "summary": "A dry-witted, sexually voracious young woman navigates life in London while breaking the fourth wall to guide the audience through her chaotic existence.",
+    "posterUrl": "/posters/fleabag.jpg"
+  },
+  {
+    "id": "forrest-gump",
+    "title": "Forrest Gump",
+    "year": 1994,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Robert Zemeckis",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Sally Field"
+    ],
+    "rating": 8.8,
+    "summary": "The presidencies of Kennedy and Johnson, the Vietnam War, Watergate, and other historical events unfold through the perspective of an Alabama man with a low IQ.",
+    "isSeed": true,
+    "posterUrl": "/posters/forrest-gump.jpg"
+  },
+  {
+    "id": "friends",
+    "title": "Friends",
+    "year": 1994,
+    "endYear": 2004,
+    "type": "tv",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "creators": [
+      "David Crane",
+      "Marta Kauffman"
+    ],
+    "cast": [
+      "Jennifer Aniston",
+      "Courteney Cox",
+      "Lisa Kudrow",
+      "Matt LeBlanc",
+      "Matthew Perry"
+    ],
+    "rating": 8.9,
+    "summary": "Six young friends navigate the trials and tribulations of life, love, and careers while living in Manhattan.",
+    "posterUrl": "/posters/friends.jpg"
+  },
+  {
+    "id": "frozen",
+    "title": "Frozen",
+    "year": 2013,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Musical"
+    ],
+    "director": "Chris Buck",
+    "cast": [
+      "Kristen Bell",
+      "Idina Menzel",
+      "Josh Gad",
+      "Jonathan Groff"
+    ],
+    "rating": 7.4,
+    "summary": "When the newly crowned Queen Elsa accidentally uses her power to turn things into ice, her sister Anna must team up with a rugged iceman to set things right.",
+    "posterUrl": "/posters/frozen.jpg"
+  },
+  {
+    "id": "game-of-thrones",
+    "title": "Game of Thrones",
+    "year": 2011,
+    "endYear": 2019,
+    "type": "tv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "creators": [
+      "David Benioff",
+      "D.B. Weiss"
+    ],
+    "cast": [
+      "Emilia Clarke",
+      "Kit Harington",
+      "Peter Dinklage",
+      "Lena Headey",
+      "Nikolaj Coster-Waldau"
+    ],
+    "rating": 9.2,
+    "summary": "Nine noble families fight for control over the lands of Westeros while an ancient enemy returns after being dormant for millennia.",
+    "isSeed": true,
+    "posterUrl": "/posters/game-of-thrones.jpg"
+  },
+  {
+    "id": "get-out",
+    "title": "Get Out",
+    "year": 2017,
+    "type": "movie",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Jordan Peele",
+    "cast": [
+      "Daniel Kaluuya",
+      "Allison Williams",
+      "Bradley Whitford",
+      "Catherine Keener"
+    ],
+    "rating": 7.7,
+    "summary": "A young African-American visits his white girlfriend's parents for the weekend, only to uncover a disturbing secret about the family's estate.",
+    "posterUrl": "/posters/get-out.jpg"
+  },
+  {
+    "id": "gladiator",
+    "title": "Gladiator",
+    "year": 2000,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Ridley Scott",
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen",
+      "Oliver Reed"
+    ],
+    "rating": 8.5,
+    "summary": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "posterUrl": "/posters/gladiator.jpg"
+  },
+  {
+    "id": "the-godfather",
+    "title": "The Godfather",
+    "year": 1972,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan",
+      "Robert Duvall",
+      "Diane Keaton"
+    ],
+    "rating": 9.2,
+    "summary": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant youngest son.",
+    "isSeed": true,
+    "posterUrl": "/posters/the-godfather.jpg"
+  },
+  {
+    "id": "the-godfather-part-ii",
+    "title": "The Godfather Part II",
+    "year": 1974,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Robert Duvall",
+      "Diane Keaton",
+      "John Cazale"
+    ],
+    "rating": 9,
+    "summary": "The early life and career of Vito Corleone in 1920s New York is portrayed alongside his son Michael's struggle to expand and protect the family business.",
+    "posterUrl": "/posters/the-godfather-part-ii.jpg"
+  },
+  {
+    "id": "goodfellas",
+    "title": "GoodFellas",
+    "year": 1990,
+    "type": "movie",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco"
+    ],
+    "rating": 8.7,
+    "summary": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
+    "isSeed": true,
+    "posterUrl": "/posters/goodfellas.jpg"
+  },
+  {
+    "id": "the-good-the-bad-and-the-ugly",
+    "title": "The Good, the Bad and the Ugly",
+    "year": 1966,
+    "type": "movie",
+    "genres": [
+      "Adventure",
+      "Western"
+    ],
+    "director": "Sergio Leone",
+    "cast": [
+      "Clint Eastwood",
+      "Eli Wallach",
+      "Lee Van Cleef"
+    ],
+    "rating": 8.8,
+    "summary": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+    "posterUrl": "/posters/the-good-the-bad-and-the-ugly.jpg"
+  },
+  {
+    "id": "inception",
+    "title": "Inception",
+    "year": 2010,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy",
+      "Ken Watanabe"
+    ],
+    "rating": 8.8,
+    "summary": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+    "isSeed": true,
+    "posterUrl": "/posters/inception.jpg"
+  },
+  {
+    "id": "pulp-fiction",
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson",
+      "Bruce Willis",
+      "Tim Roth"
+    ],
+    "rating": 8.9,
+    "summary": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "isSeed": true,
+    "posterUrl": "/posters/pulp-fiction.jpg"
+  },
+  {
+    "id": "the-shawshank-redemption",
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "type": "movie",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Frank Darabont",
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton",
+      "Clancy Brown"
+    ],
+    "rating": 9.3,
+    "summary": "A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and secretly engineering his escape.",
+    "isSeed": true,
+    "posterUrl": "/posters/the-shawshank-redemption.jpg"
+  },
+  {
+    "id": "the-matrix",
+    "title": "The Matrix",
+    "year": 1999,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "director": "Lana Wachowski",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "rating": 8.7,
+    "summary": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "isSeed": true,
+    "posterUrl": "/posters/the-matrix.jpg"
+  },
+  {
+    "id": "stranger-things",
+    "title": "Stranger Things",
+    "year": 2016,
+    "endYear": 2025,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "creators": [
+      "Matt Duffer",
+      "Ross Duffer"
+    ],
+    "cast": [
+      "Millie Bobby Brown",
+      "Finn Wolfhard",
+      "Winona Ryder",
+      "David Harbour",
+      "Gaten Matarazzo"
+    ],
+    "rating": 8.7,
+    "summary": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and a strange little girl.",
+    "isSeed": true,
+    "posterUrl": "/posters/stranger-things.jpg"
+  },
+  {
+    "id": "a-clockwork-orange",
+    "title": "A Clockwork Orange",
+    "year": 1971,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Malcolm McDowell",
+      "Patrick Magee",
+      "Michael Bates"
+    ],
+    "rating": 8.3,
+    "summary": "In a dystopian future Britain, a sadistic gang leader is imprisoned and volunteers for a controversial government rehabilitation experiment.",
+    "posterUrl": "/posters/a-clockwork-orange.jpg"
+  },
+  {
+    "id": "a-beautiful-mind",
+    "title": "A Beautiful Mind",
+    "year": 2001,
+    "type": "movie",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "director": "Ron Howard",
+    "cast": [
+      "Russell Crowe",
+      "Ed Harris",
+      "Jennifer Connelly",
+      "Paul Bettany"
+    ],
+    "rating": 8.2,
+    "summary": "After John Nash, a brilliant mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish as he battles schizophrenia.",
+    "posterUrl": "/posters/a-beautiful-mind.jpg"
+  },
+  {
+    "id": "the-big-short",
+    "title": "The Big Short",
+    "year": 2015,
+    "type": "movie",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Adam McKay",
+    "cast": [
+      "Christian Bale",
+      "Steve Carell",
+      "Ryan Gosling",
+      "Brad Pitt"
+    ],
+    "rating": 7.8,
+    "summary": "A group of misfit investors discover the impending collapse of the housing market and bet against the big banks in the years leading up to the 2008 financial crisis.",
+    "posterUrl": "/posters/the-big-short.jpg"
+  },
+  {
+    "id": "black-mirror",
+    "title": "Black Mirror",
+    "year": 2011,
+    "endYear": 2025,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "creators": [
+      "Charlie Brooker"
+    ],
+    "cast": [
+      "Daniel Kaluuya",
+      "Bryce Dallas Howard",
+      "Jon Hamm",
+      "Hayley Atwell"
+    ],
+    "rating": 8.7,
+    "summary": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+    "posterUrl": "/posters/black-mirror.jpg"
+  },
+  {
+    "id": "black-panther",
+    "title": "Black Panther",
+    "year": 2018,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Ryan Coogler",
+    "cast": [
+      "Chadwick Boseman",
+      "Michael B. Jordan",
+      "Lupita Nyong'o",
+      "Danai Gurira"
+    ],
+    "rating": 7.3,
+    "summary": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and confront a challenger from his father's past.",
+    "posterUrl": "/posters/black-panther.jpg"
+  },
+  {
+    "id": "the-boys",
+    "title": "The Boys",
+    "year": 2019,
+    "endYear": 2026,
+    "type": "tv",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Sci-Fi"
+    ],
+    "creators": [
+      "Eric Kripke"
+    ],
+    "cast": [
+      "Karl Urban",
+      "Jack Quaid",
+      "Antony Starr",
+      "Erin Moriarty"
+    ],
+    "rating": 8.7,
+    "summary": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers for personal gain and corporate profit.",
+    "posterUrl": "/posters/the-boys.jpg"
+  },
+  {
+    "id": "casablanca",
+    "title": "Casablanca",
+    "year": 1942,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "director": "Michael Curtiz",
+    "cast": [
+      "Humphrey Bogart",
+      "Ingrid Bergman",
+      "Paul Henreid",
+      "Claude Rains"
+    ],
+    "rating": 8.5,
+    "summary": "A cynical expatriate American cafe owner struggles with whether to help his former lover and her husband escape the Nazis in French Morocco.",
+    "posterUrl": "/posters/casablanca.jpg"
+  },
+  {
+    "id": "chinatown",
+    "title": "Chinatown",
+    "year": 1974,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Roman Polanski",
+    "cast": [
+      "Jack Nicholson",
+      "Faye Dunaway",
+      "John Huston"
+    ],
+    "rating": 8.2,
+    "summary": "A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.",
+    "posterUrl": "/posters/chinatown.jpg"
+  },
+  {
+    "id": "city-of-god",
+    "title": "City of God",
+    "year": 2002,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Fernando Meirelles",
+    "cast": [
+      "Alexandre Rodrigues",
+      "Leandro Firmino",
+      "Matheus Nachtergaele"
+    ],
+    "rating": 8.6,
+    "summary": "In the slums of Rio de Janeiro, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+    "posterUrl": "/posters/city-of-god.jpg"
+  },
+  {
+    "id": "the-crown",
+    "title": "The Crown",
+    "year": 2016,
+    "endYear": 2023,
+    "type": "tv",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "creators": [
+      "Peter Morgan"
+    ],
+    "cast": [
+      "Claire Foy",
+      "Olivia Colman",
+      "Imelda Staunton",
+      "Matt Smith"
+    ],
+    "rating": 8.6,
+    "summary": "Chronicles the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the twentieth century.",
+    "posterUrl": "/posters/the-crown.jpg"
+  },
+  {
+    "id": "deadpool",
+    "title": "Deadpool",
+    "year": 2016,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "Tim Miller",
+    "cast": [
+      "Ryan Reynolds",
+      "Morena Baccarin",
+      "Ed Skrein",
+      "T.J. Miller"
+    ],
+    "rating": 8,
+    "summary": "A wisecracking mercenary gets experimented on and becomes immortal yet horribly scarred, then hunts down the man who ruined his looks.",
+    "posterUrl": "/posters/deadpool.jpg"
+  },
+  {
+    "id": "the-deer-hunter",
+    "title": "The Deer Hunter",
+    "year": 1978,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "director": "Michael Cimino",
+    "cast": [
+      "Robert De Niro",
+      "Christopher Walken",
+      "Meryl Streep",
+      "John Savage"
+    ],
+    "rating": 8.1,
+    "summary": "An in-depth examination of the ways in which the Vietnam War impacts the lives of people in a small steel mill town in Pennsylvania.",
+    "posterUrl": "/posters/the-deer-hunter.jpg"
+  },
+  {
+    "id": "doctor-strange",
+    "title": "Doctor Strange",
+    "year": 2016,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "Scott Derrickson",
+    "cast": [
+      "Benedict Cumberbatch",
+      "Chiwetel Ejiofor",
+      "Rachel McAdams",
+      "Tilda Swinton"
+    ],
+    "rating": 7.5,
+    "summary": "A brilliant neurosurgeon discovers the hidden world of sorcery after a devastating car accident and must use his new abilities to protect the Earth.",
+    "posterUrl": "/posters/doctor-strange.jpg"
+  },
+  {
+    "id": "drive",
+    "title": "Drive",
+    "year": 2011,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Nicolas Winding Refn",
+    "cast": [
+      "Ryan Gosling",
+      "Carey Mulligan",
+      "Bryan Cranston",
+      "Albert Brooks",
+      "Oscar Isaac"
+    ],
+    "rating": 7.8,
+    "summary": "A mysterious Hollywood stuntman and getaway driver lands himself in trouble when he helps out his neighbor's husband in a botched heist.",
+    "posterUrl": "/posters/drive.jpg"
+  },
+  {
+    "id": "dune-part-two",
+    "title": "Dune: Part Two",
+    "year": 2024,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Timothee Chalamet",
+      "Zendaya",
+      "Austin Butler",
+      "Florence Pugh",
+      "Javier Bardem"
+    ],
+    "rating": 8.5,
+    "summary": "Paul Atreides unites with the Fremen to wage war against the conspirators who destroyed his family while trying to prevent a terrible future only he can foresee.",
+    "posterUrl": "/posters/dune-part-two.jpg"
+  },
+  {
+    "id": "elf",
+    "title": "Elf",
+    "year": 2003,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Jon Favreau",
+    "cast": [
+      "Will Ferrell",
+      "James Caan",
+      "Zooey Deschanel",
+      "Mary Steenburgen"
+    ],
+    "rating": 7.1,
+    "summary": "After discovering he is a human raised by elves at the North Pole, Buddy travels to New York City to find his biological father.",
+    "posterUrl": "/posters/elf.jpg"
+  },
+  {
+    "id": "the-exorcist",
+    "title": "The Exorcist",
+    "year": 1973,
+    "type": "movie",
+    "genres": [
+      "Horror"
+    ],
+    "director": "William Friedkin",
+    "cast": [
+      "Ellen Burstyn",
+      "Max von Sydow",
+      "Linda Blair",
+      "Jason Miller"
+    ],
+    "rating": 8.1,
+    "summary": "When a young girl is possessed by a mysterious entity, her mother seeks the help of two Catholic priests to save her.",
+    "posterUrl": "/posters/the-exorcist.jpg"
+  },
+  {
+    "id": "the-favourite",
+    "title": "The Favourite",
+    "year": 2018,
+    "type": "movie",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama",
+      "History"
+    ],
+    "director": "Yorgos Lanthimos",
+    "cast": [
+      "Olivia Colman",
+      "Emma Stone",
+      "Rachel Weisz"
+    ],
+    "rating": 7.5,
+    "summary": "In early 18th century England, a new servant arrives at Court and soon becomes a rival to the Queen's close friend for influence and affection.",
+    "posterUrl": "/posters/the-favourite.jpg"
+  },
+  {
+    "id": "ferris-buellers-day-off",
+    "title": "Ferris Bueller's Day Off",
+    "year": 1986,
+    "type": "movie",
+    "genres": [
+      "Comedy"
+    ],
+    "director": "John Hughes",
+    "cast": [
+      "Matthew Broderick",
+      "Alan Ruck",
+      "Mia Sara",
+      "Jeffrey Jones"
+    ],
+    "rating": 7.8,
+    "summary": "A high school wise guy is determined to have a day off from school, despite what the principal thinks of that.",
+    "posterUrl": "/posters/ferris-buellers-day-off.jpg"
+  },
+  {
+    "id": "full-metal-jacket",
+    "title": "Full Metal Jacket",
+    "year": 1987,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Matthew Modine",
+      "R. Lee Ermey",
+      "Vincent D'Onofrio",
+      "Adam Baldwin"
+    ],
+    "rating": 8.3,
+    "summary": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their boot camp training to the Tet Offensive.",
+    "posterUrl": "/posters/full-metal-jacket.jpg"
+  },
+  {
+    "id": "mad-max-fury-road",
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "George Miller",
+    "cast": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult",
+      "Hugh Keays-Byrne"
+    ],
+    "rating": 8.1,
+    "summary": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search of her homeland with the help of a drifter named Max.",
+    "posterUrl": "/posters/mad-max-fury-road.jpg"
+  },
+  {
+    "id": "ghostbusters",
+    "title": "Ghostbusters",
+    "year": 1984,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "director": "Ivan Reitman",
+    "cast": [
+      "Bill Murray",
+      "Dan Aykroyd",
+      "Sigourney Weaver",
+      "Harold Ramis"
+    ],
+    "rating": 7.8,
+    "summary": "Three former parapsychology professors set up shop as a unique ghost removal service in New York City.",
+    "posterUrl": "/posters/ghostbusters.jpg"
+  },
+  {
+    "id": "the-good-place",
+    "title": "The Good Place",
+    "year": 2016,
+    "endYear": 2020,
+    "type": "tv",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "creators": [
+      "Michael Schur"
+    ],
+    "cast": [
+      "Kristen Bell",
+      "Ted Danson",
+      "William Jackson Harper",
+      "Jameela Jamil",
+      "D'Arcy Carden"
+    ],
+    "rating": 8.2,
+    "summary": "When Eleanor Shellstrop finds herself in the afterlife, she must hide the fact that she doesn't belong there while learning to become a better person.",
+    "posterUrl": "/posters/the-good-place.jpg"
+  },
+  {
+    "id": "grease",
+    "title": "Grease",
+    "year": 1978,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "director": "Randal Kleiser",
+    "cast": [
+      "John Travolta",
+      "Olivia Newton-John",
+      "Stockard Channing",
+      "Jeff Conaway"
+    ],
+    "rating": 7.2,
+    "summary": "Good girl Sandy and greaser Danny must navigate peer pressure and their differences to rekindle their summer romance during their senior year.",
+    "posterUrl": "/posters/grease.jpg"
+  },
+  {
+    "id": "the-grand-budapest-hotel",
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "type": "movie",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Wes Anderson",
+    "cast": [
+      "Ralph Fiennes",
+      "F. Murray Abraham",
+      "Tony Revolori",
+      "Saoirse Ronan"
+    ],
+    "rating": 8.1,
+    "summary": "A legendary concierge at a famous European hotel between the wars and his protege become embroiled in the theft and recovery of a priceless painting.",
+    "posterUrl": "/posters/the-grand-budapest-hotel.jpg"
+  },
+  {
+    "id": "gravity",
+    "title": "Gravity",
+    "year": 2013,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "Alfonso Cuaron",
+    "cast": [
+      "Sandra Bullock",
+      "George Clooney",
+      "Ed Harris"
+    ],
+    "rating": 7.7,
+    "summary": "Two astronauts work together to survive after an accident leaves them stranded in space with dwindling resources and no link to Earth.",
+    "posterUrl": "/posters/gravity.jpg"
+  },
+  {
+    "id": "the-green-mile",
+    "title": "The Green Mile",
+    "year": 1999,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "director": "Frank Darabont",
+    "cast": [
+      "Tom Hanks",
+      "Michael Clarke Duncan",
+      "David Morse",
+      "Sam Rockwell"
+    ],
+    "rating": 8.6,
+    "summary": "The lives of guards on Death Row are affected by one of their charges: a gentle giant of a man convicted of child murder who possesses a mysterious gift.",
+    "posterUrl": "/posters/the-green-mile.jpg"
+  },
+  {
+    "id": "groundhog-day",
+    "title": "Groundhog Day",
+    "year": 1993,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "director": "Harold Ramis",
+    "cast": [
+      "Bill Murray",
+      "Andie MacDowell",
+      "Chris Elliott"
+    ],
+    "rating": 8,
+    "summary": "A cynical TV weatherman finds himself reliving the same day over and over again in a small Pennsylvania town, and must learn to take stock of his life.",
+    "posterUrl": "/posters/groundhog-day.jpg"
+  },
+  {
+    "id": "atlanta",
+    "title": "Atlanta",
+    "year": 2016,
+    "endYear": 2022,
+    "type": "tv",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "creators": [
+      "Donald Glover"
+    ],
+    "cast": [
+      "Donald Glover",
+      "Brian Tyree Henry",
+      "LaKeith Stanfield",
+      "Zazie Beetz"
+    ],
+    "rating": 8.6,
+    "summary": "Two cousins navigate the Atlanta rap scene in an effort to improve their lives and the lives of their families.",
+    "posterUrl": "/posters/atlanta.jpg"
+  },
+  {
+    "id": "the-bear",
+    "title": "The Bear",
+    "year": 2022,
+    "type": "tv",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "creators": [
+      "Christopher Storer"
+    ],
+    "cast": [
+      "Jeremy Allen White",
+      "Ayo Edebiri",
+      "Ebon Moss-Bachrach",
+      "Abby Elliott"
+    ],
+    "rating": 8.6,
+    "summary": "A young chef from the fine dining world returns to Chicago to run his family's sandwich shop after a tragedy.",
+    "posterUrl": "/posters/the-bear.jpg"
+  },
+  {
+    "id": "the-conjuring",
+    "title": "The Conjuring",
+    "year": 2013,
+    "type": "movie",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "James Wan",
+    "cast": [
+      "Vera Farmiga",
+      "Patrick Wilson",
+      "Lili Taylor",
+      "Ron Livingston"
+    ],
+    "rating": 7.5,
+    "summary": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+    "posterUrl": "/posters/the-conjuring.jpg"
+  },
+  {
+    "id": "daredevil",
+    "title": "Daredevil",
+    "year": 2015,
+    "endYear": 2018,
+    "type": "tv",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "creators": [
+      "Drew Goddard"
+    ],
+    "cast": [
+      "Charlie Cox",
+      "Vincent D'Onofrio",
+      "Deborah Ann Woll",
+      "Elden Henson"
+    ],
+    "rating": 8.6,
+    "summary": "A blind lawyer by day battles crime at night on the streets of Hell's Kitchen as the vigilante known as Daredevil.",
+    "posterUrl": "/posters/daredevil.jpg"
+  },
+  {
+    "id": "the-empire-strikes-back",
+    "title": "The Empire Strikes Back",
+    "year": 1980,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "director": "Irvin Kershner",
+    "cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Billy Dee Williams"
+    ],
+    "rating": 8.7,
+    "summary": "After the Rebels are overpowered by the Empire, Luke Skywalker begins Jedi training with Yoda while his friends are pursued across the galaxy by Darth Vader.",
+    "posterUrl": "/posters/the-empire-strikes-back.jpg"
+  },
+  {
+    "id": "the-expanse",
+    "title": "The Expanse",
+    "year": 2015,
+    "endYear": 2022,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "creators": [
+      "Mark Fergus",
+      "Hawk Ostby"
+    ],
+    "cast": [
+      "Steven Strait",
+      "Dominique Tipper",
+      "Wes Chatham",
+      "Shohreh Aghdashloo"
+    ],
+    "rating": 8.5,
+    "summary": "In a future where humanity has colonized the solar system, a detective and a ship's officer uncover a conspiracy that threatens the system's fragile peace.",
+    "posterUrl": "/posters/the-expanse.jpg"
+  },
+  {
+    "id": "the-grand-tour",
+    "title": "The Grand Tour",
+    "year": 2016,
+    "endYear": 2024,
+    "type": "tv",
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "creators": [
+      "Jeremy Clarkson",
+      "Richard Hammond",
+      "James May"
+    ],
+    "cast": [
+      "Jeremy Clarkson",
+      "Richard Hammond",
+      "James May"
+    ],
+    "rating": 8.6,
+    "summary": "Three motoring enthusiasts travel across the globe on a series of wild car-based adventures.",
+    "posterUrl": "/posters/the-grand-tour.jpg"
+  },
+  {
+    "id": "bridesmaids",
+    "title": "Bridesmaids",
+    "year": 2011,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Paul Feig",
+    "cast": [
+      "Kristen Wiig",
+      "Maya Rudolph",
+      "Rose Byrne",
+      "Melissa McCarthy"
+    ],
+    "rating": 6.8,
+    "summary": "A woman's life unravels as she leads her best friend's bridesmaids in a series of increasingly disastrous pre-wedding events.",
+    "posterUrl": "/posters/bridesmaids.jpg"
+  },
+  {
+    "id": "edge-of-tomorrow",
+    "title": "Edge of Tomorrow",
+    "year": 2014,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Doug Liman",
+    "cast": [
+      "Tom Cruise",
+      "Emily Blunt",
+      "Bill Paxton",
+      "Brendan Gleeson"
+    ],
+    "rating": 7.9,
+    "summary": "A soldier fighting aliens gets to relive the same day over and over again, with each death resetting the loop and bringing him one step closer to defeating the enemy.",
+    "posterUrl": "/posters/edge-of-tomorrow.jpg"
+  },
+  {
+    "id": "fantastic-mr-fox",
+    "title": "Fantastic Mr. Fox",
+    "year": 2009,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Wes Anderson",
+    "cast": [
+      "George Clooney",
+      "Meryl Streep",
+      "Jason Schwartzman",
+      "Bill Murray"
+    ],
+    "rating": 7.9,
+    "summary": "An urbane fox cannot resist returning to his farm-raiding ways, and must help his community survive three vengeful farmers.",
+    "posterUrl": "/posters/fantastic-mr-fox.jpg"
+  },
+  {
+    "id": "gone-girl",
+    "title": "Gone Girl",
+    "year": 2014,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Ben Affleck",
+      "Rosamund Pike",
+      "Neil Patrick Harris",
+      "Tyler Perry"
+    ],
+    "rating": 8.1,
+    "summary": "With his wife's disappearance having become a media circus, a man sees the spotlight turned on him when it appears he may not be innocent.",
+    "posterUrl": "/posters/gone-girl.jpg"
+  },
+  {
+    "id": "good-will-hunting",
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Gus Van Sant",
+    "cast": [
+      "Robin Williams",
+      "Matt Damon",
+      "Ben Affleck",
+      "Minnie Driver"
+    ],
+    "rating": 8.3,
+    "summary": "A janitor at MIT has a gift for mathematics but needs help from a psychologist to find direction in his life.",
+    "posterUrl": "/posters/good-will-hunting.jpg"
+  },
+  {
+    "id": "the-goonies",
+    "title": "The Goonies",
+    "year": 1985,
+    "type": "movie",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "director": "Richard Donner",
+    "cast": [
+      "Sean Astin",
+      "Josh Brolin",
+      "Jeff Cohen",
+      "Corey Feldman"
+    ],
+    "rating": 7.7,
+    "summary": "A group of young misfits discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure.",
+    "posterUrl": "/posters/the-goonies.jpg"
+  },
+  {
+    "id": "the-graduate",
+    "title": "The Graduate",
+    "year": 1967,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Mike Nichols",
+    "cast": [
+      "Dustin Hoffman",
+      "Anne Bancroft",
+      "Katharine Ross"
+    ],
+    "rating": 8,
+    "summary": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+    "posterUrl": "/posters/the-graduate.jpg"
+  },
+  {
+    "id": "deadwood",
+    "title": "Deadwood",
+    "year": 2004,
+    "endYear": 2006,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "History",
+      "Western"
+    ],
+    "creators": [
+      "David Milch"
+    ],
+    "cast": [
+      "Timothy Olyphant",
+      "Ian McShane",
+      "Molly Parker",
+      "Brad Dourif"
+    ],
+    "rating": 8.6,
+    "summary": "A show set in the late 1800s that charts the growth of Deadwood, South Dakota from a lawless camp to a functioning, Wild West town.",
+    "posterUrl": "/posters/deadwood.jpg"
+  },
+  {
+    "id": "ex-machina",
+    "title": "Ex Machina",
+    "year": 2014,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "Alex Garland",
+    "cast": [
+      "Alicia Vikander",
+      "Domhnall Gleeson",
+      "Oscar Isaac"
+    ],
+    "rating": 7.7,
+    "summary": "A young programmer is selected to participate in a groundbreaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced AI.",
+    "posterUrl": "/posters/ex-machina.jpg"
+  },
+  {
+    "id": "the-french-connection",
+    "title": "The French Connection",
+    "year": 1971,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "William Friedkin",
+    "cast": [
+      "Gene Hackman",
+      "Roy Scheider",
+      "Fernando Rey"
+    ],
+    "rating": 7.7,
+    "summary": "A pair of NYC cops in the narcotics bureau stumble onto a drug smuggling ring based in Marseille and try to bring down the mastermind behind it.",
+    "posterUrl": "/posters/the-french-connection.jpg"
+  },
+  {
+    "id": "friday-night-lights",
+    "title": "Friday Night Lights",
+    "year": 2006,
+    "endYear": 2011,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "creators": [
+      "Peter Berg"
+    ],
+    "cast": [
+      "Kyle Chandler",
+      "Connie Britton",
+      "Taylor Kitsch",
+      "Jesse Plemons"
+    ],
+    "rating": 8.6,
+    "summary": "A drama set around a Texas high school football team and how their small town revolves around them, exploring family, community, and ambition.",
+    "posterUrl": "/posters/friday-night-lights.jpg"
+  },
+  {
+    "id": "the-gilded-age",
+    "title": "The Gilded Age",
+    "year": 2022,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "creators": [
+      "Julian Fellowes"
+    ],
+    "cast": [
+      "Carrie Coon",
+      "Morgan Spector",
+      "Louisa Jacobson",
+      "Christine Baranski"
+    ],
+    "rating": 7.8,
+    "summary": "A young woman from rural Pennsylvania moves in with her wealthy aunts in 1880s New York, where she becomes enmeshed in a social war between old and new money.",
+    "posterUrl": "/posters/the-gilded-age.jpg"
+  },
+  {
+    "id": "creed",
+    "title": "Creed",
+    "year": 2015,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "director": "Ryan Coogler",
+    "cast": [
+      "Michael B. Jordan",
+      "Sylvester Stallone",
+      "Tessa Thompson"
+    ],
+    "rating": 7.6,
+    "summary": "The son of Apollo Creed seeks out Rocky Balboa to train him and help him pursue his dream of becoming a boxing champion.",
+    "posterUrl": "/posters/creed.jpg"
+  },
+  {
+    "id": "community",
+    "title": "Community",
+    "year": 2009,
+    "endYear": 2015,
+    "type": "tv",
+    "genres": [
+      "Comedy"
+    ],
+    "creators": [
+      "Dan Harmon"
+    ],
+    "cast": [
+      "Joel McHale",
+      "Danny Pudi",
+      "Alison Brie",
+      "Donald Glover",
+      "Gillian Jacobs"
+    ],
+    "rating": 8.5,
+    "summary": "A suspended lawyer is forced to enroll in a community college and discovers an unlikely group of friends with whom he forms a study group.",
+    "posterUrl": "/posters/community.jpg"
+  },
+  {
+    "id": "the-dark-knight-rises",
+    "title": "The Dark Knight Rises",
+    "year": 2012,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Tom Hardy",
+      "Anne Hathaway",
+      "Gary Oldman",
+      "Joseph Gordon-Levitt"
+    ],
+    "rating": 8.4,
+    "summary": "Eight years after the Joker's reign of anarchy, Batman is forced out of exile to save Gotham City from the brutal guerrilla terrorist Bane.",
+    "posterUrl": "/posters/the-dark-knight-rises.jpg"
+  },
+  {
+    "id": "dungeons-and-dragons-honor-among-thieves",
+    "title": "Dungeons & Dragons: Honor Among Thieves",
+    "year": 2023,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "director": "Jonathan Goldstein",
+    "cast": [
+      "Chris Pine",
+      "Michelle Rodriguez",
+      "Hugh Grant",
+      "Rege-Jean Page"
+    ],
+    "rating": 7.3,
+    "summary": "A charming thief and his band of unlikely adventurers embark on an epic heist to recover a lost relic, but things go dangerously awry.",
+    "posterUrl": "/posters/dungeons-and-dragons-honor-among-thieves.jpg"
+  },
+  {
+    "id": "chernobyl",
+    "title": "Chernobyl",
+    "year": 2019,
+    "endYear": 2019,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "creators": [
+      "Craig Mazin"
+    ],
+    "cast": [
+      "Jared Harris",
+      "Stellan Skarsgard",
+      "Emily Watson",
+      "Paul Ritter"
+    ],
+    "rating": 9.4,
+    "summary": "A dramatization of the April 1986 nuclear accident at Chernobyl and the unprecedented cleanup effort that followed.",
+    "posterUrl": "/posters/chernobyl.jpg"
+  },
+  {
+    "id": "the-americans",
+    "title": "The Americans",
+    "year": 2013,
+    "endYear": 2018,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "creators": [
+      "Joe Weisberg"
+    ],
+    "cast": [
+      "Keri Russell",
+      "Matthew Rhys",
+      "Noah Emmerich",
+      "Holly Taylor"
+    ],
+    "rating": 8.4,
+    "summary": "Two Soviet KGB agents pose as an American married couple in the suburbs of Washington, D.C., during the Cold War.",
+    "posterUrl": "/posters/the-americans.jpg"
+  },
+  {
+    "id": "halloween",
+    "title": "Halloween",
+    "year": 1978,
+    "type": "movie",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "director": "John Carpenter",
+    "cast": [
+      "Jamie Lee Curtis",
+      "Donald Pleasence",
+      "Nick Castle"
+    ],
+    "rating": 7.7,
+    "summary": "Fifteen years after murdering his sister on Halloween night, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield to kill again.",
+    "posterUrl": "/posters/halloween.jpg"
+  },
+  {
+    "id": "happy-gilmore",
+    "title": "Happy Gilmore",
+    "year": 1996,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Sport"
+    ],
+    "director": "Dennis Dugan",
+    "cast": [
+      "Adam Sandler",
+      "Christopher McDonald",
+      "Julie Bowen"
+    ],
+    "rating": 7,
+    "summary": "A rejected hockey player puts his slap shot to good use on the professional golf circuit to save his grandmother's house.",
+    "posterUrl": "/posters/happy-gilmore.jpg"
+  },
+  {
+    "id": "harry-potter-and-the-sorcerers-stone",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "type": "movie",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Chris Columbus",
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson"
+    ],
+    "rating": 7.6,
+    "summary": "An orphaned boy discovers he is a wizard on his eleventh birthday and enrolls at Hogwarts School of Witchcraft and Wizardry.",
+    "posterUrl": "/posters/harry-potter-and-the-sorcerers-stone.jpg"
+  },
+  {
+    "id": "her",
+    "title": "Her",
+    "year": 2013,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "director": "Spike Jonze",
+    "cast": [
+      "Joaquin Phoenix",
+      "Scarlett Johansson",
+      "Amy Adams"
+    ],
+    "rating": 8,
+    "summary": "A lonely writer develops an unlikely relationship with an artificially intelligent operating system.",
+    "posterUrl": "/posters/her.jpg"
+  },
+  {
+    "id": "hereditary",
+    "title": "Hereditary",
+    "year": 2018,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "director": "Ari Aster",
+    "cast": [
+      "Toni Collette",
+      "Milly Shapiro",
+      "Gabriel Byrne"
+    ],
+    "rating": 7.3,
+    "summary": "After the family matriarch passes away, a grieving family is haunted by tragic and disturbing occurrences driven by sinister secrets.",
+    "posterUrl": "/posters/hereditary.jpg"
+  },
+  {
+    "id": "homeland",
+    "title": "Homeland",
+    "year": 2011,
+    "endYear": 2020,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "creators": [
+      "Howard Gordon",
+      "Alex Gansa"
+    ],
+    "cast": [
+      "Claire Danes",
+      "Mandy Patinkin",
+      "Damian Lewis"
+    ],
+    "rating": 8.3,
+    "summary": "A bipolar CIA operative becomes convinced a recently rescued POW has been turned by al-Qaeda and is planning a terrorist attack on American soil.",
+    "posterUrl": "/posters/homeland.jpg"
+  },
+  {
+    "id": "house",
+    "title": "House",
+    "year": 2004,
+    "endYear": 2012,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "creators": [
+      "David Shore"
+    ],
+    "cast": [
+      "Hugh Laurie",
+      "Omar Epps",
+      "Robert Sean Leonard"
+    ],
+    "rating": 8.7,
+    "summary": "An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way.",
+    "posterUrl": "/posters/house.jpg"
+  },
+  {
+    "id": "house-of-cards",
+    "title": "House of Cards",
+    "year": 2013,
+    "endYear": 2018,
+    "type": "tv",
+    "genres": [
+      "Drama"
+    ],
+    "creators": [
+      "Beau Willimon"
+    ],
+    "cast": [
+      "Kevin Spacey",
+      "Robin Wright",
+      "Michael Kelly"
+    ],
+    "rating": 8.6,
+    "summary": "A ruthless politician will stop at nothing to conquer everything in the ruthless world of Washington, D.C.",
+    "posterUrl": "/posters/house-of-cards.jpg"
+  },
+  {
+    "id": "how-i-met-your-mother",
+    "title": "How I Met Your Mother",
+    "year": 2005,
+    "endYear": 2014,
+    "type": "tv",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "creators": [
+      "Carter Bays",
+      "Craig Thomas"
+    ],
+    "cast": [
+      "Josh Radnor",
+      "Jason Segel",
+      "Neil Patrick Harris"
+    ],
+    "rating": 8.3,
+    "summary": "A father recounts to his children the journey he and his friends took leading up to him meeting their mother.",
+    "posterUrl": "/posters/how-i-met-your-mother.jpg"
+  },
+  {
+    "id": "the-hunger-games",
+    "title": "The Hunger Games",
+    "year": 2012,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Gary Ross",
+    "cast": [
+      "Jennifer Lawrence",
+      "Josh Hutcherson",
+      "Liam Hemsworth"
+    ],
+    "rating": 7.2,
+    "summary": "In a dystopian future, a young woman volunteers to take her sister's place in a televised fight to the death.",
+    "posterUrl": "/posters/the-hunger-games.jpg"
+  },
+  {
+    "id": "hunt-for-the-wilderpeople",
+    "title": "Hunt for the Wilderpeople",
+    "year": 2016,
+    "type": "movie",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Taika Waititi",
+    "cast": [
+      "Sam Neill",
+      "Julian Dennison",
+      "Rima Te Wiata"
+    ],
+    "rating": 7.9,
+    "summary": "A defiant young city kid and his cranky foster uncle become the targets of a manhunt after getting lost in the New Zealand bush.",
+    "posterUrl": "/posters/hunt-for-the-wilderpeople.jpg"
+  },
+  {
+    "id": "the-hurt-locker",
+    "title": "The Hurt Locker",
+    "year": 2008,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "director": "Kathryn Bigelow",
+    "cast": [
+      "Jeremy Renner",
+      "Anthony Mackie",
+      "Brian Geraghty"
+    ],
+    "rating": 7.5,
+    "summary": "During the Iraq War, a Sergeant recently assigned to an army bomb squad is put at odds with his squad mates due to his reckless disregard for safety.",
+    "posterUrl": "/posters/the-hurt-locker.jpg"
+  },
+  {
+    "id": "indiana-jones-and-the-raiders-of-the-lost-ark",
+    "title": "Indiana Jones and the Raiders of the Lost Ark",
+    "year": 1981,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Harrison Ford",
+      "Karen Allen",
+      "Paul Freeman"
+    ],
+    "rating": 8.4,
+    "summary": "Archaeologist and adventurer Indiana Jones races against Nazis to recover the lost Ark of the Covenant before they can use its power.",
+    "posterUrl": "/posters/indiana-jones-and-the-raiders-of-the-lost-ark.jpg"
+  },
+  {
+    "id": "inglourious-basterds",
+    "title": "Inglourious Basterds",
+    "year": 2009,
+    "type": "movie",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Brad Pitt",
+      "Christoph Waltz",
+      "Mélanie Laurent"
+    ],
+    "rating": 8.3,
+    "summary": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as 'The Basterds' plan to assassinate Nazi leaders.",
+    "posterUrl": "/posters/inglourious-basterds.jpg"
+  },
+  {
+    "id": "inside-out",
+    "title": "Inside Out",
+    "year": 2015,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "director": "Pete Docter",
+    "cast": [
+      "Amy Poehler",
+      "Phyllis Smith",
+      "Bill Hader"
+    ],
+    "rating": 8.1,
+    "summary": "After a young girl moves to a new city, her emotions—Joy, Fear, Anger, Disgust, and Sadness—conflict on how best to navigate her new life.",
+    "posterUrl": "/posters/inside-out.jpg"
+  },
+  {
+    "id": "interstellar",
+    "title": "Interstellar",
+    "year": 2014,
+    "type": "movie",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain"
+    ],
+    "rating": 8.7,
+    "summary": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival as Earth faces an agricultural crisis.",
+    "posterUrl": "/posters/interstellar.jpg"
+  },
+  {
+    "id": "into-the-wild",
+    "title": "Into the Wild",
+    "year": 2007,
+    "type": "movie",
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "director": "Sean Penn",
+    "cast": [
+      "Emile Hirsch",
+      "Vince Vaughn",
+      "Catherine Keener"
+    ],
+    "rating": 8.1,
+    "summary": "After graduating from Emory University, Christopher McCandless abandons his possessions, donates his savings, and hitchhikes to Alaska to live in the wilderness.",
+    "posterUrl": "/posters/into-the-wild.jpg"
+  },
+  {
+    "id": "iron-man",
+    "title": "Iron Man",
+    "year": 2008,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Jon Favreau",
+    "cast": [
+      "Robert Downey Jr.",
+      "Gwyneth Paltrow",
+      "Jeff Bridges"
+    ],
+    "rating": 7.9,
+    "summary": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "posterUrl": "/posters/iron-man.jpg"
+  },
+  {
+    "id": "it",
+    "title": "It",
+    "year": 2017,
+    "type": "movie",
+    "genres": [
+      "Horror"
+    ],
+    "director": "Andy Muschietti",
+    "cast": [
+      "Bill Skarsgård",
+      "Jaeden Martell",
+      "Finn Wolfhard"
+    ],
+    "rating": 7.3,
+    "summary": "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster that disguises itself as a clown and preys on children.",
+    "posterUrl": "/posters/it.jpg"
+  },
+  {
+    "id": "its-always-sunny-in-philadelphia",
+    "title": "It's Always Sunny in Philadelphia",
+    "year": 2005,
+    "endYear": 2025,
+    "type": "tv",
+    "genres": [
+      "Comedy"
+    ],
+    "creators": [
+      "Rob McElhenney",
+      "Glenn Howerton"
+    ],
+    "cast": [
+      "Charlie Day",
+      "Glenn Howerton",
+      "Rob McElhenney",
+      "Danny DeVito"
+    ],
+    "rating": 8.8,
+    "summary": "Five egocentric friends who run a decrepit Irish pub in Philadelphia scheme and connive their way through life.",
+    "posterUrl": "/posters/its-always-sunny-in-philadelphia.jpg"
+  },
+  {
+    "id": "jaws",
+    "title": "Jaws",
+    "year": 1975,
+    "type": "movie",
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Roy Scheider",
+      "Robert Shaw",
+      "Richard Dreyfuss"
+    ],
+    "rating": 8,
+    "summary": "A giant great white shark terrorizes a New England resort town, prompting the local police chief, a marine biologist, and a grizzled fisherman to hunt it down.",
+    "posterUrl": "/posters/jaws.jpg"
+  },
+  {
+    "id": "jerry-maguire",
+    "title": "Jerry Maguire",
+    "year": 1996,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sport"
+    ],
+    "director": "Cameron Crowe",
+    "cast": [
+      "Tom Cruise",
+      "Cuba Gooding Jr.",
+      "Renée Zellweger"
+    ],
+    "rating": 7.3,
+    "summary": "A sports agent has a moral epiphany and is fired for expressing it, then tries to build a practice with his sole remaining client.",
+    "posterUrl": "/posters/jerry-maguire.jpg"
+  },
+  {
+    "id": "jojo-rabbit",
+    "title": "Jojo Rabbit",
+    "year": 2019,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "director": "Taika Waititi",
+    "cast": [
+      "Roman Griffin Davis",
+      "Thomasin McKenzie",
+      "Scarlett Johansson"
+    ],
+    "rating": 7.9,
+    "summary": "A young German boy in the Hitler Youth discovers his mother is hiding a Jewish girl in their attic, with Adolf Hitler as his imaginary friend.",
+    "posterUrl": "/posters/jojo-rabbit.jpg"
+  },
+  {
+    "id": "joker",
+    "title": "Joker",
+    "year": 2019,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Todd Phillips",
+    "cast": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz"
+    ],
+    "rating": 8.4,
+    "summary": "In Gotham City, a failed comedian's descent into madness and nihilism inspires a violent countercultural revolution.",
+    "posterUrl": "/posters/joker.jpg"
+  },
+  {
+    "id": "jurassic-park",
+    "title": "Jurassic Park",
+    "year": 1993,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum"
+    ],
+    "rating": 8.2,
+    "summary": "A paleontologist and his colleagues visit an island theme park populated by dinosaurs created from prehistoric DNA, but the park's security systems fail.",
+    "isSeed": true,
+    "posterUrl": "/posters/jurassic-park.jpg"
+  },
+  {
+    "id": "justified",
+    "title": "Justified",
+    "year": 2010,
+    "endYear": 2015,
+    "type": "tv",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "creators": [
+      "Graham Yost"
+    ],
+    "cast": [
+      "Timothy Olyphant",
+      "Nick Searcy",
+      "Joelle Carter"
+    ],
+    "rating": 8.6,
+    "summary": "U.S. Marshal Raylan Givens is reassigned to his hometown in eastern Kentucky, where he must contend with an old friend turned criminal.",
+    "posterUrl": "/posters/justified.jpg"
+  },
+  {
+    "id": "kill-bill-vol-1",
+    "title": "Kill Bill: Vol. 1",
+    "year": 2003,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Uma Thurman",
+      "Lucy Liu",
+      "Vivica A. Fox"
+    ],
+    "rating": 8.2,
+    "summary": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of killers who betrayed her.",
+    "posterUrl": "/posters/kill-bill-vol-1.jpg"
+  },
+  {
+    "id": "killing-eve",
+    "title": "Killing Eve",
+    "year": 2018,
+    "endYear": 2022,
+    "type": "tv",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "creators": [
+      "Phoebe Waller-Bridge"
+    ],
+    "cast": [
+      "Sandra Oh",
+      "Jodie Comer",
+      "Fiona Shaw"
+    ],
+    "rating": 8.2,
+    "summary": "A bored MI5 security officer becomes entangled in a cat-and-mouse game with a psychopathic assassin.",
+    "posterUrl": "/posters/killing-eve.jpg"
+  },
+  {
+    "id": "the-kings-speech",
+    "title": "The King's Speech",
+    "year": 2010,
+    "type": "movie",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "director": "Tom Hooper",
+    "cast": [
+      "Colin Firth",
+      "Geoffrey Rush",
+      "Helena Bonham Carter"
+    ],
+    "rating": 8,
+    "summary": "The story of King George VI's struggle with a crippling stammer and the unorthodox speech therapist who helps him overcome it.",
+    "posterUrl": "/posters/the-kings-speech.jpg"
+  },
+  {
+    "id": "knives-out",
+    "title": "Knives Out",
+    "year": 2019,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Rian Johnson",
+    "cast": [
+      "Daniel Craig",
+      "Chris Evans",
+      "Ana de Armas"
+    ],
+    "rating": 7.9,
+    "summary": "A detective investigates the death of a patriarch of an eccentric, combative family, where everyone is a suspect.",
+    "posterUrl": "/posters/knives-out.jpg"
+  },
+  {
+    "id": "la-la-land",
+    "title": "La La Land",
+    "year": 2016,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "director": "Damien Chazelle",
+    "cast": [
+      "Ryan Gosling",
+      "Emma Stone",
+      "John Legend"
+    ],
+    "rating": 8,
+    "summary": "A jazz pianist and an aspiring actress fall in love while pursuing their dreams in Los Angeles.",
+    "posterUrl": "/posters/la-la-land.jpg"
+  },
+  {
+    "id": "the-last-of-us",
+    "title": "The Last of Us",
+    "year": 2023,
+    "type": "tv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "creators": [
+      "Craig Mazin",
+      "Neil Druckmann"
+    ],
+    "cast": [
+      "Pedro Pascal",
+      "Bella Ramsey",
+      "Anna Torv"
+    ],
+    "rating": 8.8,
+    "summary": "In a post-apocalyptic world ravaged by a fungal infection, a hardened smuggler is tasked with escorting a teenage girl across the remnants of the United States.",
+    "posterUrl": "/posters/the-last-of-us.jpg"
+  },
+  {
+    "id": "law-and-order",
+    "title": "Law & Order",
+    "year": 1990,
+    "endYear": 2024,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "creators": [
+      "Dick Wolf"
+    ],
+    "cast": [
+      "Sam Waterston",
+      "Jerry Orbach",
+      "S. Epatha Merkerson"
+    ],
+    "rating": 7.7,
+    "summary": "Police detectives investigate crimes in New York City, and prosecutors bring the offenders to justice.",
+    "posterUrl": "/posters/law-and-order.jpg"
+  },
+  {
+    "id": "legally-blonde",
+    "title": "Legally Blonde",
+    "year": 2001,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": "Robert Luketic",
+    "cast": [
+      "Reese Witherspoon",
+      "Luke Wilson",
+      "Selma Blair"
+    ],
+    "rating": 6.4,
+    "summary": "A sorority queen enrolls at Harvard Law School to win back her ex-boyfriend but discovers she has more to offer than anyone expected.",
+    "posterUrl": "/posters/legally-blonde.jpg"
+  },
+  {
+    "id": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen"
+    ],
+    "rating": 8.8,
+    "summary": "A young hobbit must journey across Middle-earth to destroy a powerful ring before the Dark Lord Sauron can reclaim it.",
+    "isSeed": true,
+    "posterUrl": "/posters/the-lord-of-the-rings-the-fellowship-of-the-ring.jpg"
+  },
+  {
+    "id": "lost",
+    "title": "Lost",
+    "year": 2004,
+    "endYear": 2010,
+    "type": "tv",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "creators": [
+      "J.J. Abrams",
+      "Damon Lindelof",
+      "Jeffrey Lieber"
+    ],
+    "cast": [
+      "Matthew Fox",
+      "Evangeline Lilly",
+      "Josh Holloway",
+      "Terry O'Quinn"
+    ],
+    "rating": 8.3,
+    "summary": "The survivors of a plane crash are forced to work together to survive on a mysterious tropical island.",
+    "posterUrl": "/posters/lost.jpg"
+  },
+  {
+    "id": "luther",
+    "title": "Luther",
+    "year": 2010,
+    "endYear": 2019,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "creators": [
+      "Neil Cross"
+    ],
+    "cast": [
+      "Idris Elba",
+      "Ruth Wilson",
+      "Dermot Crowley"
+    ],
+    "rating": 8.4,
+    "summary": "A brilliant but emotionally impulsive detective hunts down London's most dangerous criminals while struggling with his own inner demons.",
+    "posterUrl": "/posters/luther.jpg"
+  },
+  {
+    "id": "mad-men",
+    "title": "Mad Men",
+    "year": 2007,
+    "endYear": 2015,
+    "type": "tv",
+    "genres": [
+      "Drama"
+    ],
+    "creators": [
+      "Matthew Weiner"
+    ],
+    "cast": [
+      "Jon Hamm",
+      "Elisabeth Moss",
+      "Vincent Kartheiser",
+      "January Jones"
+    ],
+    "rating": 8.7,
+    "summary": "A drama about the professional and personal lives of the ambitious men and women of a 1960s New York advertising agency.",
+    "posterUrl": "/posters/mad-men.jpg"
+  },
+  {
+    "id": "the-mandalorian",
+    "title": "The Mandalorian",
+    "year": 2019,
+    "endYear": 2023,
+    "type": "tv",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "creators": [
+      "Jon Favreau"
+    ],
+    "cast": [
+      "Pedro Pascal",
+      "Carl Weathers",
+      "Giancarlo Esposito"
+    ],
+    "rating": 8.7,
+    "summary": "A lone bounty hunter in the outer reaches of the galaxy finds himself protecting an unexpected alien youngling.",
+    "posterUrl": "/posters/the-mandalorian.jpg"
+  },
+  {
+    "id": "the-avengers",
+    "title": "Marvel's The Avengers",
+    "year": 2012,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Joss Whedon",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Scarlett Johansson",
+      "Mark Ruffalo"
+    ],
+    "rating": 8,
+    "summary": "Earth's mightiest heroes must come together to stop the demigod Loki and his alien army from enslaving humanity.",
+    "isSeed": true,
+    "posterUrl": "/posters/the-avengers.jpg"
+  },
+  {
+    "id": "mean-girls",
+    "title": "Mean Girls",
+    "year": 2004,
+    "type": "movie",
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Mark Waters",
+    "cast": [
+      "Lindsay Lohan",
+      "Rachel McAdams",
+      "Tina Fey"
+    ],
+    "rating": 7.1,
+    "summary": "A homeschooled teenager raised in Africa navigates the treacherous social hierarchy of a suburban Illinois high school.",
+    "posterUrl": "/posters/mean-girls.jpg"
+  },
+  {
+    "id": "memento",
+    "title": "Memento",
+    "year": 2000,
+    "type": "movie",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Guy Pearce",
+      "Carrie-Anne Moss",
+      "Joe Pantoliano"
+    ],
+    "rating": 8.4,
+    "summary": "A man with short-term memory loss attempts to track down his wife's murderer using notes, photographs, and tattoos.",
+    "posterUrl": "/posters/memento.jpg"
+  },
+  {
+    "id": "midsommar",
+    "title": "Midsommar",
+    "year": 2019,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "director": "Ari Aster",
+    "cast": [
+      "Florence Pugh",
+      "Jack Reynor",
+      "Vilhelm Blomgren"
+    ],
+    "rating": 7.1,
+    "summary": "A couple travels to rural Sweden to attend a mid-summer festival, only to find themselves in the clutches of a pagan cult.",
+    "posterUrl": "/posters/midsommar.jpg"
+  },
+  {
+    "id": "mindhunter",
+    "title": "Mindhunter",
+    "year": 2017,
+    "endYear": 2019,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "creators": [
+      "Joe Penhall"
+    ],
+    "cast": [
+      "Jonathan Groff",
+      "Holt McCallany",
+      "Anna Torv"
+    ],
+    "rating": 8.6,
+    "summary": "In the FBI's early days of criminal profiling, two agents expand the field of criminal psychology by interviewing imprisoned serial killers.",
+    "posterUrl": "/posters/mindhunter.jpg"
+  },
+  {
+    "id": "money-heist",
+    "title": "Money Heist",
+    "year": 2017,
+    "endYear": 2021,
+    "type": "tv",
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "creators": [
+      "Álex Pina"
+    ],
+    "cast": [
+      "Úrsula Corberó",
+      "Álvaro Morte",
+      "Itziar Ituño"
+    ],
+    "rating": 8.2,
+    "summary": "An enigmatic figure called 'The Professor' recruits a group of criminals to carry out the most audacious heist in history.",
+    "posterUrl": "/posters/money-heist.jpg"
+  },
+  {
+    "id": "moneyball",
+    "title": "Moneyball",
+    "year": 2011,
+    "type": "movie",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "director": "Bennett Miller",
+    "cast": [
+      "Brad Pitt",
+      "Jonah Hill",
+      "Philip Seymour Hoffman"
+    ],
+    "rating": 7.6,
+    "summary": "Oakland A's general manager Billy Beane uses a revolutionary sabermetric approach to assemble a competitive baseball team on a limited budget.",
+    "posterUrl": "/posters/moneyball.jpg"
+  },
+  {
+    "id": "moonlight",
+    "title": "Moonlight",
+    "year": 2016,
+    "type": "movie",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Barry Jenkins",
+    "cast": [
+      "Trevante Rhodes",
+      "André Holland",
+      "Janelle Monáe"
+    ],
+    "rating": 7.4,
+    "summary": "A young African-American man grapples with his identity and sexuality while growing up in a rough Miami neighborhood across three defining chapters.",
+    "posterUrl": "/posters/moonlight.jpg"
+  },
+  {
+    "id": "mr-robot",
+    "title": "Mr. Robot",
+    "year": 2015,
+    "endYear": 2019,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "creators": [
+      "Sam Esmail"
+    ],
+    "cast": [
+      "Rami Malek",
+      "Christian Slater",
+      "Carly Chaikin"
+    ],
+    "rating": 8.5,
+    "summary": "An unstable cybersecurity engineer and hacker is recruited by a mysterious anarchist to destroy the corporation he works for.",
+    "posterUrl": "/posters/mr-robot.jpg"
+  },
+  {
+    "id": "mulholland-drive",
+    "title": "Mulholland Drive",
+    "year": 2001,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "David Lynch",
+    "cast": [
+      "Naomi Watts",
+      "Laura Harring",
+      "Justin Theroux"
+    ],
+    "rating": 7.9,
+    "summary": "A woman suffering from amnesia after a car accident on Mulholland Drive and an aspiring actress unravel a dark Hollywood mystery.",
+    "posterUrl": "/posters/mulholland-drive.jpg"
+  },
+  {
+    "id": "napoleon-dynamite",
+    "title": "Napoleon Dynamite",
+    "year": 2004,
+    "type": "movie",
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Jared Hess",
+    "cast": [
+      "Jon Heder",
+      "Efren Ramirez",
+      "Jon Gries"
+    ],
+    "rating": 6.9,
+    "summary": "A listless and alienated teenager in rural Idaho decides to help his new friend win the class presidency.",
+    "posterUrl": "/posters/napoleon-dynamite.jpg"
+  },
+  {
+    "id": "narcos",
+    "title": "Narcos",
+    "year": 2015,
+    "endYear": 2017,
+    "type": "tv",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "creators": [
+      "Chris Brancato",
+      "Carlo Bernard",
+      "Doug Miro"
+    ],
+    "cast": [
+      "Wagner Moura",
+      "Boyd Holbrook",
+      "Pedro Pascal"
+    ],
+    "rating": 8.8,
+    "summary": "A chronicle of the rise and fall of Colombian drug lord Pablo Escobar and the DEA agents hunting him.",
+    "posterUrl": "/posters/narcos.jpg"
+  },
+  {
+    "id": "national-treasure",
+    "title": "National Treasure",
+    "year": 2004,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "director": "Jon Turteltaub",
+    "cast": [
+      "Nicolas Cage",
+      "Diane Kruger",
+      "Justin Bartha"
+    ],
+    "rating": 6.9,
+    "summary": "A treasure hunter races to find a legendary treasure hidden by the Founding Fathers before a rival can steal it.",
+    "posterUrl": "/posters/national-treasure.jpg"
+  },
+  {
+    "id": "nightcrawler",
+    "title": "Nightcrawler",
+    "year": 2014,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Dan Gilroy",
+    "cast": [
+      "Jake Gyllenhaal",
+      "Rene Russo",
+      "Bill Paxton"
+    ],
+    "rating": 7.8,
+    "summary": "A driven young man stumbles into the lucrative world of freelance crime journalism in Los Angeles.",
+    "posterUrl": "/posters/nightcrawler.jpg"
+  },
+  {
+    "id": "no-country-for-old-men",
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Joel Coen, Ethan Coen",
+    "cast": [
+      "Javier Bardem",
+      "Josh Brolin",
+      "Tommy Lee Jones"
+    ],
+    "rating": 8.2,
+    "summary": "A hunter stumbles upon a drug deal gone wrong and takes a suitcase of cash, setting off a violent chain of events involving a relentless killer.",
+    "posterUrl": "/posters/no-country-for-old-men.jpg"
+  },
+  {
+    "id": "nope",
+    "title": "Nope",
+    "year": 2022,
+    "type": "movie",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "Jordan Peele",
+    "cast": [
+      "Daniel Kaluuya",
+      "Keke Palmer",
+      "Steven Yeun"
+    ],
+    "rating": 6.8,
+    "summary": "Two siblings running a horse ranch in California discover something mysterious that leads to a terrifying and spectacularly dangerous event.",
+    "posterUrl": "/posters/nope.jpg"
+  },
+  {
+    "id": "nurse-jackie",
+    "title": "Nurse Jackie",
+    "year": 2009,
+    "endYear": 2015,
+    "type": "tv",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "creators": [
+      "Liz Brixius",
+      "Evan Dunsky",
+      "Linda Wallem"
+    ],
+    "cast": [
+      "Edie Falco",
+      "Merritt Wever",
+      "Eve Best"
+    ],
+    "rating": 7.8,
+    "summary": "A drug-addicted emergency room nurse struggles to balance her addiction with the demands of her hectic professional and personal life.",
+    "posterUrl": "/posters/nurse-jackie.jpg"
+  },
+  {
+    "id": "the-office",
+    "title": "The Office",
+    "year": 2005,
+    "endYear": 2013,
+    "type": "tv",
+    "genres": [
+      "Comedy"
+    ],
+    "creators": [
+      "Greg Daniels",
+      "Ricky Gervais",
+      "Stephen Merchant"
+    ],
+    "cast": [
+      "Steve Carell",
+      "Rainn Wilson",
+      "John Krasinski",
+      "Jenna Fischer"
+    ],
+    "rating": 9,
+    "summary": "A mockumentary on a group of typical office workers at the Scranton, Pennsylvania branch of the Dunder Mifflin Paper Company.",
+    "posterUrl": "/posters/the-office.jpg"
+  },
+  {
+    "id": "old-boy",
+    "title": "Oldboy",
+    "year": 2003,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Park Chan-wook",
+    "cast": [
+      "Choi Min-sik",
+      "Yoo Ji-tae",
+      "Kang Hye-jung"
+    ],
+    "rating": 8.4,
+    "summary": "After being kidnapped and imprisoned for fifteen years, a man is released and seeks vengeance against his mysterious captor.",
+    "posterUrl": "/posters/old-boy.jpg"
+  },
+  {
+    "id": "once-upon-a-time-in-hollywood",
+    "title": "Once Upon a Time in Hollywood",
+    "year": 2019,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Brad Pitt",
+      "Margot Robbie"
+    ],
+    "rating": 7.6,
+    "summary": "A faded television actor and his stunt double navigate the changing film industry in 1969 Los Angeles during the Manson Family murders.",
+    "posterUrl": "/posters/once-upon-a-time-in-hollywood.jpg"
+  },
+  {
+    "id": "one-flew-over-the-cuckoos-nest",
+    "title": "One Flew Over the Cuckoo's Nest",
+    "year": 1975,
+    "type": "movie",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Miloš Forman",
+    "cast": [
+      "Jack Nicholson",
+      "Louise Fletcher",
+      "Will Sampson"
+    ],
+    "rating": 8.7,
+    "summary": "A criminal pleads insanity and is admitted to a mental institution, where he rallies the patients against the authoritarian head nurse.",
+    "posterUrl": "/posters/one-flew-over-the-cuckoos-nest.jpg"
+  },
+  {
+    "id": "oppenheimer",
+    "title": "Oppenheimer",
+    "year": 2023,
+    "type": "movie",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Robert Downey Jr.",
+      "Matt Damon"
+    ],
+    "rating": 8.3,
+    "summary": "The story of J. Robert Oppenheimer and his role in developing the atomic bomb during the Manhattan Project.",
+    "posterUrl": "/posters/oppenheimer.jpg"
+  },
+  {
+    "id": "orange-is-the-new-black",
+    "title": "Orange Is the New Black",
+    "year": 2013,
+    "endYear": 2019,
+    "type": "tv",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "creators": [
+      "Jenji Kohan"
+    ],
+    "cast": [
+      "Taylor Schilling",
+      "Danielle Brooks",
+      "Uzo Aduba"
+    ],
+    "rating": 8,
+    "summary": "A woman is sentenced to a minimum-security women's prison for a decade-old drug crime, where she is reunited with a former lover.",
+    "posterUrl": "/posters/orange-is-the-new-black.jpg"
+  },
+  {
+    "id": "the-other-guys",
+    "title": "The Other Guys",
+    "year": 2010,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Adam McKay",
+    "cast": [
+      "Will Ferrell",
+      "Mark Wahlberg",
+      "Eva Mendes"
+    ],
+    "rating": 6.6,
+    "summary": "Two mismatched NYPD detectives seize an opportunity to step up when the city's top cops are sidelined.",
+    "posterUrl": "/posters/the-other-guys.jpg"
+  },
+  {
+    "id": "our-planet",
+    "title": "Our Planet",
+    "year": 2019,
+    "type": "tv",
+    "genres": [
+      "Documentary"
+    ],
+    "creators": [
+      "Alastair Fothergill",
+      "Keith Scholey"
+    ],
+    "cast": [
+      "David Attenborough"
+    ],
+    "rating": 9.3,
+    "summary": "A nature documentary series exploring the world's remaining wilderness areas and the animals that inhabit them.",
+    "posterUrl": "/posters/our-planet.jpg"
+  },
+  {
+    "id": "outlander",
+    "title": "Outlander",
+    "year": 2014,
+    "endYear": 2025,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "creators": [
+      "Ronald D. Moore"
+    ],
+    "cast": [
+      "Caitríona Balfe",
+      "Sam Heughan",
+      "Duncan Lacroix"
+    ],
+    "rating": 8.4,
+    "summary": "A WWII-era combat nurse is transported back in time to 1743 Scotland, where she encounters a Highland warrior.",
+    "posterUrl": "/posters/outlander.jpg"
+  },
+  {
+    "id": "oz",
+    "title": "Oz",
+    "year": 1997,
+    "endYear": 2003,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "creators": [
+      "Tom Fontana"
+    ],
+    "cast": [
+      "Ernie Hudson",
+      "J.K. Simmons",
+      "Lee Tergesen"
+    ],
+    "rating": 8.7,
+    "summary": "A brutal and realistic look at life inside a fictional maximum-security prison, focusing on the experimental unit Emerald City.",
+    "posterUrl": "/posters/oz.jpg"
+  },
+  {
+    "id": "pacific-rim",
+    "title": "Pacific Rim",
+    "year": 2013,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Guillermo del Toro",
+    "cast": [
+      "Charlie Hunnam",
+      "Idris Elba",
+      "Rinko Kikuchi"
+    ],
+    "rating": 6.9,
+    "summary": "Humanity builds giant robots called Jaegers to combat monstrous creatures known as Kaiju that have risen from the Pacific Ocean.",
+    "posterUrl": "/posters/pacific-rim.jpg"
+  },
+  {
+    "id": "pan-s-labyrinth",
+    "title": "Pan's Labyrinth",
+    "year": 2006,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "War"
+    ],
+    "director": "Guillermo del Toro",
+    "cast": [
+      "Ivana Baquero",
+      "Sergi López",
+      "Maribel Verdú"
+    ],
+    "rating": 8.2,
+    "summary": "In Franco's Spain, a girl escapes into an eerie fantasy world where she must complete three gruesome tasks to prove she is the reincarnation of a princess.",
+    "posterUrl": "/posters/pan-s-labyrinth.jpg"
+  },
+  {
+    "id": "parasite",
+    "title": "Parasite",
+    "year": 2019,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Bong Joon-ho",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik"
+    ],
+    "rating": 8.5,
+    "summary": "Greed and class discrimination threaten the symbiotic relationship between a wealthy family and the destitute clan that schemes to infiltrate their household.",
+    "posterUrl": "/posters/parasite.jpg"
+  },
+  {
+    "id": "parks-and-recreation",
+    "title": "Parks and Recreation",
+    "year": 2009,
+    "endYear": 2015,
+    "type": "tv",
+    "genres": [
+      "Comedy"
+    ],
+    "creators": [
+      "Greg Daniels",
+      "Michael Schur"
+    ],
+    "cast": [
+      "Amy Poehler",
+      "Nick Offerman",
+      "Aubrey Plaza",
+      "Chris Pratt"
+    ],
+    "rating": 8.6,
+    "summary": "The absurd antics of an Indiana town's public officials as they pursue sundry projects to make their city a better place.",
+    "posterUrl": "/posters/parks-and-recreation.jpg"
+  },
+  {
+    "id": "peaky-blinders",
+    "title": "Peaky Blinders",
+    "year": 2013,
+    "endYear": 2022,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "creators": [
+      "Steven Knight"
+    ],
+    "cast": [
+      "Cillian Murphy",
+      "Paul Anderson",
+      "Helen McCrory"
+    ],
+    "rating": 8.8,
+    "summary": "A gangster family epic set in 1920s Birmingham, England, centered on a gang who sew razor blades into the peaks of their caps.",
+    "posterUrl": "/posters/peaky-blinders.jpg"
+  },
+  {
+    "id": "the-pianist",
+    "title": "The Pianist",
+    "year": 2002,
+    "type": "movie",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Musical",
+      "War"
+    ],
+    "director": "Roman Polanski",
+    "cast": [
+      "Adrien Brody",
+      "Thomas Kretschmann",
+      "Frank Finlay"
+    ],
+    "rating": 8.5,
+    "summary": "A Polish Jewish pianist struggles to survive the destruction of the Warsaw ghetto during World War II.",
+    "posterUrl": "/posters/the-pianist.jpg"
+  },
+  {
+    "id": "pirates-of-the-caribbean-the-curse-of-the-black-pearl",
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": 2003,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "Gore Verbinski",
+    "cast": [
+      "Johnny Depp",
+      "Geoffrey Rush",
+      "Orlando Bloom",
+      "Keira Knightley"
+    ],
+    "rating": 8.1,
+    "summary": "Blacksmith Will Turner teams up with eccentric pirate Captain Jack Sparrow to rescue the governor's daughter from undead pirates.",
+    "posterUrl": "/posters/pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg"
+  },
+  {
+    "id": "planet-of-the-apes",
+    "title": "Planet of the Apes",
+    "year": 1968,
+    "type": "movie",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "director": "Franklin J. Schaffner",
+    "cast": [
+      "Charlton Heston",
+      "Roddy McDowall",
+      "Kim Hunter"
+    ],
+    "rating": 8,
+    "summary": "An astronaut crew crash-lands on a strange planet where intelligent apes are the dominant species and humans are primitive.",
+    "posterUrl": "/posters/planet-of-the-apes.jpg"
+  },
+  {
+    "id": "platoon",
+    "title": "Platoon",
+    "year": 1986,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "director": "Oliver Stone",
+    "cast": [
+      "Charlie Sheen",
+      "Tom Berenger",
+      "Willem Dafoe"
+    ],
+    "rating": 8.1,
+    "summary": "A young recruit in Vietnam faces a moral crisis when confronted with the horrors of war and the duality of man.",
+    "posterUrl": "/posters/platoon.jpg"
+  },
+  {
+    "id": "please-like-me",
+    "title": "Please Like Me",
+    "year": 2013,
+    "endYear": 2016,
+    "type": "tv",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "creators": [
+      "Josh Thomas"
+    ],
+    "cast": [
+      "Josh Thomas",
+      "Thomas Ward",
+      "Debra Lawrance"
+    ],
+    "rating": 8.3,
+    "summary": "A twenty-something navigates love, family, and his own sexuality in Melbourne.",
+    "posterUrl": "/posters/please-like-me.jpg"
+  },
+  {
+    "id": "the-prestige",
+    "title": "The Prestige",
+    "year": 2006,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Hugh Jackman",
+      "Scarlett Johansson"
+    ],
+    "rating": 8.5,
+    "summary": "Two rival magicians in Victorian-era London engage in a dangerous battle of wits to create the ultimate illusion.",
+    "posterUrl": "/posters/the-prestige.jpg"
+  },
+  {
+    "id": "pride-and-prejudice",
+    "title": "Pride & Prejudice",
+    "year": 2005,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "Joe Wright",
+    "cast": [
+      "Keira Knightley",
+      "Matthew Macfadyen",
+      "Brenda Blethyn"
+    ],
+    "rating": 7.8,
+    "summary": "A spirited young woman sparks with a proud and wealthy gentleman in Regency-era England.",
+    "posterUrl": "/posters/pride-and-prejudice.jpg"
+  },
+  {
+    "id": "prisoners",
+    "title": "Prisoners",
+    "year": 2013,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Hugh Jackman",
+      "Jake Gyllenhaal",
+      "Viola Davis"
+    ],
+    "rating": 8.1,
+    "summary": "When his daughter and her friend go missing, a desperate father takes matters into his own hands while a detective pursues every lead.",
+    "posterUrl": "/posters/prisoners.jpg"
+  },
+  {
+    "id": "psycho",
+    "title": "Psycho",
+    "year": 1960,
+    "type": "movie",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Alfred Hitchcock",
+    "cast": [
+      "Anthony Perkins",
+      "Janet Leigh",
+      "Vera Miles"
+    ],
+    "rating": 8.5,
+    "summary": "A secretary on the run checks into a secluded motel run by a young man under the domination of his mother.",
+    "posterUrl": "/posters/psycho.jpg"
+  },
+  {
+    "id": "the-pursuit-of-happyness",
+    "title": "The Pursuit of Happyness",
+    "year": 2006,
+    "type": "movie",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "director": "Gabriele Muccino",
+    "cast": [
+      "Will Smith",
+      "Jaden Smith",
+      "Thandiwe Newton"
+    ],
+    "rating": 8,
+    "summary": "A struggling salesman takes custody of his son as he begins an unpaid internship at a brokerage firm, facing homelessness along the way.",
+    "posterUrl": "/posters/the-pursuit-of-happyness.jpg"
+  },
+  {
+    "id": "hot-fuzz",
+    "title": "Hot Fuzz",
+    "year": 2007,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Mystery"
+    ],
+    "director": "Edgar Wright",
+    "cast": [
+      "Simon Pegg",
+      "Nick Frost",
+      "Jim Broadbent"
+    ],
+    "rating": 7.8,
+    "summary": "A top London cop is transferred to a sleepy village where a string of mysterious deaths leads him to uncover a dark conspiracy.",
+    "posterUrl": "/posters/hot-fuzz.jpg"
+  },
+  {
+    "id": "hotel-rwanda",
+    "title": "Hotel Rwanda",
+    "year": 2004,
+    "type": "movie",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History",
+      "War"
+    ],
+    "director": "Terry George",
+    "cast": [
+      "Don Cheadle",
+      "Sophie Okonedo",
+      "Joaquin Phoenix"
+    ],
+    "rating": 8.1,
+    "summary": "During the Rwandan genocide, a hotel manager shelters over a thousand refugees in his luxury hotel.",
+    "posterUrl": "/posters/hotel-rwanda.jpg"
+  },
+  {
+    "id": "inside-llewyn-davis",
+    "title": "Inside Llewyn Davis",
+    "year": 2013,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Musical"
+    ],
+    "director": "Joel Coen, Ethan Coen",
+    "cast": [
+      "Oscar Isaac",
+      "Carey Mulligan",
+      "John Goodman"
+    ],
+    "rating": 7.4,
+    "summary": "A week in the life of a young folk singer navigating the Greenwich Village music scene of 1961.",
+    "posterUrl": "/posters/inside-llewyn-davis.jpg"
+  },
+  {
+    "id": "in-bruges",
+    "title": "In Bruges",
+    "year": 2008,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Martin McDonagh",
+    "cast": [
+      "Colin Farrell",
+      "Brendan Gleeson",
+      "Ralph Fiennes"
+    ],
+    "rating": 7.9,
+    "summary": "Two hitmen are ordered to lie low in Bruges, Belgium after a job gone wrong, leading to a darkly comedic clash of personalities.",
+    "posterUrl": "/posters/in-bruges.jpg"
+  },
+  {
+    "id": "isle-of-dogs",
+    "title": "Isle of Dogs",
+    "year": 2018,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "Wes Anderson",
+    "cast": [
+      "Bryan Cranston",
+      "Koyu Rankin",
+      "Edward Norton"
+    ],
+    "rating": 7.8,
+    "summary": "When all the dogs of a Japanese city are banished to a garbage island, a young boy sets off to find his beloved pet.",
+    "posterUrl": "/posters/isle-of-dogs.jpg"
+  },
+  {
+    "id": "john-wick",
+    "title": "John Wick",
+    "year": 2014,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "director": "Chad Stahelski",
+    "cast": [
+      "Keanu Reeves",
+      "Michael Nyqvist",
+      "Alfie Allen"
+    ],
+    "rating": 7.4,
+    "summary": "A retired hitman is forced back into the criminal underworld after gangsters steal his car and kill his beloved dog.",
+    "posterUrl": "/posters/john-wick.jpg"
+  },
+  {
+    "id": "la-confidential",
+    "title": "L.A. Confidential",
+    "year": 1997,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Curtis Hanson",
+    "cast": [
+      "Kevin Spacey",
+      "Russell Crowe",
+      "Guy Pearce"
+    ],
+    "rating": 8.2,
+    "summary": "Three LAPD officers with vastly different methods investigate a series of murders in 1950s Los Angeles.",
+    "posterUrl": "/posters/la-confidential.jpg"
+  },
+  {
+    "id": "little-miss-sunshine",
+    "title": "Little Miss Sunshine",
+    "year": 2006,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Jonathan Dayton, Valerie Faris",
+    "cast": [
+      "Steve Carell",
+      "Toni Collette",
+      "Greg Kinnear",
+      "Abigail Breslin"
+    ],
+    "rating": 7.8,
+    "summary": "A dysfunctional family road trips across the country so their young daughter can compete in a beauty pageant.",
+    "posterUrl": "/posters/little-miss-sunshine.jpg"
+  },
+  {
+    "id": "logan",
+    "title": "Logan",
+    "year": 2017,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "director": "James Mangold",
+    "cast": [
+      "Hugh Jackman",
+      "Patrick Stewart",
+      "Dafne Keen"
+    ],
+    "rating": 8.1,
+    "summary": "In a near future, a weary Wolverine cares for an ailing Professor X while protecting a young mutant girl from dark forces.",
+    "posterUrl": "/posters/logan.jpg"
+  },
+  {
+    "id": "mad-max",
+    "title": "Mad Max",
+    "year": 1979,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "George Miller",
+    "cast": [
+      "Mel Gibson",
+      "Joanne Samuel",
+      "Hugh Keays-Byrne"
+    ],
+    "rating": 6.8,
+    "summary": "In a dystopian Australia, a vengeful policeman sets out to avenge his partner and family against a violent motorcycle gang.",
+    "posterUrl": "/posters/mad-max.jpg"
+  },
+  {
+    "id": "miss-congeniality",
+    "title": "Miss Congeniality",
+    "year": 2000,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Donald Petrie",
+    "cast": [
+      "Sandra Bullock",
+      "Michael Caine",
+      "Benjamin Bratt"
+    ],
+    "rating": 6.3,
+    "summary": "A tough FBI agent goes undercover at a beauty pageant to prevent a bombing.",
+    "posterUrl": "/posters/miss-congeniality.jpg"
+  },
+  {
+    "id": "mission-impossible",
+    "title": "Mission: Impossible",
+    "year": 1996,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "director": "Brian De Palma",
+    "cast": [
+      "Tom Cruise",
+      "Jon Voight",
+      "Emmanuelle Béart"
+    ],
+    "rating": 7.1,
+    "summary": "An American agent is framed for the murder of his entire espionage team and must uncover the real traitor.",
+    "posterUrl": "/posters/mission-impossible.jpg"
+  },
+  {
+    "id": "my-cousin-vinny",
+    "title": "My Cousin Vinny",
+    "year": 1992,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Jonathan Lynn",
+    "cast": [
+      "Joe Pesci",
+      "Marisa Tomei",
+      "Ralph Macchio"
+    ],
+    "rating": 7.6,
+    "summary": "Two New Yorkers accused of murder in Alabama call on their cousin Vinny, an inexperienced lawyer, to defend them.",
+    "posterUrl": "/posters/my-cousin-vinny.jpg"
+  },
+  {
+    "id": "network",
+    "title": "Network",
+    "year": 1976,
+    "type": "movie",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Sidney Lumet",
+    "cast": [
+      "Faye Dunaway",
+      "William Holden",
+      "Peter Finch"
+    ],
+    "rating": 8.1,
+    "summary": "A television network exploits a deranged former anchor for ratings after he threatens to commit suicide on live television.",
+    "posterUrl": "/posters/network.jpg"
+  },
+  {
+    "id": "the-nice-guys",
+    "title": "The Nice Guys",
+    "year": 2016,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Shane Black",
+    "cast": [
+      "Russell Crowe",
+      "Ryan Gosling",
+      "Angourie Rice"
+    ],
+    "rating": 7.3,
+    "summary": "A private eye and a hired enforcer investigate the apparent suicide of a fading porn star in 1970s Los Angeles.",
+    "posterUrl": "/posters/the-nice-guys.jpg"
+  },
+  {
+    "id": "office-space",
+    "title": "Office Space",
+    "year": 1999,
+    "type": "movie",
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Mike Judge",
+    "cast": [
+      "Ron Livingston",
+      "Jennifer Aniston",
+      "Gary Cole"
+    ],
+    "rating": 7.6,
+    "summary": "Three company workers who hate their jobs decide to rebel against their greedy boss in a scheme that quickly spirals out of control.",
+    "posterUrl": "/posters/office-space.jpg"
+  },
+  {
+    "id": "penny-dreadful",
+    "title": "Penny Dreadful",
+    "year": 2014,
+    "endYear": 2016,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "creators": [
+      "John Logan"
+    ],
+    "cast": [
+      "Eva Green",
+      "Josh Hartnett",
+      "Timothy Dalton"
+    ],
+    "rating": 8.2,
+    "summary": "Classic horror characters are woven together in this dark Victorian-era drama set in London's demimonde.",
+    "posterUrl": "/posters/penny-dreadful.jpg"
+  },
+  {
+    "id": "person-of-interest",
+    "title": "Person of Interest",
+    "year": 2011,
+    "endYear": 2016,
+    "type": "tv",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "creators": [
+      "Jonathan Nolan"
+    ],
+    "cast": [
+      "Jim Caviezel",
+      "Michael Emerson",
+      "Kevin Chapman"
+    ],
+    "rating": 8.5,
+    "summary": "A billionaire inventor and an ex-CIA agent use a surveillance AI to prevent crimes before they happen.",
+    "posterUrl": "/posters/person-of-interest.jpg"
+  },
+  {
+    "id": "raiders-of-the-lost-ark",
+    "title": "Raiders of the Lost Ark",
+    "year": 1981,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Harrison Ford",
+      "Karen Allen",
+      "Paul Freeman"
+    ],
+    "rating": 8.4,
+    "summary": "Archaeologist and adventurer Indiana Jones races against Nazis to recover the legendary Ark of the Covenant before it falls into enemy hands.",
+    "posterUrl": "/posters/raiders-of-the-lost-ark.jpg"
+  },
+  {
+    "id": "rain-man",
+    "title": "Rain Man",
+    "year": 1988,
+    "type": "movie",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Barry Levinson",
+    "cast": [
+      "Dustin Hoffman",
+      "Tom Cruise",
+      "Valeria Golino"
+    ],
+    "rating": 8,
+    "summary": "A selfish yuppie discovers he has an autistic savant older brother and takes him on a cross-country road trip.",
+    "posterUrl": "/posters/rain-man.jpg"
+  },
+  {
+    "id": "ratatouille",
+    "title": "Ratatouille",
+    "year": 2007,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Brad Bird",
+    "cast": [
+      "Patton Oswalt",
+      "Ian Holm",
+      "Lou Romano"
+    ],
+    "rating": 8.1,
+    "summary": "A rat with a passion for cooking forms an unlikely alliance with a young kitchen worker at a famous Paris restaurant.",
+    "posterUrl": "/posters/ratatouille.jpg"
+  },
+  {
+    "id": "reservoir-dogs",
+    "title": "Reservoir Dogs",
+    "year": 1992,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "Harvey Keitel",
+      "Tim Roth",
+      "Michael Madsen"
+    ],
+    "rating": 8.3,
+    "summary": "After a diamond heist goes wrong, surviving criminals begin to suspect that one of them is a police informant.",
+    "posterUrl": "/posters/reservoir-dogs.jpg"
+  },
+  {
+    "id": "rocky",
+    "title": "Rocky",
+    "year": 1976,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "director": "John G. Avildsen",
+    "cast": [
+      "Sylvester Stallone",
+      "Talia Shire",
+      "Burt Young"
+    ],
+    "rating": 8.1,
+    "summary": "A small-time Philadelphia boxer gets a once-in-a-lifetime chance to fight the world heavyweight champion.",
+    "posterUrl": "/posters/rocky.jpg"
+  },
+  {
+    "id": "roma",
+    "title": "Roma",
+    "year": 2018,
+    "type": "movie",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Alfonso Cuarón",
+    "cast": [
+      "Yalitza Aparicio",
+      "Marina de Tavira",
+      "Diego Cortina Autrey"
+    ],
+    "rating": 7.7,
+    "summary": "A year in the life of a middle-class family's maid in Mexico City in the early 1970s.",
+    "posterUrl": "/posters/roma.jpg"
+  },
+  {
+    "id": "rush-hour",
+    "title": "Rush Hour",
+    "year": 1998,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "director": "Brett Ratner",
+    "cast": [
+      "Jackie Chan",
+      "Chris Tucker",
+      "Tom Wilkinson"
+    ],
+    "rating": 7,
+    "summary": "A loyal Chinese inspector and a wisecracking LAPD detective team up to rescue the Chinese consul's kidnapped daughter.",
+    "posterUrl": "/posters/rush-hour.jpg"
+  },
+  {
+    "id": "saving-private-ryan",
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Tom Hanks",
+      "Matt Damon",
+      "Tom Sizemore"
+    ],
+    "rating": 8.6,
+    "summary": "Following the Normandy landings, a group of U.S. soldiers goes behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+    "posterUrl": "/posters/saving-private-ryan.jpg"
+  },
+  {
+    "id": "scarface",
+    "title": "Scarface",
+    "year": 1983,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Brian De Palma",
+    "cast": [
+      "Al Pacino",
+      "Michelle Pfeiffer",
+      "Steven Bauer"
+    ],
+    "rating": 8.3,
+    "summary": "A Cuban immigrant rises to become a powerful drug lord in Miami, only to be consumed by greed and paranoia.",
+    "posterUrl": "/posters/scarface.jpg"
+  },
+  {
+    "id": "schindlers-list",
+    "title": "Schindler's List",
+    "year": 1993,
+    "type": "movie",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Liam Neeson",
+      "Ralph Fiennes",
+      "Ben Kingsley"
+    ],
+    "rating": 9,
+    "summary": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution.",
+    "posterUrl": "/posters/schindlers-list.jpg"
+  },
+  {
+    "id": "seinfeld",
+    "title": "Seinfeld",
+    "year": 1989,
+    "endYear": 1998,
+    "type": "tv",
+    "genres": [
+      "Comedy"
+    ],
+    "creators": [
+      "Larry David",
+      "Jerry Seinfeld"
+    ],
+    "cast": [
+      "Jerry Seinfeld",
+      "Jason Alexander",
+      "Julia Louis-Dreyfus",
+      "Michael Richards"
+    ],
+    "rating": 8.9,
+    "summary": "Four self-absorbed friends navigate the absurdities of everyday life in New York City in this landmark sitcom about nothing.",
+    "posterUrl": "/posters/seinfeld.jpg"
+  },
+  {
+    "id": "se7en",
+    "title": "Se7en",
+    "year": 1995,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Brad Pitt",
+      "Morgan Freeman",
+      "Kevin Spacey"
+    ],
+    "rating": 8.6,
+    "summary": "Two detectives hunt a serial killer who uses the seven deadly sins as his motif.",
+    "posterUrl": "/posters/se7en.jpg"
+  },
+  {
+    "id": "shutter-island",
+    "title": "Shutter Island",
+    "year": 2010,
+    "type": "movie",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Mark Ruffalo",
+      "Ben Kingsley"
+    ],
+    "rating": 8.2,
+    "summary": "A U.S. Marshal investigates the disappearance of a patient from a hospital for the criminally insane on a remote island.",
+    "posterUrl": "/posters/shutter-island.jpg"
+  },
+  {
+    "id": "silicon-valley",
+    "title": "Silicon Valley",
+    "year": 2014,
+    "endYear": 2019,
+    "type": "tv",
+    "genres": [
+      "Comedy"
+    ],
+    "creators": [
+      "Mike Judge",
+      "John Altschuler",
+      "Dave Krinsky"
+    ],
+    "cast": [
+      "Thomas Middleditch",
+      "T.J. Miller",
+      "Josh Brener",
+      "Martin Starr"
+    ],
+    "rating": 8.5,
+    "summary": "A socially awkward programmer and his friends struggle to navigate the cutthroat world of Silicon Valley startups.",
+    "posterUrl": "/posters/silicon-valley.jpg"
+  },
+  {
+    "id": "silence-of-the-lambs",
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Jonathan Demme",
+    "cast": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Scott Glenn"
+    ],
+    "rating": 8.6,
+    "summary": "A young FBI cadet must receive the help of an incarcerated cannibalistic serial killer to catch another serial killer on the loose.",
+    "posterUrl": "/posters/silence-of-the-lambs.jpg"
+  },
+  {
+    "id": "spider-man-into-the-spider-verse",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "director": "Bob Persichetti",
+    "cast": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld"
+    ],
+    "rating": 8.4,
+    "summary": "Teen Miles Morales becomes the Spider-Man of his dimension and must join with five counterparts from other dimensions to stop a threat to all realities.",
+    "posterUrl": "/posters/spider-man-into-the-spider-verse.jpg"
+  },
+  {
+    "id": "star-wars",
+    "title": "Star Wars",
+    "year": 1977,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "director": "George Lucas",
+    "cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher"
+    ],
+    "rating": 8.6,
+    "summary": "A farm boy joins a ragtag group of rebels to rescue a princess and destroy a planet-killing space station controlled by an evil empire.",
+    "isSeed": true,
+    "posterUrl": "/posters/star-wars.jpg"
+  },
+  {
+    "id": "star-wars-the-empire-strikes-back",
+    "title": "Star Wars: The Empire Strikes Back",
+    "year": 1980,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "director": "Irvin Kershner",
+    "cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher"
+    ],
+    "rating": 8.7,
+    "summary": "After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda while his friends are pursued across the galaxy.",
+    "posterUrl": "/posters/star-wars-the-empire-strikes-back.jpg"
+  },
+  {
+    "id": "succession",
+    "title": "Succession",
+    "year": 2018,
+    "endYear": 2023,
+    "type": "tv",
+    "genres": [
+      "Drama"
+    ],
+    "creators": [
+      "Jesse Armstrong"
+    ],
+    "cast": [
+      "Jeremy Strong",
+      "Sarah Snook",
+      "Kieran Culkin",
+      "Brian Cox"
+    ],
+    "rating": 8.8,
+    "summary": "The Roy family, owners of a global media and entertainment conglomerate, fight for control of the company as the aging patriarch considers stepping down.",
+    "posterUrl": "/posters/succession.jpg"
+  },
+  {
+    "id": "superbad",
+    "title": "Superbad",
+    "year": 2007,
+    "type": "movie",
+    "genres": [
+      "Comedy"
+    ],
+    "director": "Greg Mottola",
+    "cast": [
+      "Jonah Hill",
+      "Michael Cera",
+      "Christopher Mintz-Plasse"
+    ],
+    "rating": 7.6,
+    "summary": "Two co-dependent high school seniors set out to score alcohol for a party on one of the last nights before graduation.",
+    "posterUrl": "/posters/superbad.jpg"
+  },
+  {
+    "id": "ted-lasso",
+    "title": "Ted Lasso",
+    "year": 2020,
+    "endYear": 2023,
+    "type": "tv",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sport"
+    ],
+    "creators": [
+      "Jason Sudeikis",
+      "Bill Lawrence",
+      "Brendan Hunt",
+      "Joe Kelly"
+    ],
+    "cast": [
+      "Jason Sudeikis",
+      "Hannah Waddingham",
+      "Brett Goldstein",
+      "Juno Temple"
+    ],
+    "rating": 8.8,
+    "summary": "An American college football coach is hired to manage a professional English soccer team despite having no experience with the sport.",
+    "posterUrl": "/posters/ted-lasso.jpg"
+  },
+  {
+    "id": "the-lord-of-the-rings-the-return-of-the-king",
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Viggo Mortensen",
+      "Ian McKellen",
+      "Sean Astin"
+    ],
+    "rating": 9,
+    "summary": "Gandalf and Aragorn lead the World of Men against Sauron's army to distract him from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "posterUrl": "/posters/the-lord-of-the-rings-the-return-of-the-king.jpg"
+  },
+  {
+    "id": "the-lord-of-the-rings-the-two-towers",
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "director": "Peter Jackson",
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen",
+      "Andy Serkis"
+    ],
+    "rating": 8.8,
+    "summary": "The Fellowship is broken, and its members must face their separate destinies as the dark lord Sauron's forces march toward Middle-earth.",
+    "posterUrl": "/posters/the-lord-of-the-rings-the-two-towers.jpg"
+  },
+  {
+    "id": "the-shining",
+    "title": "The Shining",
+    "year": 1980,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Danny Lloyd"
+    ],
+    "rating": 8.4,
+    "summary": "A family heads to an isolated hotel for the winter where a sinister presence drives the father into violent madness.",
+    "posterUrl": "/posters/the-shining.jpg"
+  },
+  {
+    "id": "the-sopranos",
+    "title": "The Sopranos",
+    "year": 1999,
+    "endYear": 2007,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "creators": [
+      "David Chase"
+    ],
+    "cast": [
+      "James Gandolfini",
+      "Lorraine Bracco",
+      "Edie Falco",
+      "Michael Imperioli"
+    ],
+    "rating": 9.2,
+    "summary": "New Jersey mob boss Tony Soprano navigates the demands of his criminal empire while dealing with personal and family issues in therapy.",
+    "isSeed": true,
+    "posterUrl": "/posters/the-sopranos.jpg"
+  },
+  {
+    "id": "the-truman-show",
+    "title": "The Truman Show",
+    "year": 1998,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Peter Weir",
+    "cast": [
+      "Jim Carrey",
+      "Ed Harris",
+      "Laura Linney"
+    ],
+    "rating": 8.2,
+    "summary": "An insurance salesman discovers his entire life has been a reality TV show broadcast to the world.",
+    "posterUrl": "/posters/the-truman-show.jpg"
+  },
+  {
+    "id": "the-usual-suspects",
+    "title": "The Usual Suspects",
+    "year": 1995,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Bryan Singer",
+    "cast": [
+      "Kevin Spacey",
+      "Gabriel Byrne",
+      "Chazz Palminteri",
+      "Benicio del Toro"
+    ],
+    "rating": 8.5,
+    "summary": "A sole survivor tells the twisted events leading up to a horrific gun battle on a boat, beginning with five criminals meeting at a police lineup.",
+    "posterUrl": "/posters/the-usual-suspects.jpg"
+  },
+  {
+    "id": "the-wire",
+    "title": "The Wire",
+    "year": 2002,
+    "endYear": 2008,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "creators": [
+      "David Simon"
+    ],
+    "cast": [
+      "Dominic West",
+      "Wendell Pierce",
+      "Michael K. Williams",
+      "Idris Elba"
+    ],
+    "rating": 9.3,
+    "summary": "Baltimore's drug scene is explored through the eyes of both law enforcement and drug dealers in this sprawling examination of a modern American city.",
+    "isSeed": true,
+    "posterUrl": "/posters/the-wire.jpg"
+  },
+  {
+    "id": "the-wolf-of-wall-street",
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "type": "movie",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Jonah Hill",
+      "Margot Robbie"
+    ],
+    "rating": 8.2,
+    "summary": "Based on the true story of Jordan Belfort, who rose from penny stocks to founding a brokerage firm that engaged in massive securities fraud.",
+    "posterUrl": "/posters/the-wolf-of-wall-street.jpg"
+  },
+  {
+    "id": "there-will-be-blood",
+    "title": "There Will Be Blood",
+    "year": 2007,
+    "type": "movie",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Paul Thomas Anderson",
+    "cast": [
+      "Daniel Day-Lewis",
+      "Paul Dano",
+      "Ciarán Hinds"
+    ],
+    "rating": 8.2,
+    "summary": "A ruthless silver miner turned oilman moves to oil-rich California and enters into a rivalry with a local preacher.",
+    "posterUrl": "/posters/there-will-be-blood.jpg"
+  },
+  {
+    "id": "titanic",
+    "title": "Titanic",
+    "year": 1997,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": "James Cameron",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane"
+    ],
+    "rating": 7.9,
+    "summary": "A seventeen-year-old aristocrat falls in love with a penniless artist aboard the ill-fated R.M.S. Titanic.",
+    "isSeed": true,
+    "posterUrl": "/posters/titanic.jpg"
+  },
+  {
+    "id": "top-gun-maverick",
+    "title": "Top Gun: Maverick",
+    "year": 2022,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "director": "Joseph Kosinski",
+    "cast": [
+      "Tom Cruise",
+      "Miles Teller",
+      "Jennifer Connelly"
+    ],
+    "rating": 8.2,
+    "summary": "After more than thirty years as a top naval aviator, Pete Mitchell is called back to train a group of graduates for a dangerous mission.",
+    "posterUrl": "/posters/top-gun-maverick.jpg"
+  },
+  {
+    "id": "toy-story",
+    "title": "Toy Story",
+    "year": 1995,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "John Lasseter",
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles"
+    ],
+    "rating": 8.3,
+    "summary": "A cowboy doll is profoundly threatened when a new spaceman figure supplants him as top toy in a boy's room.",
+    "posterUrl": "/posters/toy-story.jpg"
+  },
+  {
+    "id": "toy-story-3",
+    "title": "Toy Story 3",
+    "year": 2010,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Lee Unkrich",
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack"
+    ],
+    "rating": 8.3,
+    "summary": "The toys are mistakenly delivered to a daycare center instead of the attic right before Andy leaves for college.",
+    "posterUrl": "/posters/toy-story-3.jpg"
+  },
+  {
+    "id": "true-detective",
+    "title": "True Detective",
+    "year": 2014,
+    "endYear": 2024,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "creators": [
+      "Nic Pizzolatto"
+    ],
+    "cast": [
+      "Matthew McConaughey",
+      "Woody Harrelson",
+      "Mahershala Ali",
+      "Jodie Foster"
+    ],
+    "rating": 8.9,
+    "summary": "An anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law.",
+    "posterUrl": "/posters/true-detective.jpg"
+  },
+  {
+    "id": "uncut-gems",
+    "title": "Uncut Gems",
+    "year": 2019,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Josh Safdie",
+    "cast": [
+      "Adam Sandler",
+      "Julia Fox",
+      "Kevin Garnett",
+      "Idina Menzel"
+    ],
+    "rating": 7.4,
+    "summary": "A charismatic New York City jeweler makes a series of high-stakes bets that could win him a fortune or cost him everything.",
+    "posterUrl": "/posters/uncut-gems.jpg"
+  },
+  {
+    "id": "unforgiven",
+    "title": "Unforgiven",
+    "year": 1992,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "director": "Clint Eastwood",
+    "cast": [
+      "Clint Eastwood",
+      "Gene Hackman",
+      "Morgan Freeman"
+    ],
+    "rating": 8.2,
+    "summary": "A retired Old West gunslinger reluctantly takes on one last job to collect a bounty offered by a group of women.",
+    "posterUrl": "/posters/unforgiven.jpg"
+  },
+  {
+    "id": "up",
+    "title": "Up",
+    "year": 2009,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "director": "Pete Docter",
+    "cast": [
+      "Ed Asner",
+      "Jordan Nagai",
+      "Christopher Plummer"
+    ],
+    "rating": 8.3,
+    "summary": "A seventy-eight-year-old balloon salesman ties thousands of balloons to his house and flies to South America, inadvertently bringing along a young stowaway.",
+    "posterUrl": "/posters/up.jpg"
+  },
+  {
+    "id": "veep",
+    "title": "Veep",
+    "year": 2012,
+    "endYear": 2019,
+    "type": "tv",
+    "genres": [
+      "Comedy"
+    ],
+    "creators": [
+      "Armando Iannucci"
+    ],
+    "cast": [
+      "Julia Louis-Dreyfus",
+      "Tony Hale",
+      "Anna Chlumsky",
+      "Matt Walsh"
+    ],
+    "rating": 8.3,
+    "summary": "A comedic look at the day-to-day life of the Vice President of the United States, featuring the political maneuvering and mishaps of her office.",
+    "posterUrl": "/posters/veep.jpg"
+  },
+  {
+    "id": "wall-e",
+    "title": "WALL-E",
+    "year": 2008,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Sci-Fi"
+    ],
+    "director": "Andrew Stanton",
+    "cast": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin"
+    ],
+    "rating": 8.4,
+    "summary": "In the distant future, a small waste-collecting robot on a deserted Earth inadvertently embarks on a space journey that will decide the fate of mankind.",
+    "posterUrl": "/posters/wall-e.jpg"
+  },
+  {
+    "id": "westworld",
+    "title": "Westworld",
+    "year": 2016,
+    "endYear": 2022,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "creators": [
+      "Jonathan Nolan",
+      "Lisa Joy"
+    ],
+    "cast": [
+      "Evan Rachel Wood",
+      "Thandiwe Newton",
+      "Jeffrey Wright",
+      "Ed Harris"
+    ],
+    "rating": 8.5,
+    "summary": "A dark odyssey about the dawn of artificial consciousness and the evolution of sin in a futuristic theme park populated by androids.",
+    "posterUrl": "/posters/westworld.jpg"
+  },
+  {
+    "id": "whiplash",
+    "title": "Whiplash",
+    "year": 2014,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Musical"
+    ],
+    "director": "Damien Chazelle",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Melissa Benoist"
+    ],
+    "rating": 8.5,
+    "summary": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+    "posterUrl": "/posters/whiplash.jpg"
+  },
+  {
+    "id": "zodiac",
+    "title": "Zodiac",
+    "year": 2007,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Jake Gyllenhaal",
+      "Robert Downey Jr.",
+      "Mark Ruffalo"
+    ],
+    "rating": 7.7,
+    "summary": "A San Francisco cartoonist becomes obsessed with tracking down the identity of the Zodiac Killer, an unsolved case that also consumed the lives of police inspectors and reporters.",
+    "posterUrl": "/posters/zodiac.jpg"
+  },
+  {
+    "id": "the-social-network",
+    "title": "The Social Network",
+    "year": 2010,
+    "type": "movie",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Jesse Eisenberg",
+      "Andrew Garfield",
+      "Justin Timberlake"
+    ],
+    "rating": 7.8,
+    "summary": "The founding of Facebook is explored through the legal battles of its creator Mark Zuckerberg against former friends who claimed he stole their idea.",
+    "posterUrl": "/posters/the-social-network.jpg"
+  },
+  {
+    "id": "the-queen-s-gambit",
+    "title": "The Queen's Gambit",
+    "year": 2020,
+    "type": "tv",
+    "genres": [
+      "Drama"
+    ],
+    "creators": [
+      "Scott Frank",
+      "Allan Scott"
+    ],
+    "cast": [
+      "Anya Taylor-Joy",
+      "Thomas Brodie-Sangster",
+      "Harry Melling"
+    ],
+    "rating": 8.6,
+    "summary": "An orphaned chess prodigy struggles with addiction on her quest to become the greatest chess player in the world.",
+    "posterUrl": "/posters/the-queen-s-gambit.jpg"
+  },
+  {
+    "id": "squid-game",
+    "title": "Squid Game",
+    "year": 2021,
+    "type": "tv",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "creators": [
+      "Hwang Dong-hyuk"
+    ],
+    "cast": [
+      "Lee Jung-jae",
+      "Park Hae-soo",
+      "Wi Ha-joon"
+    ],
+    "rating": 8,
+    "summary": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games for a life-changing prize, but the stakes are deadly.",
+    "posterUrl": "/posters/squid-game.jpg"
+  },
+  {
+    "id": "severance",
+    "title": "Severance",
+    "year": 2022,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "creators": [
+      "Dan Erickson"
+    ],
+    "cast": [
+      "Adam Scott",
+      "Zach Cherry",
+      "Britt Lower",
+      "Patricia Arquette"
+    ],
+    "rating": 8.7,
+    "summary": "Employees at a mysterious biotech company undergo a surgical procedure that separates their work memories from their personal memories.",
+    "posterUrl": "/posters/severance.jpg"
+  },
+  {
+    "id": "taxi-driver",
+    "title": "Taxi Driver",
+    "year": 1976,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Jodie Foster",
+      "Cybill Shepherd"
+    ],
+    "rating": 8.2,
+    "summary": "A mentally unstable Vietnam War veteran works as a nighttime taxi driver in New York City and becomes increasingly obsessed with cleaning up the city's moral decay.",
+    "posterUrl": "/posters/taxi-driver.jpg"
+  },
+  {
+    "id": "the-terminator",
+    "title": "The Terminator",
+    "year": 1984,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "director": "James Cameron",
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Michael Biehn"
+    ],
+    "rating": 8.1,
+    "summary": "A cyborg assassin is sent back in time from 2029 to 1984 to kill a woman whose unborn son will lead humanity in a war against machines.",
+    "posterUrl": "/posters/the-terminator.jpg"
+  },
+  {
+    "id": "terminator-2-judgment-day",
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "director": "James Cameron",
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Edward Furlong",
+      "Robert Patrick"
+    ],
+    "rating": 8.6,
+    "summary": "A reprogrammed cyborg is sent back in time to protect the future leader of the human resistance from a more advanced and deadly shape-shifting terminator.",
+    "posterUrl": "/posters/terminator-2-judgment-day.jpg"
+  },
+  {
+    "id": "the-thing",
+    "title": "The Thing",
+    "year": 1982,
+    "type": "movie",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "director": "John Carpenter",
+    "cast": [
+      "Kurt Russell",
+      "Wilford Brimley",
+      "Keith David"
+    ],
+    "rating": 8.2,
+    "summary": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+    "posterUrl": "/posters/the-thing.jpg"
+  },
+  {
+    "id": "twister",
+    "title": "Twister",
+    "year": 1996,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "director": "Jan de Bont",
+    "cast": [
+      "Helen Hunt",
+      "Bill Paxton",
+      "Cary Elwes"
+    ],
+    "rating": 6.4,
+    "summary": "Storm chasers attempt to deploy a tornado research device during a severe outbreak of tornadoes in Oklahoma.",
+    "posterUrl": "/posters/twister.jpg"
+  },
+  {
+    "id": "the-sixth-sense",
+    "title": "The Sixth Sense",
+    "year": 1999,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "M. Night Shyamalan",
+    "cast": [
+      "Bruce Willis",
+      "Haley Joel Osment",
+      "Toni Collette"
+    ],
+    "rating": 8.1,
+    "summary": "A boy who communicates with spirits seeks the help of a disheartened child psychologist.",
+    "posterUrl": "/posters/the-sixth-sense.jpg"
+  },
+  {
+    "id": "the-princess-bride",
+    "title": "The Princess Bride",
+    "year": 1987,
+    "type": "movie",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Romance"
+    ],
+    "director": "Rob Reiner",
+    "cast": [
+      "Cary Elwes",
+      "Robin Wright",
+      "Mandy Patinkin"
+    ],
+    "rating": 8.1,
+    "summary": "A grandfather reads his sick grandson a story about a farmboy-turned-pirate who encounters numerous obstacles as he tries to reunite with his true love.",
+    "posterUrl": "/posters/the-princess-bride.jpg"
+  },
+  {
+    "id": "trainspotting",
+    "title": "Trainspotting",
+    "year": 1996,
+    "type": "movie",
+    "genres": [
+      "Drama"
+    ],
+    "director": "Danny Boyle",
+    "cast": [
+      "Ewan McGregor",
+      "Ewen Bremner",
+      "Jonny Lee Miller",
+      "Robert Carlyle"
+    ],
+    "rating": 8.1,
+    "summary": "A young Edinburgh man struggles to find something worthwhile to do with his life amid heroin addiction, unemployment, and dead-end relationships.",
+    "posterUrl": "/posters/trainspotting.jpg"
+  },
+  {
+    "id": "the-revenant",
+    "title": "The Revenant",
+    "year": 2015,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Alejandro González Iñárritu",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Tom Hardy",
+      "Domhnall Gleeson"
+    ],
+    "rating": 8,
+    "summary": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by his own hunting team.",
+    "posterUrl": "/posters/the-revenant.jpg"
+  },
+  {
+    "id": "scott-pilgrim-vs-the-world",
+    "title": "Scott Pilgrim vs. the World",
+    "year": 2010,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "director": "Edgar Wright",
+    "cast": [
+      "Michael Cera",
+      "Mary Elizabeth Winstead",
+      "Kieran Culkin"
+    ],
+    "rating": 7.7,
+    "summary": "A slacker musician must defeat his new girlfriend's seven evil exes in order to date her.",
+    "posterUrl": "/posters/scott-pilgrim-vs-the-world.jpg"
+  },
+  {
+    "id": "the-handmaids-tale",
+    "title": "The Handmaid's Tale",
+    "year": 2017,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "creators": [
+      "Bruce Miller"
+    ],
+    "cast": [
+      "Elisabeth Moss",
+      "Yvonne Strahovski",
+      "Joseph Fiennes"
+    ],
+    "rating": 8.4,
+    "summary": "Set in a dystopian future where a totalitarian society forces fertile women into child-bearing servitude.",
+    "posterUrl": "/posters/the-handmaids-tale.jpg"
+  },
+  {
+    "id": "schitts-creek",
+    "title": "Schitt's Creek",
+    "year": 2015,
+    "endYear": 2020,
+    "type": "tv",
+    "genres": [
+      "Comedy"
+    ],
+    "creators": [
+      "Dan Levy",
+      "Eugene Levy"
+    ],
+    "cast": [
+      "Eugene Levy",
+      "Catherine O'Hara",
+      "Dan Levy",
+      "Annie Murphy"
+    ],
+    "rating": 8.5,
+    "summary": "A wealthy family suddenly finds themselves broke and must rebuild their lives in a small town they once bought as a joke.",
+    "posterUrl": "/posters/schitts-creek.jpg"
+  },
+  {
+    "id": "the-west-wing",
+    "title": "The West Wing",
+    "year": 1999,
+    "endYear": 2006,
+    "type": "tv",
+    "genres": [
+      "Drama"
+    ],
+    "creators": [
+      "Aaron Sorkin"
+    ],
+    "cast": [
+      "Martin Sheen",
+      "Rob Lowe",
+      "Allison Janney",
+      "Bradley Whitford"
+    ],
+    "rating": 8.9,
+    "summary": "An idealistic group of staffers navigate the inner workings of the White House under a fictional Democratic president.",
+    "posterUrl": "/posters/the-west-wing.jpg"
+  },
+  {
+    "id": "the-walking-dead",
+    "title": "The Walking Dead",
+    "year": 2010,
+    "endYear": 2022,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "creators": [
+      "Frank Darabont"
+    ],
+    "cast": [
+      "Andrew Lincoln",
+      "Norman Reedus",
+      "Melissa McBride"
+    ],
+    "rating": 8.1,
+    "summary": "A group of survivors navigate a post-apocalyptic world overrun by zombies while struggling to maintain their humanity.",
+    "posterUrl": "/posters/the-walking-dead.jpg"
+  },
+  {
+    "id": "the-x-files",
+    "title": "The X-Files",
+    "year": 1993,
+    "endYear": 2018,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "creators": [
+      "Chris Carter"
+    ],
+    "cast": [
+      "David Duchovny",
+      "Gillian Anderson",
+      "Mitch Pileggi"
+    ],
+    "rating": 8.6,
+    "summary": "Two FBI agents investigate unexplained, paranormal cases known as X-Files, uncovering a vast government conspiracy.",
+    "posterUrl": "/posters/the-x-files.jpg"
+  },
+  {
+    "id": "twin-peaks",
+    "title": "Twin Peaks",
+    "year": 1990,
+    "endYear": 1991,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "creators": [
+      "Mark Frost",
+      "David Lynch"
+    ],
+    "cast": [
+      "Kyle MacLachlan",
+      "Michael Ontkean",
+      "Mädchen Amick"
+    ],
+    "rating": 8.8,
+    "summary": "An FBI agent investigates the murder of a young woman in the small town of Twin Peaks, uncovering a web of crime and supernatural mystery.",
+    "posterUrl": "/posters/twin-peaks.jpg"
+  },
+  {
+    "id": "south-park",
+    "title": "South Park",
+    "year": 1997,
+    "type": "tv",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "creators": [
+      "Trey Parker",
+      "Matt Stone"
+    ],
+    "cast": [
+      "Trey Parker",
+      "Matt Stone"
+    ],
+    "rating": 8.7,
+    "summary": "Four foul-mouthed boys in a small Colorado town navigate outrageous adventures that satirize current events and pop culture.",
+    "posterUrl": "/posters/south-park.jpg"
+  },
+  {
+    "id": "the-simpsons",
+    "title": "The Simpsons",
+    "year": 1989,
+    "type": "tv",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "creators": [
+      "Matt Groening"
+    ],
+    "cast": [
+      "Dan Castellaneta",
+      "Julie Kavner",
+      "Nancy Cartwright",
+      "Yeardley Smith"
+    ],
+    "rating": 8.7,
+    "summary": "The satiric adventures of a working-class family in the misfit city of Springfield.",
+    "posterUrl": "/posters/the-simpsons.jpg"
+  },
+  {
+    "id": "the-twilight-zone",
+    "title": "The Twilight Zone",
+    "year": 1959,
+    "endYear": 1964,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "creators": [
+      "Rod Serling"
+    ],
+    "cast": [
+      "Rod Serling"
+    ],
+    "rating": 9,
+    "summary": "An anthology series exploring the bizarre and unexpected through standalone tales of science fiction, fantasy, and the supernatural.",
+    "posterUrl": "/posters/the-twilight-zone.jpg"
+  },
+  {
+    "id": "spirited-away",
+    "title": "Spirited Away",
+    "year": 2001,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "director": "Hayao Miyazaki",
+    "cast": [
+      "Daveigh Chase",
+      "Suzanne Pleshette",
+      "Jason Marsden"
+    ],
+    "rating": 8.6,
+    "summary": "During her family's move to the suburbs, a sullen ten-year-old girl wanders into a world ruled by gods, witches, and spirits where humans are changed into beasts.",
+    "isSeed": true,
+    "posterUrl": "/posters/spirited-away.jpg"
+  },
+  {
+    "id": "the-witch",
+    "title": "The Witch",
+    "year": 2015,
+    "type": "movie",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "director": "Robert Eggers",
+    "cast": [
+      "Anya Taylor-Joy",
+      "Ralph Ineson",
+      "Kate Dickie"
+    ],
+    "rating": 6.9,
+    "summary": "A devout Puritan family in 1630s New England is torn apart by the forces of witchcraft, black magic, and possession.",
+    "posterUrl": "/posters/the-witch.jpg"
+  },
+  {
+    "id": "sicario",
+    "title": "Sicario",
+    "year": 2015,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Emily Blunt",
+      "Benicio del Toro",
+      "Josh Brolin"
+    ],
+    "rating": 7.6,
+    "summary": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the U.S.-Mexico border.",
+    "posterUrl": "/posters/sicario.jpg"
+  },
+  {
+    "id": "this-is-us",
+    "title": "This Is Us",
+    "year": 2016,
+    "endYear": 2022,
+    "type": "tv",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "creators": [
+      "Dan Fogelman"
+    ],
+    "cast": [
+      "Milo Ventimiglia",
+      "Mandy Moore",
+      "Sterling K. Brown"
+    ],
+    "rating": 8.7,
+    "summary": "A heartwarming drama following the lives of the Pearson family across multiple decades, from the parents' early relationship to their triplets' adult lives.",
+    "posterUrl": "/posters/this-is-us.jpg"
+  },
+  {
+    "id": "wonka",
+    "title": "Willy Wonka & the Chocolate Factory",
+    "year": 1971,
+    "type": "movie",
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Musical"
+    ],
+    "director": "Mel Stuart",
+    "cast": [
+      "Gene Wilder",
+      "Jack Albertson",
+      "Peter Ostrum"
+    ],
+    "rating": 7.8,
+    "summary": "A poor boy wins a golden ticket to tour the mysterious chocolate factory of eccentric candymaker Willy Wonka.",
+    "posterUrl": "/posters/wonka.jpg"
+  },
+  {
+    "id": "x-men-days-of-future-past",
+    "title": "X-Men: Days of Future Past",
+    "year": 2014,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "Bryan Singer",
+    "cast": [
+      "Patrick Stewart",
+      "Ian McKellen",
+      "Hugh Jackman",
+      "James McAvoy",
+      "Jennifer Lawrence"
+    ],
+    "rating": 7.9,
+    "summary": "The X-Men send Wolverine back in time to change a major historical event that could globally impact man and mutant alike.",
+    "posterUrl": "/posters/x-men-days-of-future-past.jpg"
+  },
+  {
+    "id": "the-batman",
+    "title": "The Batman",
+    "year": 2022,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "director": "Matt Reeves",
+    "cast": [
+      "Robert Pattinson",
+      "Zoë Kravitz",
+      "Paul Dano",
+      "Colin Farrell"
+    ],
+    "rating": 7.8,
+    "summary": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while pursuing the Riddler.",
+    "posterUrl": "/posters/the-batman.jpg"
+  },
+  {
+    "id": "yellowstone",
+    "title": "Yellowstone",
+    "year": 2018,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "creators": [
+      "Taylor Sheridan",
+      "John Linson"
+    ],
+    "cast": [
+      "Kevin Costner",
+      "Luke Grimes",
+      "Kelly Reilly",
+      "Wes Bentley"
+    ],
+    "rating": 8.7,
+    "summary": "A ranching family in Montana faces constant conflict from those who seek control of their land.",
+    "posterUrl": "/posters/yellowstone.jpg"
+  },
+  {
+    "id": "you",
+    "title": "You",
+    "year": 2018,
+    "type": "tv",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "creators": [
+      "Greg Berlanti",
+      "Sera Gamble"
+    ],
+    "cast": [
+      "Penn Badgley",
+      "Victoria Pedretti",
+      "Elizabeth Lail"
+    ],
+    "rating": 7.7,
+    "summary": "A dangerously charming bookstore manager uses his obsessive nature to insert himself into the lives of those he is drawn to.",
+    "posterUrl": "/posters/you.jpg"
+  },
+  {
+    "id": "the-talented-mr-ripley",
+    "title": "The Talented Mr. Ripley",
+    "year": 1999,
+    "type": "movie",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Anthony Minghella",
+    "cast": [
+      "Matt Damon",
+      "Gwyneth Paltrow",
+      "Jude Law",
+      "Cate Blanchett"
+    ],
+    "rating": 7.4,
+    "summary": "A young underachiever is sent to Italy to retrieve a wealthy man's spoiled son, but instead assumes his identity.",
+    "posterUrl": "/posters/the-talented-mr-ripley.jpg"
+  },
+  {
+    "id": "the-white-lotus",
+    "title": "The White Lotus",
+    "year": 2021,
+    "type": "tv",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "creators": [
+      "Mike White"
+    ],
+    "cast": [
+      "Jennifer Coolidge",
+      "Murray Bartlett",
+      "Connie Britton",
+      "Aubrey Plaza"
+    ],
+    "rating": 7.9,
+    "summary": "A satirical anthology series following wealthy guests and employees at a luxury resort chain as their vacations unravel.",
+    "posterUrl": "/posters/the-white-lotus.jpg"
+  },
+  {
+    "id": "raging-bull",
+    "title": "Raging Bull",
+    "year": 1980,
+    "type": "movie",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Cathy Moriarty",
+      "Joe Pesci"
+    ],
+    "rating": 8.2,
+    "summary": "The life of middleweight boxer Jake LaMotta, whose violent temper and inner demons destroy his relationships and career.",
+    "posterUrl": "/posters/raging-bull.jpg"
+  },
+  {
+    "id": "rear-window",
+    "title": "Rear Window",
+    "year": 1954,
+    "type": "movie",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "director": "Alfred Hitchcock",
+    "cast": [
+      "James Stewart",
+      "Grace Kelly",
+      "Wendell Corey"
+    ],
+    "rating": 8.5,
+    "summary": "A wheelchair-bound photographer spies on his neighbors from his Greenwich Village apartment window and becomes convinced one of them has committed murder.",
+    "posterUrl": "/posters/rear-window.jpg"
+  },
+  {
+    "id": "the-incredibles",
+    "title": "The Incredibles",
+    "year": 2004,
+    "type": "movie",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "director": "Brad Bird",
+    "cast": [
+      "Craig T. Nelson",
+      "Holly Hunter",
+      "Samuel L. Jackson"
+    ],
+    "rating": 8,
+    "summary": "A family of undercover superheroes is forced out of retirement to save the world while navigating the challenges of suburban life.",
+    "posterUrl": "/posters/the-incredibles.jpg"
+  },
+  {
+    "id": "shaun-of-the-dead",
+    "title": "Shaun of the Dead",
+    "year": 2004,
+    "type": "movie",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "director": "Edgar Wright",
+    "cast": [
+      "Simon Pegg",
+      "Nick Frost",
+      "Kate Ashfield"
+    ],
+    "rating": 7.9,
+    "summary": "A man's uneventful life is disrupted by a sudden zombie apocalypse, forcing him to become the unlikely hero his friends need.",
+    "posterUrl": "/posters/shaun-of-the-dead.jpg"
+  },
+  {
+    "id": "talk-to-me",
+    "title": "Talk to Me",
+    "year": 2023,
+    "type": "movie",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "director": "Danny Philippou",
+    "cast": [
+      "Sophie Wilde",
+      "Alexandra Jensen",
+      "Joe Bird"
+    ],
+    "rating": 7.1,
+    "summary": "A group of friends discover they can contact spirits through an embalmed hand, but their thrill-seeking ritual unleashes terrifying supernatural forces.",
+    "posterUrl": "/posters/talk-to-me.jpg"
+  },
+  {
+    "id": "the-witch-part-2",
+    "title": "The Witch: Part 2. The Other One",
+    "year": 2022,
+    "type": "movie",
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "director": "Park Hoon-jung",
+    "cast": [
+      "Shin Si-ah",
+      "Park Eun-bin",
+      "Jin Goo"
+    ],
+    "rating": 5.9,
+    "summary": "A girl with mysterious powers is pursued by various forces after escaping from a secret government facility.",
+    "posterUrl": "/posters/the-witch-part-2.jpg"
+  },
+  {
+    "id": "yellowjackets",
+    "title": "Yellowjackets",
+    "year": 2021,
+    "type": "tv",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "creators": [
+      "Ashley Lyle",
+      "Bart Nickerson"
+    ],
+    "cast": [
+      "Melanie Lynskey",
+      "Tawny Cypress",
+      "Christina Ricci",
+      "Juliette Lewis"
+    ],
+    "rating": 7.8,
+    "summary": "A high school girls' soccer team survives a plane crash in the wilderness, and twenty-five years later the survivors reckon with what they did to stay alive.",
+    "posterUrl": "/posters/yellowjackets.jpg"
+  }
+]

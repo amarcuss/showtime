@@ -1,0 +1,6379 @@
+[
+  {
+    "source": "inception",
+    "target": "the-dark-knight",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "inception",
+    "target": "the-dark-knight-rises",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "inception",
+    "target": "batman-begins",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "inception",
+    "target": "interstellar",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "inception",
+    "target": "the-prestige",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "inception",
+    "target": "memento",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "inception",
+    "target": "oppenheimer",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "the-dark-knight",
+    "target": "the-dark-knight-rises",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "the-dark-knight",
+    "target": "batman-begins",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "the-dark-knight",
+    "target": "interstellar",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "the-dark-knight",
+    "target": "the-prestige",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "the-dark-knight",
+    "target": "memento",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "the-dark-knight",
+    "target": "oppenheimer",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "the-dark-knight-rises",
+    "target": "batman-begins",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "the-dark-knight-rises",
+    "target": "interstellar",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "the-dark-knight-rises",
+    "target": "the-prestige",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "the-dark-knight-rises",
+    "target": "memento",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "the-dark-knight-rises",
+    "target": "oppenheimer",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "batman-begins",
+    "target": "interstellar",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "batman-begins",
+    "target": "the-prestige",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "batman-begins",
+    "target": "memento",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "batman-begins",
+    "target": "oppenheimer",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "interstellar",
+    "target": "the-prestige",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "interstellar",
+    "target": "memento",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "interstellar",
+    "target": "oppenheimer",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "the-prestige",
+    "target": "memento",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "the-prestige",
+    "target": "oppenheimer",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "memento",
+    "target": "oppenheimer",
+    "relationship": "shared_director",
+    "label": "Both directed by Christopher Nolan",
+    "strength": 4
+  },
+  {
+    "source": "pulp-fiction",
+    "target": "django-unchained",
+    "relationship": "shared_director",
+    "label": "Both directed by Quentin Tarantino",
+    "strength": 4
+  },
+  {
+    "source": "pulp-fiction",
+    "target": "kill-bill-vol-1",
+    "relationship": "shared_director",
+    "label": "Both directed by Quentin Tarantino",
+    "strength": 4
+  },
+  {
+    "source": "pulp-fiction",
+    "target": "inglourious-basterds",
+    "relationship": "shared_director",
+    "label": "Both directed by Quentin Tarantino",
+    "strength": 4
+  },
+  {
+    "source": "pulp-fiction",
+    "target": "reservoir-dogs",
+    "relationship": "shared_director",
+    "label": "Both directed by Quentin Tarantino",
+    "strength": 4
+  },
+  {
+    "source": "pulp-fiction",
+    "target": "once-upon-a-time-in-hollywood",
+    "relationship": "shared_director",
+    "label": "Both directed by Quentin Tarantino",
+    "strength": 4
+  },
+  {
+    "source": "django-unchained",
+    "target": "kill-bill-vol-1",
+    "relationship": "shared_director",
+    "label": "Both directed by Quentin Tarantino",
+    "strength": 4
+  },
+  {
+    "source": "django-unchained",
+    "target": "inglourious-basterds",
+    "relationship": "shared_director",
+    "label": "Both directed by Quentin Tarantino",
+    "strength": 4
+  },
+  {
+    "source": "django-unchained",
+    "target": "reservoir-dogs",
+    "relationship": "shared_director",
+    "label": "Both directed by Quentin Tarantino",
+    "strength": 4
+  },
+  {
+    "source": "django-unchained",
+    "target": "once-upon-a-time-in-hollywood",
+    "relationship": "shared_director",
+    "label": "Both directed by Quentin Tarantino",
+    "strength": 4
+  },
+  {
+    "source": "kill-bill-vol-1",
+    "target": "inglourious-basterds",
+    "relationship": "shared_director",
+    "label": "Both directed by Quentin Tarantino",
+    "strength": 4
+  },
+  {
+    "source": "kill-bill-vol-1",
+    "target": "reservoir-dogs",
+    "relationship": "shared_director",
+    "label": "Both directed by Quentin Tarantino",
+    "strength": 4
+  },
+  {
+    "source": "kill-bill-vol-1",
+    "target": "once-upon-a-time-in-hollywood",
+    "relationship": "shared_director",
+    "label": "Both directed by Quentin Tarantino",
+    "strength": 4
+  },
+  {
+    "source": "inglourious-basterds",
+    "target": "reservoir-dogs",
+    "relationship": "shared_director",
+    "label": "Both directed by Quentin Tarantino",
+    "strength": 4
+  },
+  {
+    "source": "inglourious-basterds",
+    "target": "once-upon-a-time-in-hollywood",
+    "relationship": "shared_director",
+    "label": "Both directed by Quentin Tarantino",
+    "strength": 4
+  },
+  {
+    "source": "reservoir-dogs",
+    "target": "once-upon-a-time-in-hollywood",
+    "relationship": "shared_director",
+    "label": "Both directed by Quentin Tarantino",
+    "strength": 4
+  },
+  {
+    "source": "goodfellas",
+    "target": "the-departed",
+    "relationship": "shared_director",
+    "label": "Both directed by Martin Scorsese",
+    "strength": 4
+  },
+  {
+    "source": "goodfellas",
+    "target": "the-wolf-of-wall-street",
+    "relationship": "shared_director",
+    "label": "Both directed by Martin Scorsese",
+    "strength": 4
+  },
+  {
+    "source": "goodfellas",
+    "target": "taxi-driver",
+    "relationship": "shared_director",
+    "label": "Both directed by Martin Scorsese",
+    "strength": 4
+  },
+  {
+    "source": "goodfellas",
+    "target": "raging-bull",
+    "relationship": "shared_director",
+    "label": "Both directed by Martin Scorsese",
+    "strength": 4
+  },
+  {
+    "source": "the-departed",
+    "target": "the-wolf-of-wall-street",
+    "relationship": "shared_director",
+    "label": "Both directed by Martin Scorsese",
+    "strength": 4
+  },
+  {
+    "source": "the-departed",
+    "target": "taxi-driver",
+    "relationship": "shared_director",
+    "label": "Both directed by Martin Scorsese",
+    "strength": 4
+  },
+  {
+    "source": "the-departed",
+    "target": "raging-bull",
+    "relationship": "shared_director",
+    "label": "Both directed by Martin Scorsese",
+    "strength": 4
+  },
+  {
+    "source": "the-wolf-of-wall-street",
+    "target": "taxi-driver",
+    "relationship": "shared_director",
+    "label": "Both directed by Martin Scorsese",
+    "strength": 4
+  },
+  {
+    "source": "the-wolf-of-wall-street",
+    "target": "raging-bull",
+    "relationship": "shared_director",
+    "label": "Both directed by Martin Scorsese",
+    "strength": 4
+  },
+  {
+    "source": "taxi-driver",
+    "target": "raging-bull",
+    "relationship": "shared_director",
+    "label": "Both directed by Martin Scorsese",
+    "strength": 4
+  },
+  {
+    "source": "jaws",
+    "target": "jurassic-park",
+    "relationship": "shared_director",
+    "label": "Both directed by Steven Spielberg",
+    "strength": 4
+  },
+  {
+    "source": "jaws",
+    "target": "schindlers-list",
+    "relationship": "shared_director",
+    "label": "Both directed by Steven Spielberg",
+    "strength": 4
+  },
+  {
+    "source": "jaws",
+    "target": "et-the-extra-terrestrial",
+    "relationship": "shared_director",
+    "label": "Both directed by Steven Spielberg",
+    "strength": 4
+  },
+  {
+    "source": "jaws",
+    "target": "saving-private-ryan",
+    "relationship": "shared_director",
+    "label": "Both directed by Steven Spielberg",
+    "strength": 4
+  },
+  {
+    "source": "jaws",
+    "target": "raiders-of-the-lost-ark",
+    "relationship": "shared_director",
+    "label": "Both directed by Steven Spielberg",
+    "strength": 4
+  },
+  {
+    "source": "jurassic-park",
+    "target": "schindlers-list",
+    "relationship": "shared_director",
+    "label": "Both directed by Steven Spielberg",
+    "strength": 4
+  },
+  {
+    "source": "jurassic-park",
+    "target": "et-the-extra-terrestrial",
+    "relationship": "shared_director",
+    "label": "Both directed by Steven Spielberg",
+    "strength": 4
+  },
+  {
+    "source": "jurassic-park",
+    "target": "saving-private-ryan",
+    "relationship": "shared_director",
+    "label": "Both directed by Steven Spielberg",
+    "strength": 4
+  },
+  {
+    "source": "jurassic-park",
+    "target": "raiders-of-the-lost-ark",
+    "relationship": "shared_director",
+    "label": "Both directed by Steven Spielberg",
+    "strength": 4
+  },
+  {
+    "source": "schindlers-list",
+    "target": "et-the-extra-terrestrial",
+    "relationship": "shared_director",
+    "label": "Both directed by Steven Spielberg",
+    "strength": 4
+  },
+  {
+    "source": "schindlers-list",
+    "target": "saving-private-ryan",
+    "relationship": "shared_director",
+    "label": "Both directed by Steven Spielberg",
+    "strength": 4
+  },
+  {
+    "source": "schindlers-list",
+    "target": "raiders-of-the-lost-ark",
+    "relationship": "shared_director",
+    "label": "Both directed by Steven Spielberg",
+    "strength": 4
+  },
+  {
+    "source": "et-the-extra-terrestrial",
+    "target": "saving-private-ryan",
+    "relationship": "shared_director",
+    "label": "Both directed by Steven Spielberg",
+    "strength": 4
+  },
+  {
+    "source": "et-the-extra-terrestrial",
+    "target": "raiders-of-the-lost-ark",
+    "relationship": "shared_director",
+    "label": "Both directed by Steven Spielberg",
+    "strength": 4
+  },
+  {
+    "source": "saving-private-ryan",
+    "target": "raiders-of-the-lost-ark",
+    "relationship": "shared_director",
+    "label": "Both directed by Steven Spielberg",
+    "strength": 4
+  },
+  {
+    "source": "fight-club",
+    "target": "gone-girl",
+    "relationship": "shared_director",
+    "label": "Both directed by David Fincher",
+    "strength": 4
+  },
+  {
+    "source": "fight-club",
+    "target": "se7en",
+    "relationship": "shared_director",
+    "label": "Both directed by David Fincher",
+    "strength": 4
+  },
+  {
+    "source": "fight-club",
+    "target": "the-social-network",
+    "relationship": "shared_director",
+    "label": "Both directed by David Fincher",
+    "strength": 4
+  },
+  {
+    "source": "fight-club",
+    "target": "zodiac",
+    "relationship": "shared_director",
+    "label": "Both directed by David Fincher",
+    "strength": 4
+  },
+  {
+    "source": "fight-club",
+    "target": "mindhunter",
+    "relationship": "shared_director",
+    "label": "Both directed by David Fincher",
+    "strength": 4
+  },
+  {
+    "source": "gone-girl",
+    "target": "se7en",
+    "relationship": "shared_director",
+    "label": "Both directed by David Fincher",
+    "strength": 4
+  },
+  {
+    "source": "gone-girl",
+    "target": "the-social-network",
+    "relationship": "shared_director",
+    "label": "Both directed by David Fincher",
+    "strength": 4
+  },
+  {
+    "source": "gone-girl",
+    "target": "zodiac",
+    "relationship": "shared_director",
+    "label": "Both directed by David Fincher",
+    "strength": 4
+  },
+  {
+    "source": "gone-girl",
+    "target": "mindhunter",
+    "relationship": "shared_director",
+    "label": "Both directed by David Fincher",
+    "strength": 4
+  },
+  {
+    "source": "se7en",
+    "target": "the-social-network",
+    "relationship": "shared_director",
+    "label": "Both directed by David Fincher",
+    "strength": 4
+  },
+  {
+    "source": "se7en",
+    "target": "zodiac",
+    "relationship": "shared_director",
+    "label": "Both directed by David Fincher",
+    "strength": 4
+  },
+  {
+    "source": "se7en",
+    "target": "mindhunter",
+    "relationship": "shared_director",
+    "label": "Both directed by David Fincher",
+    "strength": 4
+  },
+  {
+    "source": "the-social-network",
+    "target": "zodiac",
+    "relationship": "shared_director",
+    "label": "Both directed by David Fincher",
+    "strength": 4
+  },
+  {
+    "source": "the-social-network",
+    "target": "mindhunter",
+    "relationship": "shared_director",
+    "label": "Both directed by David Fincher",
+    "strength": 4
+  },
+  {
+    "source": "zodiac",
+    "target": "mindhunter",
+    "relationship": "shared_director",
+    "label": "Both directed by David Fincher",
+    "strength": 4
+  },
+  {
+    "source": "blade-runner-2049",
+    "target": "dune",
+    "relationship": "shared_director",
+    "label": "Both directed by Denis Villeneuve",
+    "strength": 4
+  },
+  {
+    "source": "blade-runner-2049",
+    "target": "dune-part-two",
+    "relationship": "shared_director",
+    "label": "Both directed by Denis Villeneuve",
+    "strength": 4
+  },
+  {
+    "source": "blade-runner-2049",
+    "target": "prisoners",
+    "relationship": "shared_director",
+    "label": "Both directed by Denis Villeneuve",
+    "strength": 4
+  },
+  {
+    "source": "blade-runner-2049",
+    "target": "sicario",
+    "relationship": "shared_director",
+    "label": "Both directed by Denis Villeneuve",
+    "strength": 4
+  },
+  {
+    "source": "dune",
+    "target": "dune-part-two",
+    "relationship": "shared_director",
+    "label": "Both directed by Denis Villeneuve",
+    "strength": 4
+  },
+  {
+    "source": "dune",
+    "target": "prisoners",
+    "relationship": "shared_director",
+    "label": "Both directed by Denis Villeneuve",
+    "strength": 4
+  },
+  {
+    "source": "dune",
+    "target": "sicario",
+    "relationship": "shared_director",
+    "label": "Both directed by Denis Villeneuve",
+    "strength": 4
+  },
+  {
+    "source": "dune-part-two",
+    "target": "prisoners",
+    "relationship": "shared_director",
+    "label": "Both directed by Denis Villeneuve",
+    "strength": 4
+  },
+  {
+    "source": "dune-part-two",
+    "target": "sicario",
+    "relationship": "shared_director",
+    "label": "Both directed by Denis Villeneuve",
+    "strength": 4
+  },
+  {
+    "source": "prisoners",
+    "target": "sicario",
+    "relationship": "shared_director",
+    "label": "Both directed by Denis Villeneuve",
+    "strength": 4
+  },
+  {
+    "source": "the-grand-budapest-hotel",
+    "target": "fantastic-mr-fox",
+    "relationship": "shared_director",
+    "label": "Both directed by Wes Anderson",
+    "strength": 4
+  },
+  {
+    "source": "the-grand-budapest-hotel",
+    "target": "isle-of-dogs",
+    "relationship": "shared_director",
+    "label": "Both directed by Wes Anderson",
+    "strength": 4
+  },
+  {
+    "source": "fantastic-mr-fox",
+    "target": "isle-of-dogs",
+    "relationship": "shared_director",
+    "label": "Both directed by Wes Anderson",
+    "strength": 4
+  },
+  {
+    "source": "iron-man",
+    "target": "the-avengers",
+    "relationship": "same_franchise",
+    "label": "Marvel Cinematic Universe",
+    "strength": 4
+  },
+  {
+    "source": "iron-man",
+    "target": "avengers-endgame",
+    "relationship": "same_franchise",
+    "label": "Marvel Cinematic Universe",
+    "strength": 4
+  },
+  {
+    "source": "iron-man",
+    "target": "black-panther",
+    "relationship": "same_franchise",
+    "label": "Marvel Cinematic Universe",
+    "strength": 4
+  },
+  {
+    "source": "iron-man",
+    "target": "doctor-strange",
+    "relationship": "same_franchise",
+    "label": "Marvel Cinematic Universe",
+    "strength": 4
+  },
+  {
+    "source": "the-avengers",
+    "target": "avengers-endgame",
+    "relationship": "same_franchise",
+    "label": "Marvel Cinematic Universe",
+    "strength": 4
+  },
+  {
+    "source": "the-avengers",
+    "target": "black-panther",
+    "relationship": "same_franchise",
+    "label": "Marvel Cinematic Universe",
+    "strength": 4
+  },
+  {
+    "source": "the-avengers",
+    "target": "doctor-strange",
+    "relationship": "same_franchise",
+    "label": "Marvel Cinematic Universe",
+    "strength": 4
+  },
+  {
+    "source": "avengers-endgame",
+    "target": "black-panther",
+    "relationship": "same_franchise",
+    "label": "Marvel Cinematic Universe",
+    "strength": 4
+  },
+  {
+    "source": "avengers-endgame",
+    "target": "doctor-strange",
+    "relationship": "same_franchise",
+    "label": "Marvel Cinematic Universe",
+    "strength": 4
+  },
+  {
+    "source": "black-panther",
+    "target": "doctor-strange",
+    "relationship": "same_franchise",
+    "label": "Marvel Cinematic Universe",
+    "strength": 4
+  },
+  {
+    "source": "daredevil",
+    "target": "the-avengers",
+    "relationship": "same_franchise",
+    "label": "Marvel Cinematic Universe",
+    "strength": 3
+  },
+  {
+    "source": "deadpool",
+    "target": "the-avengers",
+    "relationship": "same_franchise",
+    "label": "Marvel Cinematic Universe",
+    "strength": 3
+  },
+  {
+    "source": "star-wars",
+    "target": "the-empire-strikes-back",
+    "relationship": "same_franchise",
+    "label": "Original Star Wars trilogy",
+    "strength": 5
+  },
+  {
+    "source": "star-wars",
+    "target": "the-mandalorian",
+    "relationship": "same_franchise",
+    "label": "Star Wars universe",
+    "strength": 4
+  },
+  {
+    "source": "the-empire-strikes-back",
+    "target": "the-mandalorian",
+    "relationship": "same_franchise",
+    "label": "Star Wars universe",
+    "strength": 4
+  },
+  {
+    "source": "star-wars-the-empire-strikes-back",
+    "target": "star-wars",
+    "relationship": "same_franchise",
+    "label": "Original Star Wars trilogy",
+    "strength": 5
+  },
+  {
+    "source": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+    "target": "the-lord-of-the-rings-the-two-towers",
+    "relationship": "same_franchise",
+    "label": "Lord of the Rings trilogy",
+    "strength": 5
+  },
+  {
+    "source": "the-lord-of-the-rings-the-two-towers",
+    "target": "the-lord-of-the-rings-the-return-of-the-king",
+    "relationship": "same_franchise",
+    "label": "Lord of the Rings trilogy",
+    "strength": 5
+  },
+  {
+    "source": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+    "target": "the-lord-of-the-rings-the-return-of-the-king",
+    "relationship": "same_franchise",
+    "label": "Lord of the Rings trilogy",
+    "strength": 5
+  },
+  {
+    "source": "breaking-bad",
+    "target": "better-call-saul",
+    "relationship": "same_franchise",
+    "label": "Breaking Bad universe by Vince Gilligan",
+    "strength": 5
+  },
+  {
+    "source": "the-godfather",
+    "target": "the-godfather-part-ii",
+    "relationship": "same_franchise",
+    "label": "The Godfather saga",
+    "strength": 5
+  },
+  {
+    "source": "alien",
+    "target": "aliens",
+    "relationship": "same_franchise",
+    "label": "Alien franchise",
+    "strength": 5
+  },
+  {
+    "source": "the-terminator",
+    "target": "terminator-2-judgment-day",
+    "relationship": "same_franchise",
+    "label": "Terminator franchise",
+    "strength": 5
+  },
+  {
+    "source": "blade-runner",
+    "target": "blade-runner-2049",
+    "relationship": "same_franchise",
+    "label": "Blade Runner franchise",
+    "strength": 5
+  },
+  {
+    "source": "toy-story",
+    "target": "toy-story-3",
+    "relationship": "same_franchise",
+    "label": "Toy Story franchise",
+    "strength": 5
+  },
+  {
+    "source": "mad-max",
+    "target": "mad-max-fury-road",
+    "relationship": "same_franchise",
+    "label": "Mad Max franchise",
+    "strength": 5
+  },
+  {
+    "source": "rocky",
+    "target": "creed",
+    "relationship": "same_franchise",
+    "label": "Rocky/Creed franchise",
+    "strength": 5
+  },
+  {
+    "source": "the-witch",
+    "target": "the-witch-part-2",
+    "relationship": "same_franchise",
+    "label": "The Witch franchise",
+    "strength": 5
+  },
+  {
+    "source": "fargo",
+    "target": "fargo-tv",
+    "relationship": "same_franchise",
+    "label": "TV adaptation of the Coen Brothers film",
+    "strength": 5
+  },
+  {
+    "source": "seinfeld",
+    "target": "curb-your-enthusiasm",
+    "relationship": "same_creator",
+    "label": "Both created by Larry David",
+    "strength": 5
+  },
+  {
+    "source": "the-office",
+    "target": "parks-and-recreation",
+    "relationship": "same_creator",
+    "label": "Both co-created by Greg Daniels and Michael Schur",
+    "strength": 5
+  },
+  {
+    "source": "parks-and-recreation",
+    "target": "the-good-place",
+    "relationship": "same_creator",
+    "label": "Both created by Michael Schur",
+    "strength": 5
+  },
+  {
+    "source": "the-gilded-age",
+    "target": "downton-abbey",
+    "relationship": "same_creator",
+    "label": "Both created by Julian Fellowes",
+    "strength": 5
+  },
+  {
+    "source": "twin-peaks",
+    "target": "mulholland-drive",
+    "relationship": "shared_director",
+    "label": "Both by David Lynch",
+    "strength": 5
+  },
+  {
+    "source": "la-la-land",
+    "target": "whiplash",
+    "relationship": "shared_director",
+    "label": "Both directed by Damien Chazelle",
+    "strength": 5
+  },
+  {
+    "source": "hunt-for-the-wilderpeople",
+    "target": "jojo-rabbit",
+    "relationship": "shared_director",
+    "label": "Both directed by Taika Waititi",
+    "strength": 5
+  },
+  {
+    "source": "hot-fuzz",
+    "target": "shaun-of-the-dead",
+    "relationship": "shared_director",
+    "label": "Both directed by Edgar Wright, with Simon Pegg and Nick Frost",
+    "strength": 5
+  },
+  {
+    "source": "a-clockwork-orange",
+    "target": "the-shining",
+    "relationship": "shared_director",
+    "label": "Both directed by Stanley Kubrick",
+    "strength": 5
+  },
+  {
+    "source": "a-clockwork-orange",
+    "target": "full-metal-jacket",
+    "relationship": "shared_director",
+    "label": "Both directed by Stanley Kubrick",
+    "strength": 5
+  },
+  {
+    "source": "full-metal-jacket",
+    "target": "the-shining",
+    "relationship": "shared_director",
+    "label": "Both directed by Stanley Kubrick",
+    "strength": 5
+  },
+  {
+    "source": "rear-window",
+    "target": "psycho",
+    "relationship": "shared_director",
+    "label": "Both directed by Alfred Hitchcock",
+    "strength": 5
+  },
+  {
+    "source": "the-big-lebowski",
+    "target": "fargo",
+    "relationship": "shared_director",
+    "label": "Both directed by the Coen Brothers",
+    "strength": 5
+  },
+  {
+    "source": "no-country-for-old-men",
+    "target": "fargo",
+    "relationship": "shared_director",
+    "label": "Both directed by the Coen Brothers",
+    "strength": 5
+  },
+  {
+    "source": "the-big-lebowski",
+    "target": "no-country-for-old-men",
+    "relationship": "shared_director",
+    "label": "Both directed by the Coen Brothers",
+    "strength": 5
+  },
+  {
+    "source": "ferris-buellers-day-off",
+    "target": "the-breakfast-club",
+    "relationship": "shared_director",
+    "label": "Both directed by John Hughes",
+    "strength": 5
+  },
+  {
+    "source": "get-out",
+    "target": "nope",
+    "relationship": "shared_director",
+    "label": "Both directed by Jordan Peele",
+    "strength": 5
+  },
+  {
+    "source": "midsommar",
+    "target": "hereditary",
+    "relationship": "shared_director",
+    "label": "Both directed by Ari Aster",
+    "strength": 5
+  },
+  {
+    "source": "aliens",
+    "target": "the-terminator",
+    "relationship": "shared_director",
+    "label": "Both directed by James Cameron",
+    "strength": 4
+  },
+  {
+    "source": "aliens",
+    "target": "terminator-2-judgment-day",
+    "relationship": "shared_director",
+    "label": "Both directed by James Cameron",
+    "strength": 4
+  },
+  {
+    "source": "aliens",
+    "target": "avatar",
+    "relationship": "shared_director",
+    "label": "Both directed by James Cameron",
+    "strength": 4
+  },
+  {
+    "source": "aliens",
+    "target": "titanic",
+    "relationship": "shared_director",
+    "label": "Both directed by James Cameron",
+    "strength": 3
+  },
+  {
+    "source": "avatar",
+    "target": "titanic",
+    "relationship": "shared_director",
+    "label": "Both directed by James Cameron",
+    "strength": 3
+  },
+  {
+    "source": "blade-runner",
+    "target": "alien",
+    "relationship": "shared_director",
+    "label": "Both directed by Ridley Scott",
+    "strength": 4
+  },
+  {
+    "source": "blade-runner",
+    "target": "gladiator",
+    "relationship": "shared_director",
+    "label": "Both directed by Ridley Scott",
+    "strength": 4
+  },
+  {
+    "source": "alien",
+    "target": "gladiator",
+    "relationship": "shared_director",
+    "label": "Both directed by Ridley Scott",
+    "strength": 3
+  },
+  {
+    "source": "inception",
+    "target": "titanic",
+    "relationship": "shared_actor",
+    "label": "Both star Leonardo DiCaprio",
+    "strength": 3
+  },
+  {
+    "source": "inception",
+    "target": "the-departed",
+    "relationship": "shared_actor",
+    "label": "Both star Leonardo DiCaprio",
+    "strength": 3
+  },
+  {
+    "source": "inception",
+    "target": "the-wolf-of-wall-street",
+    "relationship": "shared_actor",
+    "label": "Both star Leonardo DiCaprio",
+    "strength": 3
+  },
+  {
+    "source": "inception",
+    "target": "the-revenant",
+    "relationship": "shared_actor",
+    "label": "Both star Leonardo DiCaprio",
+    "strength": 3
+  },
+  {
+    "source": "inception",
+    "target": "shutter-island",
+    "relationship": "shared_actor",
+    "label": "Both star Leonardo DiCaprio",
+    "strength": 3
+  },
+  {
+    "source": "titanic",
+    "target": "the-departed",
+    "relationship": "shared_actor",
+    "label": "Both star Leonardo DiCaprio",
+    "strength": 3
+  },
+  {
+    "source": "titanic",
+    "target": "the-wolf-of-wall-street",
+    "relationship": "shared_actor",
+    "label": "Both star Leonardo DiCaprio",
+    "strength": 3
+  },
+  {
+    "source": "titanic",
+    "target": "the-revenant",
+    "relationship": "shared_actor",
+    "label": "Both star Leonardo DiCaprio",
+    "strength": 3
+  },
+  {
+    "source": "titanic",
+    "target": "shutter-island",
+    "relationship": "shared_actor",
+    "label": "Both star Leonardo DiCaprio",
+    "strength": 3
+  },
+  {
+    "source": "the-departed",
+    "target": "the-revenant",
+    "relationship": "shared_actor",
+    "label": "Both star Leonardo DiCaprio",
+    "strength": 3
+  },
+  {
+    "source": "the-departed",
+    "target": "shutter-island",
+    "relationship": "shared_actor",
+    "label": "Both star Leonardo DiCaprio",
+    "strength": 3
+  },
+  {
+    "source": "the-wolf-of-wall-street",
+    "target": "the-revenant",
+    "relationship": "shared_actor",
+    "label": "Both star Leonardo DiCaprio",
+    "strength": 3
+  },
+  {
+    "source": "the-wolf-of-wall-street",
+    "target": "shutter-island",
+    "relationship": "shared_actor",
+    "label": "Both star Leonardo DiCaprio",
+    "strength": 3
+  },
+  {
+    "source": "the-revenant",
+    "target": "shutter-island",
+    "relationship": "shared_actor",
+    "label": "Both star Leonardo DiCaprio",
+    "strength": 3
+  },
+  {
+    "source": "forrest-gump",
+    "target": "cast-away",
+    "relationship": "shared_actor",
+    "label": "Both star Tom Hanks",
+    "strength": 3
+  },
+  {
+    "source": "forrest-gump",
+    "target": "the-green-mile",
+    "relationship": "shared_actor",
+    "label": "Both star Tom Hanks",
+    "strength": 3
+  },
+  {
+    "source": "cast-away",
+    "target": "the-green-mile",
+    "relationship": "shared_actor",
+    "label": "Both star Tom Hanks",
+    "strength": 3
+  },
+  {
+    "source": "fight-club",
+    "target": "inglourious-basterds",
+    "relationship": "shared_actor",
+    "label": "Both star Brad Pitt",
+    "strength": 3
+  },
+  {
+    "source": "fight-club",
+    "target": "once-upon-a-time-in-hollywood",
+    "relationship": "shared_actor",
+    "label": "Both star Brad Pitt",
+    "strength": 3
+  },
+  {
+    "source": "fight-club",
+    "target": "moneyball",
+    "relationship": "shared_actor",
+    "label": "Both star Brad Pitt",
+    "strength": 3
+  },
+  {
+    "source": "se7en",
+    "target": "inglourious-basterds",
+    "relationship": "shared_actor",
+    "label": "Both star Brad Pitt",
+    "strength": 3
+  },
+  {
+    "source": "se7en",
+    "target": "once-upon-a-time-in-hollywood",
+    "relationship": "shared_actor",
+    "label": "Both star Brad Pitt",
+    "strength": 3
+  },
+  {
+    "source": "se7en",
+    "target": "moneyball",
+    "relationship": "shared_actor",
+    "label": "Both star Brad Pitt",
+    "strength": 3
+  },
+  {
+    "source": "inglourious-basterds",
+    "target": "moneyball",
+    "relationship": "shared_actor",
+    "label": "Both star Brad Pitt",
+    "strength": 3
+  },
+  {
+    "source": "once-upon-a-time-in-hollywood",
+    "target": "moneyball",
+    "relationship": "shared_actor",
+    "label": "Both star Brad Pitt",
+    "strength": 3
+  },
+  {
+    "source": "pulp-fiction",
+    "target": "the-avengers",
+    "relationship": "shared_actor",
+    "label": "Both star Samuel L. Jackson",
+    "strength": 3
+  },
+  {
+    "source": "pulp-fiction",
+    "target": "the-incredibles",
+    "relationship": "shared_actor",
+    "label": "Both star Samuel L. Jackson",
+    "strength": 3
+  },
+  {
+    "source": "the-avengers",
+    "target": "django-unchained",
+    "relationship": "shared_actor",
+    "label": "Both star Samuel L. Jackson",
+    "strength": 3
+  },
+  {
+    "source": "the-avengers",
+    "target": "the-incredibles",
+    "relationship": "shared_actor",
+    "label": "Both star Samuel L. Jackson",
+    "strength": 3
+  },
+  {
+    "source": "django-unchained",
+    "target": "the-incredibles",
+    "relationship": "shared_actor",
+    "label": "Both star Samuel L. Jackson",
+    "strength": 3
+  },
+  {
+    "source": "the-dark-knight",
+    "target": "the-big-short",
+    "relationship": "shared_actor",
+    "label": "Both star Christian Bale",
+    "strength": 3
+  },
+  {
+    "source": "batman-begins",
+    "target": "the-big-short",
+    "relationship": "shared_actor",
+    "label": "Both star Christian Bale",
+    "strength": 3
+  },
+  {
+    "source": "the-big-short",
+    "target": "the-prestige",
+    "relationship": "shared_actor",
+    "label": "Both star Christian Bale",
+    "strength": 3
+  },
+  {
+    "source": "logan",
+    "target": "the-prestige",
+    "relationship": "shared_actor",
+    "label": "Both star Hugh Jackman",
+    "strength": 3
+  },
+  {
+    "source": "logan",
+    "target": "x-men-days-of-future-past",
+    "relationship": "shared_actor",
+    "label": "Both star Hugh Jackman",
+    "strength": 3
+  },
+  {
+    "source": "the-prestige",
+    "target": "x-men-days-of-future-past",
+    "relationship": "shared_actor",
+    "label": "Both star Hugh Jackman",
+    "strength": 3
+  },
+  {
+    "source": "good-will-hunting",
+    "target": "the-departed",
+    "relationship": "shared_actor",
+    "label": "Both star Matt Damon",
+    "strength": 3
+  },
+  {
+    "source": "good-will-hunting",
+    "target": "saving-private-ryan",
+    "relationship": "shared_actor",
+    "label": "Both star Matt Damon",
+    "strength": 3
+  },
+  {
+    "source": "good-will-hunting",
+    "target": "interstellar",
+    "relationship": "shared_actor",
+    "label": "Both star Matt Damon",
+    "strength": 3
+  },
+  {
+    "source": "the-departed",
+    "target": "saving-private-ryan",
+    "relationship": "shared_actor",
+    "label": "Both star Matt Damon",
+    "strength": 3
+  },
+  {
+    "source": "the-departed",
+    "target": "interstellar",
+    "relationship": "shared_actor",
+    "label": "Both star Matt Damon",
+    "strength": 3
+  },
+  {
+    "source": "saving-private-ryan",
+    "target": "interstellar",
+    "relationship": "shared_actor",
+    "label": "Both star Matt Damon",
+    "strength": 3
+  },
+  {
+    "source": "goodfellas",
+    "target": "my-cousin-vinny",
+    "relationship": "shared_actor",
+    "label": "Both star Joe Pesci",
+    "strength": 3
+  },
+  {
+    "source": "my-cousin-vinny",
+    "target": "raging-bull",
+    "relationship": "shared_actor",
+    "label": "Both star Joe Pesci",
+    "strength": 3
+  },
+  {
+    "source": "goodfellas",
+    "target": "the-deer-hunter",
+    "relationship": "shared_actor",
+    "label": "Both star Robert De Niro",
+    "strength": 3
+  },
+  {
+    "source": "goodfellas",
+    "target": "the-godfather-part-ii",
+    "relationship": "shared_actor",
+    "label": "Both star Robert De Niro",
+    "strength": 3
+  },
+  {
+    "source": "taxi-driver",
+    "target": "the-deer-hunter",
+    "relationship": "shared_actor",
+    "label": "Both star Robert De Niro",
+    "strength": 3
+  },
+  {
+    "source": "taxi-driver",
+    "target": "the-godfather-part-ii",
+    "relationship": "shared_actor",
+    "label": "Both star Robert De Niro",
+    "strength": 3
+  },
+  {
+    "source": "the-deer-hunter",
+    "target": "raging-bull",
+    "relationship": "shared_actor",
+    "label": "Both star Robert De Niro",
+    "strength": 3
+  },
+  {
+    "source": "the-deer-hunter",
+    "target": "the-godfather-part-ii",
+    "relationship": "shared_actor",
+    "label": "Both star Robert De Niro",
+    "strength": 3
+  },
+  {
+    "source": "raging-bull",
+    "target": "the-godfather-part-ii",
+    "relationship": "shared_actor",
+    "label": "Both star Robert De Niro",
+    "strength": 3
+  },
+  {
+    "source": "the-matrix",
+    "target": "john-wick",
+    "relationship": "shared_actor",
+    "label": "Both star Keanu Reeves as an iconic action hero",
+    "strength": 4
+  },
+  {
+    "source": "the-shawshank-redemption",
+    "target": "se7en",
+    "relationship": "shared_actor",
+    "label": "Both star Morgan Freeman",
+    "strength": 3
+  },
+  {
+    "source": "iron-man",
+    "target": "oppenheimer",
+    "relationship": "shared_actor",
+    "label": "Both star Robert Downey Jr.",
+    "strength": 3
+  },
+  {
+    "source": "top-gun-maverick",
+    "target": "mission-impossible",
+    "relationship": "shared_actor",
+    "label": "Both star Tom Cruise",
+    "strength": 4
+  },
+  {
+    "source": "scarface",
+    "target": "the-godfather-part-ii",
+    "relationship": "shared_actor",
+    "label": "Both star Al Pacino in iconic gangster roles",
+    "strength": 4
+  },
+  {
+    "source": "gladiator",
+    "target": "the-dark-knight",
+    "relationship": "composer",
+    "label": "Both scored by Hans Zimmer",
+    "strength": 2
+  },
+  {
+    "source": "star-wars",
+    "target": "jurassic-park",
+    "relationship": "composer",
+    "label": "Both scored by John Williams",
+    "strength": 3
+  },
+  {
+    "source": "star-wars",
+    "target": "raiders-of-the-lost-ark",
+    "relationship": "composer",
+    "label": "Both scored by John Williams",
+    "strength": 3
+  },
+  {
+    "source": "harry-potter-and-the-sorcerers-stone",
+    "target": "star-wars",
+    "relationship": "composer",
+    "label": "Both scored by John Williams",
+    "strength": 3
+  },
+  {
+    "source": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+    "target": "pirates-of-the-caribbean-the-curse-of-the-black-pearl",
+    "relationship": "composer",
+    "label": "Both scored by Howard Shore / Hans Zimmer influence",
+    "strength": 2
+  },
+  {
+    "source": "the-sopranos",
+    "target": "the-wire",
+    "relationship": "genre_thematic",
+    "label": "Landmark HBO crime dramas that redefined television",
+    "strength": 4
+  },
+  {
+    "source": "the-sopranos",
+    "target": "breaking-bad",
+    "relationship": "genre_thematic",
+    "label": "Both are prestige crime dramas about antiheroes",
+    "strength": 4
+  },
+  {
+    "source": "the-wire",
+    "target": "breaking-bad",
+    "relationship": "genre_thematic",
+    "label": "Critically acclaimed crime dramas about the drug trade",
+    "strength": 3
+  },
+  {
+    "source": "breaking-bad",
+    "target": "narcos",
+    "relationship": "genre_thematic",
+    "label": "Both chronicle the drug trade with intense character studies",
+    "strength": 3
+  },
+  {
+    "source": "the-sopranos",
+    "target": "peaky-blinders",
+    "relationship": "genre_thematic",
+    "label": "Both follow charismatic crime family leaders",
+    "strength": 3
+  },
+  {
+    "source": "breaking-bad",
+    "target": "dexter",
+    "relationship": "genre_thematic",
+    "label": "Both follow protagonists living double lives",
+    "strength": 3
+  },
+  {
+    "source": "the-sopranos",
+    "target": "the-godfather",
+    "relationship": "influence",
+    "label": "The Sopranos reimagined gangster storytelling for TV",
+    "strength": 4
+  },
+  {
+    "source": "goodfellas",
+    "target": "the-godfather",
+    "relationship": "genre_thematic",
+    "label": "Landmark Italian-American crime sagas",
+    "strength": 4
+  },
+  {
+    "source": "goodfellas",
+    "target": "scarface",
+    "relationship": "genre_thematic",
+    "label": "Rise-and-fall crime epics",
+    "strength": 3
+  },
+  {
+    "source": "the-godfather",
+    "target": "scarface",
+    "relationship": "genre_thematic",
+    "label": "Iconic crime epics about gangster empires",
+    "strength": 4
+  },
+  {
+    "source": "get-out",
+    "target": "hereditary",
+    "relationship": "genre_thematic",
+    "label": "Modern horror masterpieces that elevated the genre",
+    "strength": 3
+  },
+  {
+    "source": "the-exorcist",
+    "target": "the-conjuring",
+    "relationship": "genre_thematic",
+    "label": "Supernatural horror about demonic possession",
+    "strength": 3
+  },
+  {
+    "source": "halloween",
+    "target": "psycho",
+    "relationship": "influence",
+    "label": "Halloween was heavily influenced by Psycho",
+    "strength": 4
+  },
+  {
+    "source": "the-shining",
+    "target": "the-exorcist",
+    "relationship": "genre_thematic",
+    "label": "Landmark 1970s-80s horror films",
+    "strength": 3
+  },
+  {
+    "source": "the-witch",
+    "target": "hereditary",
+    "relationship": "genre_thematic",
+    "label": "Slow-burn folk horror about family disintegration",
+    "strength": 4
+  },
+  {
+    "source": "the-witch",
+    "target": "midsommar",
+    "relationship": "genre_thematic",
+    "label": "Folk horror exploring ritualistic dread",
+    "strength": 3
+  },
+  {
+    "source": "hereditary",
+    "target": "the-exorcist",
+    "relationship": "genre_thematic",
+    "label": "Demonic horror through family trauma",
+    "strength": 3
+  },
+  {
+    "source": "talk-to-me",
+    "target": "hereditary",
+    "relationship": "genre_thematic",
+    "label": "Terrifying modern horror about supernatural forces",
+    "strength": 3
+  },
+  {
+    "source": "it",
+    "target": "stranger-things",
+    "relationship": "genre_thematic",
+    "label": "Both feature young friends battling supernatural evil",
+    "strength": 4
+  },
+  {
+    "source": "halloween",
+    "target": "stranger-things",
+    "relationship": "influence",
+    "label": "Stranger Things borrows from Halloween small-town horror aesthetic",
+    "strength": 3
+  },
+  {
+    "source": "the-matrix",
+    "target": "blade-runner",
+    "relationship": "genre_thematic",
+    "label": "Cyberpunk sci-fi exploring identity and reality",
+    "strength": 4
+  },
+  {
+    "source": "ex-machina",
+    "target": "blade-runner",
+    "relationship": "genre_thematic",
+    "label": "Both explore what it means to be human through AI",
+    "strength": 4
+  },
+  {
+    "source": "ex-machina",
+    "target": "her",
+    "relationship": "genre_thematic",
+    "label": "Both examine human-AI relationships and consciousness",
+    "strength": 4
+  },
+  {
+    "source": "interstellar",
+    "target": "gravity",
+    "relationship": "genre_thematic",
+    "label": "Visually stunning space films about survival",
+    "strength": 3
+  },
+  {
+    "source": "westworld",
+    "target": "blade-runner",
+    "relationship": "genre_thematic",
+    "label": "Both explore artificial consciousness and free will",
+    "strength": 3
+  },
+  {
+    "source": "westworld",
+    "target": "ex-machina",
+    "relationship": "genre_thematic",
+    "label": "Both examine AI sentience and ethics",
+    "strength": 4
+  },
+  {
+    "source": "black-mirror",
+    "target": "the-twilight-zone",
+    "relationship": "influence",
+    "label": "Black Mirror is a spiritual successor to The Twilight Zone",
+    "strength": 4
+  },
+  {
+    "source": "dark",
+    "target": "stranger-things",
+    "relationship": "genre_thematic",
+    "label": "Sci-fi mystery series about missing children in small towns",
+    "strength": 4
+  },
+  {
+    "source": "severance",
+    "target": "black-mirror",
+    "relationship": "genre_thematic",
+    "label": "Both explore dystopian workplace technology",
+    "strength": 3
+  },
+  {
+    "source": "mr-robot",
+    "target": "fight-club",
+    "relationship": "influence",
+    "label": "Mr. Robot echoes Fight Club with unreliable narrator and anti-capitalism",
+    "strength": 4
+  },
+  {
+    "source": "the-expanse",
+    "target": "blade-runner-2049",
+    "relationship": "genre_thematic",
+    "label": "Hard sci-fi with political intrigue",
+    "strength": 3
+  },
+  {
+    "source": "inception",
+    "target": "the-matrix",
+    "relationship": "genre_thematic",
+    "label": "Mind-bending sci-fi exploring the nature of reality",
+    "strength": 4
+  },
+  {
+    "source": "the-truman-show",
+    "target": "the-matrix",
+    "relationship": "genre_thematic",
+    "label": "Both explore characters discovering their reality is fabricated",
+    "strength": 4
+  },
+  {
+    "source": "children-of-men",
+    "target": "blade-runner",
+    "relationship": "genre_thematic",
+    "label": "Dystopian sci-fi with stunning cinematography",
+    "strength": 3
+  },
+  {
+    "source": "children-of-men",
+    "target": "the-handmaids-tale",
+    "relationship": "genre_thematic",
+    "label": "Dystopian futures where reproduction is central",
+    "strength": 4
+  },
+  {
+    "source": "the-thing",
+    "target": "alien",
+    "relationship": "genre_thematic",
+    "label": "Claustrophobic sci-fi horror about a deadly alien presence",
+    "strength": 4
+  },
+  {
+    "source": "person-of-interest",
+    "target": "mr-robot",
+    "relationship": "genre_thematic",
+    "label": "Both explore surveillance, AI, and technology ethics",
+    "strength": 3
+  },
+  {
+    "source": "seinfeld",
+    "target": "friends",
+    "relationship": "genre_thematic",
+    "label": "Iconic 1990s NYC sitcoms",
+    "strength": 4
+  },
+  {
+    "source": "the-office",
+    "target": "friends",
+    "relationship": "genre_thematic",
+    "label": "Beloved ensemble sitcoms",
+    "strength": 3
+  },
+  {
+    "source": "community",
+    "target": "arrested-development",
+    "relationship": "genre_thematic",
+    "label": "Meta, self-referential comedies with cult followings",
+    "strength": 3
+  },
+  {
+    "source": "its-always-sunny-in-philadelphia",
+    "target": "seinfeld",
+    "relationship": "influence",
+    "label": "Always Sunny follows Seinfeld tradition of horrible people",
+    "strength": 3
+  },
+  {
+    "source": "silicon-valley",
+    "target": "the-office",
+    "relationship": "genre_thematic",
+    "label": "Workplace comedies satirizing corporate culture",
+    "strength": 3
+  },
+  {
+    "source": "veep",
+    "target": "the-west-wing",
+    "relationship": "genre_thematic",
+    "label": "Political shows set in Washington DC",
+    "strength": 3
+  },
+  {
+    "source": "ted-lasso",
+    "target": "schitts-creek",
+    "relationship": "genre_thematic",
+    "label": "Heartwarming comedies about finding community",
+    "strength": 3
+  },
+  {
+    "source": "fleabag",
+    "target": "please-like-me",
+    "relationship": "genre_thematic",
+    "label": "Raw comedies with fourth-wall-breaking narration",
+    "strength": 3
+  },
+  {
+    "source": "atlanta",
+    "target": "fleabag",
+    "relationship": "genre_thematic",
+    "label": "Auteur-driven, genre-defying comedy-dramas",
+    "strength": 3
+  },
+  {
+    "source": "south-park",
+    "target": "the-simpsons",
+    "relationship": "genre_thematic",
+    "label": "Long-running animated satires of American culture",
+    "strength": 4
+  },
+  {
+    "source": "arrested-development",
+    "target": "the-office",
+    "relationship": "genre_thematic",
+    "label": "Revolutionized TV comedy with single-camera styles",
+    "strength": 3
+  },
+  {
+    "source": "curb-your-enthusiasm",
+    "target": "its-always-sunny-in-philadelphia",
+    "relationship": "genre_thematic",
+    "label": "Both feature self-centered characters creating chaos",
+    "strength": 3
+  },
+  {
+    "source": "how-i-met-your-mother",
+    "target": "friends",
+    "relationship": "genre_thematic",
+    "label": "NYC sitcoms about friends navigating love and life",
+    "strength": 4
+  },
+  {
+    "source": "south-park",
+    "target": "its-always-sunny-in-philadelphia",
+    "relationship": "genre_thematic",
+    "label": "Both push boundaries with offensive humor and social satire",
+    "strength": 3
+  },
+  {
+    "source": "the-crown",
+    "target": "downton-abbey",
+    "relationship": "genre_thematic",
+    "label": "British period dramas about upper-class life",
+    "strength": 3
+  },
+  {
+    "source": "the-crown",
+    "target": "the-favourite",
+    "relationship": "genre_thematic",
+    "label": "Both dramatize British royalty with sharp wit",
+    "strength": 3
+  },
+  {
+    "source": "mad-men",
+    "target": "the-crown",
+    "relationship": "genre_thematic",
+    "label": "Period dramas exploring power and social change",
+    "strength": 3
+  },
+  {
+    "source": "the-kings-speech",
+    "target": "the-crown",
+    "relationship": "genre_thematic",
+    "label": "Both dramatize the British monarchy",
+    "strength": 4
+  },
+  {
+    "source": "apocalypse-now",
+    "target": "full-metal-jacket",
+    "relationship": "genre_thematic",
+    "label": "Harrowing Vietnam War films",
+    "strength": 4
+  },
+  {
+    "source": "apocalypse-now",
+    "target": "platoon",
+    "relationship": "genre_thematic",
+    "label": "Both depict the madness of the Vietnam War",
+    "strength": 4
+  },
+  {
+    "source": "full-metal-jacket",
+    "target": "platoon",
+    "relationship": "genre_thematic",
+    "label": "Unflinching Vietnam War films",
+    "strength": 3
+  },
+  {
+    "source": "saving-private-ryan",
+    "target": "the-hurt-locker",
+    "relationship": "genre_thematic",
+    "label": "Both portray intense bonds and trauma of soldiers in combat",
+    "strength": 3
+  },
+  {
+    "source": "the-deer-hunter",
+    "target": "apocalypse-now",
+    "relationship": "genre_thematic",
+    "label": "Haunting Vietnam War dramas about lost innocence",
+    "strength": 4
+  },
+  {
+    "source": "the-pianist",
+    "target": "schindlers-list",
+    "relationship": "genre_thematic",
+    "label": "Devastating Holocaust dramas about survival",
+    "strength": 4
+  },
+  {
+    "source": "hotel-rwanda",
+    "target": "schindlers-list",
+    "relationship": "genre_thematic",
+    "label": "Both portray individuals saving lives during genocide",
+    "strength": 4
+  },
+  {
+    "source": "braveheart",
+    "target": "gladiator",
+    "relationship": "genre_thematic",
+    "label": "Epic historical action dramas about warriors fighting for freedom",
+    "strength": 4
+  },
+  {
+    "source": "silence-of-the-lambs",
+    "target": "se7en",
+    "relationship": "genre_thematic",
+    "label": "Dark psychological thrillers about hunting serial killers",
+    "strength": 4
+  },
+  {
+    "source": "silence-of-the-lambs",
+    "target": "zodiac",
+    "relationship": "genre_thematic",
+    "label": "Procedural thrillers about hunting serial killers",
+    "strength": 3
+  },
+  {
+    "source": "psycho",
+    "target": "silence-of-the-lambs",
+    "relationship": "influence",
+    "label": "Silence draws from Psycho tradition of psychological horror",
+    "strength": 3
+  },
+  {
+    "source": "the-usual-suspects",
+    "target": "memento",
+    "relationship": "genre_thematic",
+    "label": "Twisty neo-noir thrillers with unreliable narratives",
+    "strength": 3
+  },
+  {
+    "source": "gone-girl",
+    "target": "the-talented-mr-ripley",
+    "relationship": "genre_thematic",
+    "label": "Psychological thrillers about sociopaths hiding in plain sight",
+    "strength": 3
+  },
+  {
+    "source": "nightcrawler",
+    "target": "joker",
+    "relationship": "genre_thematic",
+    "label": "Both feature unhinged loners exploiting broken systems",
+    "strength": 3
+  },
+  {
+    "source": "drive",
+    "target": "nightcrawler",
+    "relationship": "genre_thematic",
+    "label": "Tense LA-set thrillers with enigmatic protagonists",
+    "strength": 3
+  },
+  {
+    "source": "prisoners",
+    "target": "se7en",
+    "relationship": "genre_thematic",
+    "label": "Dark atmospheric thrillers about desperate investigations",
+    "strength": 3
+  },
+  {
+    "source": "shutter-island",
+    "target": "the-sixth-sense",
+    "relationship": "genre_thematic",
+    "label": "Psychological thrillers with shocking twist endings",
+    "strength": 3
+  },
+  {
+    "source": "la-confidential",
+    "target": "chinatown",
+    "relationship": "genre_thematic",
+    "label": "LA-set neo-noir crime classics",
+    "strength": 4
+  },
+  {
+    "source": "the-french-connection",
+    "target": "chinatown",
+    "relationship": "genre_thematic",
+    "label": "Gritty 1970s crime thrillers",
+    "strength": 3
+  },
+  {
+    "source": "unforgiven",
+    "target": "the-good-the-bad-and-the-ugly",
+    "relationship": "genre_thematic",
+    "label": "Landmark westerns that redefined the genre",
+    "strength": 4
+  },
+  {
+    "source": "django-unchained",
+    "target": "the-good-the-bad-and-the-ugly",
+    "relationship": "influence",
+    "label": "Django is a love letter to Spaghetti Westerns",
+    "strength": 4
+  },
+  {
+    "source": "deadwood",
+    "target": "unforgiven",
+    "relationship": "genre_thematic",
+    "label": "Revisionist westerns deconstructing frontier mythology",
+    "strength": 4
+  },
+  {
+    "source": "yellowstone",
+    "target": "deadwood",
+    "relationship": "genre_thematic",
+    "label": "Both are westerns about land, power, and the American frontier",
+    "strength": 3
+  },
+  {
+    "source": "the-dark-knight",
+    "target": "joker",
+    "relationship": "genre_thematic",
+    "label": "Both feature the Joker as a complex, terrifying villain",
+    "strength": 4
+  },
+  {
+    "source": "the-batman",
+    "target": "the-dark-knight",
+    "relationship": "genre_thematic",
+    "label": "Both are gritty, noir-influenced Batman films",
+    "strength": 4
+  },
+  {
+    "source": "deadpool",
+    "target": "the-boys",
+    "relationship": "genre_thematic",
+    "label": "R-rated, irreverent takes on the superhero genre",
+    "strength": 3
+  },
+  {
+    "source": "logan",
+    "target": "the-dark-knight",
+    "relationship": "genre_thematic",
+    "label": "Mature superhero films that transcend the genre",
+    "strength": 3
+  },
+  {
+    "source": "spider-man-into-the-spider-verse",
+    "target": "the-incredibles",
+    "relationship": "genre_thematic",
+    "label": "Inventive animated superhero films",
+    "strength": 3
+  },
+  {
+    "source": "the-incredibles",
+    "target": "iron-man",
+    "relationship": "genre_thematic",
+    "label": "Both feature superheroes balancing family and heroism",
+    "strength": 3
+  },
+  {
+    "source": "spirited-away",
+    "target": "pan-s-labyrinth",
+    "relationship": "genre_thematic",
+    "label": "Both follow young girls entering dark fantasy worlds",
+    "strength": 4
+  },
+  {
+    "source": "spider-man-into-the-spider-verse",
+    "target": "scott-pilgrim-vs-the-world",
+    "relationship": "genre_thematic",
+    "label": "Both use comic book visual language in groundbreaking ways",
+    "strength": 3
+  },
+  {
+    "source": "everything-everywhere-all-at-once",
+    "target": "scott-pilgrim-vs-the-world",
+    "relationship": "genre_thematic",
+    "label": "Kinetic action-comedies inspired by video game aesthetics",
+    "strength": 3
+  },
+  {
+    "source": "spirited-away",
+    "target": "coco",
+    "relationship": "genre_thematic",
+    "label": "Animated masterpieces about journeying through spirit worlds",
+    "strength": 3
+  },
+  {
+    "source": "frozen",
+    "target": "coco",
+    "relationship": "genre_thematic",
+    "label": "Disney animated musicals about family bonds",
+    "strength": 3
+  },
+  {
+    "source": "finding-nemo",
+    "target": "inside-out",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "finding-nemo",
+    "target": "coco",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "finding-nemo",
+    "target": "toy-story",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "finding-nemo",
+    "target": "toy-story-3",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "finding-nemo",
+    "target": "up",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "finding-nemo",
+    "target": "wall-e",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "finding-nemo",
+    "target": "ratatouille",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "finding-nemo",
+    "target": "the-incredibles",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "inside-out",
+    "target": "coco",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "inside-out",
+    "target": "toy-story",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "inside-out",
+    "target": "toy-story-3",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "inside-out",
+    "target": "up",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "inside-out",
+    "target": "wall-e",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "inside-out",
+    "target": "ratatouille",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "inside-out",
+    "target": "the-incredibles",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "coco",
+    "target": "toy-story",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "coco",
+    "target": "toy-story-3",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "coco",
+    "target": "up",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "coco",
+    "target": "wall-e",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "coco",
+    "target": "ratatouille",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "coco",
+    "target": "the-incredibles",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "toy-story",
+    "target": "up",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "toy-story",
+    "target": "wall-e",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "toy-story",
+    "target": "ratatouille",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "toy-story",
+    "target": "the-incredibles",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "toy-story-3",
+    "target": "up",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "toy-story-3",
+    "target": "wall-e",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "toy-story-3",
+    "target": "ratatouille",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "toy-story-3",
+    "target": "the-incredibles",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "up",
+    "target": "wall-e",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "up",
+    "target": "ratatouille",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "up",
+    "target": "the-incredibles",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "wall-e",
+    "target": "ratatouille",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "wall-e",
+    "target": "the-incredibles",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "ratatouille",
+    "target": "the-incredibles",
+    "relationship": "shared_producer",
+    "label": "Both Pixar Animation Studios films",
+    "strength": 3
+  },
+  {
+    "source": "lost",
+    "target": "the-x-files",
+    "relationship": "genre_thematic",
+    "label": "Mystery-heavy sci-fi shows with complex mythologies",
+    "strength": 3
+  },
+  {
+    "source": "lost",
+    "target": "stranger-things",
+    "relationship": "genre_thematic",
+    "label": "Ensemble mystery shows with supernatural elements",
+    "strength": 3
+  },
+  {
+    "source": "twin-peaks",
+    "target": "the-x-files",
+    "relationship": "genre_thematic",
+    "label": "Eerie 1990s shows blending horror, mystery, and the paranormal",
+    "strength": 4
+  },
+  {
+    "source": "house-of-cards",
+    "target": "succession",
+    "relationship": "genre_thematic",
+    "label": "Both follow ruthless power players manipulating for control",
+    "strength": 3
+  },
+  {
+    "source": "house-of-cards",
+    "target": "the-west-wing",
+    "relationship": "genre_thematic",
+    "label": "Political dramas set in Washington DC",
+    "strength": 3
+  },
+  {
+    "source": "homeland",
+    "target": "the-americans",
+    "relationship": "genre_thematic",
+    "label": "Tense spy thrillers about hidden identities",
+    "strength": 4
+  },
+  {
+    "source": "mr-robot",
+    "target": "black-mirror",
+    "relationship": "genre_thematic",
+    "label": "Both explore the dark side of technology",
+    "strength": 3
+  },
+  {
+    "source": "true-detective",
+    "target": "mindhunter",
+    "relationship": "genre_thematic",
+    "label": "Crime dramas about detectives hunting serial killers",
+    "strength": 4
+  },
+  {
+    "source": "the-last-of-us",
+    "target": "the-walking-dead",
+    "relationship": "genre_thematic",
+    "label": "Post-apocalyptic survival dramas",
+    "strength": 3
+  },
+  {
+    "source": "chernobyl",
+    "target": "the-americans",
+    "relationship": "genre_thematic",
+    "label": "Both portray Soviet-era secrets with gripping tension",
+    "strength": 3
+  },
+  {
+    "source": "succession",
+    "target": "mad-men",
+    "relationship": "genre_thematic",
+    "label": "Prestige dramas about power in elite institutions",
+    "strength": 3
+  },
+  {
+    "source": "the-white-lotus",
+    "target": "succession",
+    "relationship": "genre_thematic",
+    "label": "Both satirize the moral bankruptcy of the ultra-wealthy",
+    "strength": 3
+  },
+  {
+    "source": "yellowjackets",
+    "target": "lost",
+    "relationship": "genre_thematic",
+    "label": "Both feature survivors grappling with extreme circumstances",
+    "strength": 4
+  },
+  {
+    "source": "severance",
+    "target": "westworld",
+    "relationship": "genre_thematic",
+    "label": "Both explore consciousness, identity, and corporate control",
+    "strength": 3
+  },
+  {
+    "source": "you",
+    "target": "dexter",
+    "relationship": "genre_thematic",
+    "label": "Both follow charming killers narrating their inner monologue",
+    "strength": 4
+  },
+  {
+    "source": "orange-is-the-new-black",
+    "target": "oz",
+    "relationship": "genre_thematic",
+    "label": "Both are ensemble prison dramas",
+    "strength": 4
+  },
+  {
+    "source": "killing-eve",
+    "target": "the-americans",
+    "relationship": "genre_thematic",
+    "label": "Cat-and-mouse spy thrillers with complex female leads",
+    "strength": 3
+  },
+  {
+    "source": "squid-game",
+    "target": "the-hunger-games",
+    "relationship": "genre_thematic",
+    "label": "Deadly competitions that critique class inequality",
+    "strength": 4
+  },
+  {
+    "source": "superbad",
+    "target": "napoleon-dynamite",
+    "relationship": "genre_thematic",
+    "label": "Quotable teen comedies about awkward outsiders",
+    "strength": 3
+  },
+  {
+    "source": "bridesmaids",
+    "target": "mean-girls",
+    "relationship": "genre_thematic",
+    "label": "Smart female-led comedies with sharp ensemble casts",
+    "strength": 3
+  },
+  {
+    "source": "groundhog-day",
+    "target": "edge-of-tomorrow",
+    "relationship": "genre_thematic",
+    "label": "Both feature protagonists trapped in repeating time loops",
+    "strength": 4
+  },
+  {
+    "source": "hot-fuzz",
+    "target": "in-bruges",
+    "relationship": "genre_thematic",
+    "label": "Genre-savvy comedies set in quaint locales with dark twists",
+    "strength": 3
+  },
+  {
+    "source": "knives-out",
+    "target": "the-grand-budapest-hotel",
+    "relationship": "genre_thematic",
+    "label": "Stylish, witty ensemble whodunits",
+    "strength": 3
+  },
+  {
+    "source": "jojo-rabbit",
+    "target": "the-grand-budapest-hotel",
+    "relationship": "genre_thematic",
+    "label": "Whimsical comedies set during WWII",
+    "strength": 3
+  },
+  {
+    "source": "little-miss-sunshine",
+    "target": "jojo-rabbit",
+    "relationship": "genre_thematic",
+    "label": "Quirky family comedies with heartfelt cores",
+    "strength": 3
+  },
+  {
+    "source": "the-princess-bride",
+    "target": "the-goonies",
+    "relationship": "genre_thematic",
+    "label": "Beloved 1980s adventure films for all ages",
+    "strength": 3
+  },
+  {
+    "source": "la-la-land",
+    "target": "grease",
+    "relationship": "genre_thematic",
+    "label": "Romantic musicals with iconic choreography",
+    "strength": 3
+  },
+  {
+    "source": "legally-blonde",
+    "target": "mean-girls",
+    "relationship": "genre_thematic",
+    "label": "Iconic comedies about women in competitive social worlds",
+    "strength": 3
+  },
+  {
+    "source": "miss-congeniality",
+    "target": "legally-blonde",
+    "relationship": "genre_thematic",
+    "label": "Both star strong women proving themselves",
+    "strength": 3
+  },
+  {
+    "source": "office-space",
+    "target": "the-office",
+    "relationship": "genre_thematic",
+    "label": "Both satirize soul-crushing corporate workplace culture",
+    "strength": 3
+  },
+  {
+    "source": "the-social-network",
+    "target": "moneyball",
+    "relationship": "genre_thematic",
+    "label": "Aaron Sorkin-penned dramas about innovators challenging systems",
+    "strength": 3
+  },
+  {
+    "source": "oppenheimer",
+    "target": "the-social-network",
+    "relationship": "genre_thematic",
+    "label": "Biopics about brilliant men whose creations have consequences",
+    "strength": 3
+  },
+  {
+    "source": "a-beautiful-mind",
+    "target": "the-social-network",
+    "relationship": "genre_thematic",
+    "label": "Both portray brilliant but troubled geniuses",
+    "strength": 3
+  },
+  {
+    "source": "jerry-maguire",
+    "target": "moneyball",
+    "relationship": "genre_thematic",
+    "label": "Sports dramas about challenging industry conventions",
+    "strength": 3
+  },
+  {
+    "source": "the-queen-s-gambit",
+    "target": "whiplash",
+    "relationship": "genre_thematic",
+    "label": "Both follow prodigies driven to obsessive mastery",
+    "strength": 3
+  },
+  {
+    "source": "uncut-gems",
+    "target": "whiplash",
+    "relationship": "genre_thematic",
+    "label": "Intensely stressful films about obsessive personalities pushed to the edge",
+    "strength": 3
+  },
+  {
+    "source": "inside-llewyn-davis",
+    "target": "whiplash",
+    "relationship": "genre_thematic",
+    "label": "Both portray the brutal toll of pursuing musical artistry",
+    "strength": 4
+  },
+  {
+    "source": "american-beauty",
+    "target": "fight-club",
+    "relationship": "genre_thematic",
+    "label": "Late-90s critiques of suburban American malaise",
+    "strength": 4
+  },
+  {
+    "source": "american-psycho",
+    "target": "fight-club",
+    "relationship": "genre_thematic",
+    "label": "Dark satires of toxic masculinity and consumerism",
+    "strength": 4
+  },
+  {
+    "source": "trainspotting",
+    "target": "fight-club",
+    "relationship": "genre_thematic",
+    "label": "Visually kinetic films about countercultural rebellion",
+    "strength": 3
+  },
+  {
+    "source": "city-of-god",
+    "target": "scarface",
+    "relationship": "genre_thematic",
+    "label": "Visceral crime films about young men in violent worlds",
+    "strength": 3
+  },
+  {
+    "source": "parasite",
+    "target": "get-out",
+    "relationship": "genre_thematic",
+    "label": "Genre-bending social commentaries disguised as thrillers",
+    "strength": 4
+  },
+  {
+    "source": "parasite",
+    "target": "the-white-lotus",
+    "relationship": "genre_thematic",
+    "label": "Both satirize class dynamics with dark humor",
+    "strength": 3
+  },
+  {
+    "source": "network",
+    "target": "the-social-network",
+    "relationship": "genre_thematic",
+    "label": "Prescient satires about media manipulation and power",
+    "strength": 3
+  },
+  {
+    "source": "mulholland-drive",
+    "target": "eternal-sunshine-of-the-spotless-mind",
+    "relationship": "genre_thematic",
+    "label": "Surreal explorations of memory and identity",
+    "strength": 3
+  },
+  {
+    "source": "her",
+    "target": "eternal-sunshine-of-the-spotless-mind",
+    "relationship": "genre_thematic",
+    "label": "Melancholy love stories about connection and loss",
+    "strength": 4
+  },
+  {
+    "source": "one-flew-over-the-cuckoos-nest",
+    "target": "the-shawshank-redemption",
+    "relationship": "genre_thematic",
+    "label": "Institutional dramas about fighting for freedom",
+    "strength": 4
+  },
+  {
+    "source": "the-truman-show",
+    "target": "her",
+    "relationship": "genre_thematic",
+    "label": "Both explore how technology mediates our experience of reality",
+    "strength": 3
+  },
+  {
+    "source": "rain-man",
+    "target": "forrest-gump",
+    "relationship": "genre_thematic",
+    "label": "Heartfelt dramas about exceptional individuals",
+    "strength": 3
+  },
+  {
+    "source": "old-boy",
+    "target": "parasite",
+    "relationship": "genre_thematic",
+    "label": "Korean thrillers with shocking twists",
+    "strength": 3
+  },
+  {
+    "source": "into-the-wild",
+    "target": "the-revenant",
+    "relationship": "genre_thematic",
+    "label": "Both follow men alone in the wilderness",
+    "strength": 3
+  },
+  {
+    "source": "this-is-us",
+    "target": "forrest-gump",
+    "relationship": "genre_thematic",
+    "label": "Sweeping family sagas spanning decades",
+    "strength": 3
+  },
+  {
+    "source": "the-pursuit-of-happyness",
+    "target": "forrest-gump",
+    "relationship": "genre_thematic",
+    "label": "Inspirational stories about perseverance against the odds",
+    "strength": 3
+  },
+  {
+    "source": "justified",
+    "target": "deadwood",
+    "relationship": "genre_thematic",
+    "label": "Modern westerns with sharp dialogue",
+    "strength": 3
+  },
+  {
+    "source": "penny-dreadful",
+    "target": "buffy-the-vampire-slayer",
+    "relationship": "genre_thematic",
+    "label": "Genre shows about fighting supernatural evil",
+    "strength": 3
+  },
+  {
+    "source": "happy-gilmore",
+    "target": "elf",
+    "relationship": "genre_thematic",
+    "label": "Beloved comedies with endlessly quotable performances",
+    "strength": 2
+  },
+  {
+    "source": "the-other-guys",
+    "target": "rush-hour",
+    "relationship": "genre_thematic",
+    "label": "Buddy-cop action comedies",
+    "strength": 3
+  },
+  {
+    "source": "national-treasure",
+    "target": "indiana-jones-and-the-raiders-of-the-lost-ark",
+    "relationship": "genre_thematic",
+    "label": "Adventure films about treasure hunters solving historical puzzles",
+    "strength": 3
+  },
+  {
+    "source": "pacific-rim",
+    "target": "edge-of-tomorrow",
+    "relationship": "genre_thematic",
+    "label": "Sci-fi action about humanity battling alien invaders",
+    "strength": 3
+  },
+  {
+    "source": "gravity",
+    "target": "alien",
+    "relationship": "genre_thematic",
+    "label": "Both feature a lone woman fighting for survival in space",
+    "strength": 3
+  },
+  {
+    "source": "nurse-jackie",
+    "target": "house",
+    "relationship": "genre_thematic",
+    "label": "Medical dramas about brilliant but flawed professionals",
+    "strength": 3
+  },
+  {
+    "source": "law-and-order",
+    "target": "the-wire",
+    "relationship": "genre_thematic",
+    "label": "Crime dramas examining the justice system",
+    "strength": 2
+  },
+  {
+    "source": "our-planet",
+    "target": "the-grand-tour",
+    "relationship": "genre_thematic",
+    "label": "Visually stunning unscripted series",
+    "strength": 2
+  },
+  {
+    "source": "outlander",
+    "target": "game-of-thrones",
+    "relationship": "genre_thematic",
+    "label": "Epic historical/fantasy dramas with political intrigue",
+    "strength": 3
+  },
+  {
+    "source": "raging-bull",
+    "target": "rocky",
+    "relationship": "genre_thematic",
+    "label": "Landmark boxing films about fighters from rough backgrounds",
+    "strength": 4
+  },
+  {
+    "source": "shaun-of-the-dead",
+    "target": "the-walking-dead",
+    "relationship": "genre_thematic",
+    "label": "Both explore zombie apocalypse scenarios",
+    "strength": 3
+  },
+  {
+    "source": "drive",
+    "target": "john-wick",
+    "relationship": "genre_thematic",
+    "label": "Both feature skilled protagonists in LA criminal underworld",
+    "strength": 3
+  },
+  {
+    "source": "twister",
+    "target": "jaws",
+    "relationship": "genre_thematic",
+    "label": "Thrilling blockbusters about humans confronting deadly natural forces",
+    "strength": 3
+  },
+  {
+    "source": "fargo-tv",
+    "target": "true-detective",
+    "relationship": "genre_thematic",
+    "label": "Anthology crime series with literary ambitions",
+    "strength": 3
+  },
+  {
+    "source": "american-history-x",
+    "target": "a-clockwork-orange",
+    "relationship": "genre_thematic",
+    "label": "Both explore violence, redemption, and societal dysfunction",
+    "strength": 3
+  },
+  {
+    "source": "the-talented-mr-ripley",
+    "target": "american-psycho",
+    "relationship": "genre_thematic",
+    "label": "Both follow charming sociopaths hiding their true nature",
+    "strength": 3
+  },
+  {
+    "source": "roma",
+    "target": "moonlight",
+    "relationship": "genre_thematic",
+    "label": "Intimate, lyrical character studies",
+    "strength": 3
+  },
+  {
+    "source": "squid-game",
+    "target": "money-heist",
+    "relationship": "genre_thematic",
+    "label": "International thriller series about life-or-death stakes",
+    "strength": 3
+  },
+  {
+    "source": "harry-potter-and-the-sorcerers-stone",
+    "target": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+    "relationship": "genre_thematic",
+    "label": "Both launched massive fantasy franchises in 2001",
+    "strength": 3
+  },
+  {
+    "source": "harry-potter-and-the-sorcerers-stone",
+    "target": "stranger-things",
+    "relationship": "genre_thematic",
+    "label": "Both feature young outcasts discovering supernatural powers",
+    "strength": 3
+  },
+  {
+    "source": "my-cousin-vinny",
+    "target": "legally-blonde",
+    "relationship": "genre_thematic",
+    "label": "Comedies about fish-out-of-water characters succeeding in law",
+    "strength": 3
+  },
+  {
+    "source": "the-bear",
+    "target": "uncut-gems",
+    "relationship": "genre_thematic",
+    "label": "Relentlessly stressful dramas about intense professionals",
+    "strength": 3
+  },
+  {
+    "source": "succession",
+    "target": "the-wolf-of-wall-street",
+    "relationship": "genre_thematic",
+    "label": "Both satirize the moral bankruptcy of the ultra-wealthy",
+    "strength": 3
+  },
+  {
+    "source": "daredevil",
+    "target": "the-batman",
+    "relationship": "genre_thematic",
+    "label": "Dark, street-level superhero stories focused on crime",
+    "strength": 3
+  },
+  {
+    "source": "logan",
+    "target": "mad-max-fury-road",
+    "relationship": "genre_thematic",
+    "label": "Brutal, stripped-down action films about aging warriors",
+    "strength": 3
+  },
+  {
+    "source": "wonka",
+    "target": "the-grand-budapest-hotel",
+    "relationship": "genre_thematic",
+    "label": "Whimsical, colorful films with eccentric protagonists",
+    "strength": 2
+  },
+  {
+    "source": "dungeons-and-dragons-honor-among-thieves",
+    "target": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+    "relationship": "genre_thematic",
+    "label": "Ensemble fantasy adventures drawing from classic RPG quests",
+    "strength": 2
+  },
+  {
+    "source": "nope",
+    "target": "jaws",
+    "relationship": "genre_thematic",
+    "label": "Both use blockbuster spectacle to explore how humans exploit nature",
+    "strength": 3
+  },
+  {
+    "source": "nope",
+    "target": "alien",
+    "relationship": "genre_thematic",
+    "label": "Sci-fi horror about encounters with alien predators",
+    "strength": 3
+  },
+  {
+    "source": "la-confidential",
+    "target": "se7en",
+    "relationship": "genre_thematic",
+    "label": "Neo-noir crime thrillers with dark twists",
+    "strength": 3
+  },
+  {
+    "source": "the-graduate",
+    "target": "eternal-sunshine-of-the-spotless-mind",
+    "relationship": "genre_thematic",
+    "label": "Bittersweet films about love and searching for meaning",
+    "strength": 2
+  },
+  {
+    "source": "roma",
+    "target": "city-of-god",
+    "relationship": "genre_thematic",
+    "label": "Masterful Latin American films with stunning visual poetry",
+    "strength": 3
+  },
+  {
+    "source": "pride-and-prejudice",
+    "target": "the-favourite",
+    "relationship": "genre_thematic",
+    "label": "Visually stunning British period films",
+    "strength": 2
+  },
+  {
+    "source": "ghostbusters",
+    "target": "back-to-the-future",
+    "relationship": "genre_thematic",
+    "label": "Iconic 1980s sci-fi comedies",
+    "strength": 3
+  },
+  {
+    "source": "ghostbusters",
+    "target": "the-goonies",
+    "relationship": "genre_thematic",
+    "label": "Quintessential 1980s adventure comedies",
+    "strength": 2
+  },
+  {
+    "source": "die-hard",
+    "target": "alien",
+    "relationship": "genre_thematic",
+    "label": "Both are thriller titles with shared sensibilities",
+    "strength": 2
+  },
+  {
+    "source": "die-hard",
+    "target": "aliens",
+    "relationship": "genre_thematic",
+    "label": "Both are action titles with shared sensibilities",
+    "strength": 2
+  },
+  {
+    "source": "casablanca",
+    "target": "american-beauty",
+    "relationship": "genre_thematic",
+    "label": "Both are drama titles with shared sensibilities",
+    "strength": 2
+  },
+  {
+    "source": "casablanca",
+    "target": "american-history-x",
+    "relationship": "genre_thematic",
+    "label": "Both are drama titles with shared sensibilities",
+    "strength": 2
+  },
+  {
+    "source": "friday-night-lights",
+    "target": "american-beauty",
+    "relationship": "genre_thematic",
+    "label": "Both are drama titles with shared sensibilities",
+    "strength": 2
+  },
+  {
+    "source": "friday-night-lights",
+    "target": "american-history-x",
+    "relationship": "genre_thematic",
+    "label": "Both are drama titles with shared sensibilities",
+    "strength": 2
+  },
+  {
+    "source": "luther",
+    "target": "alien",
+    "relationship": "genre_thematic",
+    "label": "Both are thriller titles with shared sensibilities",
+    "strength": 2
+  },
+  {
+    "source": "luther",
+    "target": "aliens",
+    "relationship": "genre_thematic",
+    "label": "Both are thriller titles with shared sensibilities",
+    "strength": 2
+  },
+  {
+    "source": "planet-of-the-apes",
+    "target": "alien",
+    "relationship": "genre_thematic",
+    "label": "Both are sci-fi titles with shared sensibilities",
+    "strength": 2
+  },
+  {
+    "source": "planet-of-the-apes",
+    "target": "aliens",
+    "relationship": "genre_thematic",
+    "label": "Both are adventure titles with shared sensibilities",
+    "strength": 2
+  },
+  {
+    "source": "the-nice-guys",
+    "target": "alien",
+    "relationship": "genre_thematic",
+    "label": "Both are thriller titles with shared sensibilities",
+    "strength": 2
+  },
+  {
+    "source": "the-nice-guys",
+    "target": "aliens",
+    "relationship": "genre_thematic",
+    "label": "Both are action titles with shared sensibilities",
+    "strength": 2
+  },
+  {
+    "source": "there-will-be-blood",
+    "target": "american-beauty",
+    "relationship": "genre_thematic",
+    "label": "Both are drama titles with shared sensibilities",
+    "strength": 2
+  },
+  {
+    "source": "there-will-be-blood",
+    "target": "american-history-x",
+    "relationship": "genre_thematic",
+    "label": "Both are drama titles with shared sensibilities",
+    "strength": 2
+  },
+  {
+    "source": "alien",
+    "target": "avatar",
+    "relationship": "shared_actor",
+    "label": "Both feature Sigourney Weaver",
+    "strength": 3
+  },
+  {
+    "source": "alien",
+    "target": "ghostbusters",
+    "relationship": "shared_actor",
+    "label": "Both feature Sigourney Weaver",
+    "strength": 3
+  },
+  {
+    "source": "aliens",
+    "target": "ghostbusters",
+    "relationship": "shared_actor",
+    "label": "Both feature Sigourney Weaver",
+    "strength": 3
+  },
+  {
+    "source": "avatar",
+    "target": "ghostbusters",
+    "relationship": "shared_actor",
+    "label": "Both feature Sigourney Weaver",
+    "strength": 3
+  },
+  {
+    "source": "alien",
+    "target": "ratatouille",
+    "relationship": "shared_actor",
+    "label": "Both feature Ian Holm",
+    "strength": 3
+  },
+  {
+    "source": "american-beauty",
+    "target": "house-of-cards",
+    "relationship": "shared_actor",
+    "label": "Both feature Kevin Spacey",
+    "strength": 3
+  },
+  {
+    "source": "american-beauty",
+    "target": "la-confidential",
+    "relationship": "shared_actor",
+    "label": "Both feature Kevin Spacey",
+    "strength": 3
+  },
+  {
+    "source": "american-beauty",
+    "target": "se7en",
+    "relationship": "shared_actor",
+    "label": "Both feature Kevin Spacey",
+    "strength": 3
+  },
+  {
+    "source": "american-beauty",
+    "target": "the-usual-suspects",
+    "relationship": "shared_actor",
+    "label": "Both feature Kevin Spacey",
+    "strength": 3
+  },
+  {
+    "source": "house-of-cards",
+    "target": "la-confidential",
+    "relationship": "shared_actor",
+    "label": "Both feature Kevin Spacey",
+    "strength": 3
+  },
+  {
+    "source": "house-of-cards",
+    "target": "se7en",
+    "relationship": "shared_actor",
+    "label": "Both feature Kevin Spacey",
+    "strength": 3
+  },
+  {
+    "source": "house-of-cards",
+    "target": "the-usual-suspects",
+    "relationship": "shared_actor",
+    "label": "Both feature Kevin Spacey",
+    "strength": 3
+  },
+  {
+    "source": "la-confidential",
+    "target": "the-usual-suspects",
+    "relationship": "shared_actor",
+    "label": "Both feature Kevin Spacey",
+    "strength": 3
+  },
+  {
+    "source": "se7en",
+    "target": "the-usual-suspects",
+    "relationship": "shared_actor",
+    "label": "Both feature Kevin Spacey",
+    "strength": 3
+  },
+  {
+    "source": "american-history-x",
+    "target": "fight-club",
+    "relationship": "shared_actor",
+    "label": "Both feature Edward Norton",
+    "strength": 3
+  },
+  {
+    "source": "american-history-x",
+    "target": "isle-of-dogs",
+    "relationship": "shared_actor",
+    "label": "Both feature Edward Norton",
+    "strength": 3
+  },
+  {
+    "source": "fight-club",
+    "target": "isle-of-dogs",
+    "relationship": "shared_actor",
+    "label": "Both feature Edward Norton",
+    "strength": 3
+  },
+  {
+    "source": "american-history-x",
+    "target": "terminator-2-judgment-day",
+    "relationship": "shared_actor",
+    "label": "Both feature Edward Furlong",
+    "strength": 3
+  },
+  {
+    "source": "american-psycho",
+    "target": "batman-begins",
+    "relationship": "shared_actor",
+    "label": "Both feature Christian Bale",
+    "strength": 3
+  },
+  {
+    "source": "american-psycho",
+    "target": "the-dark-knight",
+    "relationship": "shared_actor",
+    "label": "Both feature Christian Bale",
+    "strength": 3
+  },
+  {
+    "source": "american-psycho",
+    "target": "the-big-short",
+    "relationship": "shared_actor",
+    "label": "Both feature Christian Bale",
+    "strength": 3
+  },
+  {
+    "source": "american-psycho",
+    "target": "the-dark-knight-rises",
+    "relationship": "shared_actor",
+    "label": "Both feature Christian Bale",
+    "strength": 3
+  },
+  {
+    "source": "american-psycho",
+    "target": "the-prestige",
+    "relationship": "shared_actor",
+    "label": "Both feature Christian Bale",
+    "strength": 3
+  },
+  {
+    "source": "the-big-short",
+    "target": "the-dark-knight-rises",
+    "relationship": "shared_actor",
+    "label": "Both feature Christian Bale",
+    "strength": 3
+  },
+  {
+    "source": "american-psycho",
+    "target": "mulholland-drive",
+    "relationship": "shared_actor",
+    "label": "Both feature Justin Theroux",
+    "strength": 3
+  },
+  {
+    "source": "american-psycho",
+    "target": "legally-blonde",
+    "relationship": "shared_actor",
+    "label": "Both feature Reese Witherspoon",
+    "strength": 3
+  },
+  {
+    "source": "apocalypse-now",
+    "target": "the-west-wing",
+    "relationship": "shared_actor",
+    "label": "Both feature Martin Sheen",
+    "strength": 3
+  },
+  {
+    "source": "apocalypse-now",
+    "target": "the-godfather",
+    "relationship": "shared_actor",
+    "label": "Both feature Marlon Brando",
+    "strength": 3
+  },
+  {
+    "source": "apocalypse-now",
+    "target": "the-godfather-part-ii",
+    "relationship": "shared_actor",
+    "label": "Both feature Robert Duvall",
+    "strength": 3
+  },
+  {
+    "source": "arrested-development",
+    "target": "superbad",
+    "relationship": "shared_actor",
+    "label": "Both feature Michael Cera",
+    "strength": 3
+  },
+  {
+    "source": "arrested-development",
+    "target": "scott-pilgrim-vs-the-world",
+    "relationship": "shared_actor",
+    "label": "Both feature Michael Cera",
+    "strength": 3
+  },
+  {
+    "source": "superbad",
+    "target": "scott-pilgrim-vs-the-world",
+    "relationship": "shared_actor",
+    "label": "Both feature Michael Cera",
+    "strength": 3
+  },
+  {
+    "source": "avengers-endgame",
+    "target": "oppenheimer",
+    "relationship": "shared_actor",
+    "label": "Both feature Robert Downey Jr.",
+    "strength": 3
+  },
+  {
+    "source": "avengers-endgame",
+    "target": "zodiac",
+    "relationship": "shared_actor",
+    "label": "Both feature Robert Downey Jr.",
+    "strength": 3
+  },
+  {
+    "source": "iron-man",
+    "target": "zodiac",
+    "relationship": "shared_actor",
+    "label": "Both feature Robert Downey Jr.",
+    "strength": 3
+  },
+  {
+    "source": "the-avengers",
+    "target": "oppenheimer",
+    "relationship": "shared_actor",
+    "label": "Both feature Robert Downey Jr.",
+    "strength": 3
+  },
+  {
+    "source": "the-avengers",
+    "target": "zodiac",
+    "relationship": "shared_actor",
+    "label": "Both feature Robert Downey Jr.",
+    "strength": 3
+  },
+  {
+    "source": "oppenheimer",
+    "target": "zodiac",
+    "relationship": "shared_actor",
+    "label": "Both feature Robert Downey Jr.",
+    "strength": 3
+  },
+  {
+    "source": "avengers-endgame",
+    "target": "knives-out",
+    "relationship": "shared_actor",
+    "label": "Both feature Chris Evans",
+    "strength": 3
+  },
+  {
+    "source": "knives-out",
+    "target": "the-avengers",
+    "relationship": "shared_actor",
+    "label": "Both feature Chris Evans",
+    "strength": 3
+  },
+  {
+    "source": "avengers-endgame",
+    "target": "shutter-island",
+    "relationship": "shared_actor",
+    "label": "Both feature Mark Ruffalo",
+    "strength": 3
+  },
+  {
+    "source": "the-avengers",
+    "target": "shutter-island",
+    "relationship": "shared_actor",
+    "label": "Both feature Mark Ruffalo",
+    "strength": 3
+  },
+  {
+    "source": "shutter-island",
+    "target": "zodiac",
+    "relationship": "shared_actor",
+    "label": "Both feature Mark Ruffalo",
+    "strength": 3
+  },
+  {
+    "source": "avengers-endgame",
+    "target": "her",
+    "relationship": "shared_actor",
+    "label": "Both feature Scarlett Johansson",
+    "strength": 3
+  },
+  {
+    "source": "avengers-endgame",
+    "target": "jojo-rabbit",
+    "relationship": "shared_actor",
+    "label": "Both feature Scarlett Johansson",
+    "strength": 3
+  },
+  {
+    "source": "avengers-endgame",
+    "target": "the-prestige",
+    "relationship": "shared_actor",
+    "label": "Both feature Scarlett Johansson",
+    "strength": 3
+  },
+  {
+    "source": "her",
+    "target": "jojo-rabbit",
+    "relationship": "shared_actor",
+    "label": "Both feature Scarlett Johansson",
+    "strength": 3
+  },
+  {
+    "source": "her",
+    "target": "the-avengers",
+    "relationship": "shared_actor",
+    "label": "Both feature Scarlett Johansson",
+    "strength": 3
+  },
+  {
+    "source": "her",
+    "target": "the-prestige",
+    "relationship": "shared_actor",
+    "label": "Both feature Scarlett Johansson",
+    "strength": 3
+  },
+  {
+    "source": "jojo-rabbit",
+    "target": "the-avengers",
+    "relationship": "shared_actor",
+    "label": "Both feature Scarlett Johansson",
+    "strength": 3
+  },
+  {
+    "source": "jojo-rabbit",
+    "target": "the-prestige",
+    "relationship": "shared_actor",
+    "label": "Both feature Scarlett Johansson",
+    "strength": 3
+  },
+  {
+    "source": "the-avengers",
+    "target": "the-prestige",
+    "relationship": "shared_actor",
+    "label": "Both feature Scarlett Johansson",
+    "strength": 3
+  },
+  {
+    "source": "batman-begins",
+    "target": "children-of-men",
+    "relationship": "shared_actor",
+    "label": "Both feature Michael Caine",
+    "strength": 3
+  },
+  {
+    "source": "batman-begins",
+    "target": "miss-congeniality",
+    "relationship": "shared_actor",
+    "label": "Both feature Michael Caine",
+    "strength": 3
+  },
+  {
+    "source": "children-of-men",
+    "target": "the-dark-knight",
+    "relationship": "shared_actor",
+    "label": "Both feature Michael Caine",
+    "strength": 3
+  },
+  {
+    "source": "children-of-men",
+    "target": "miss-congeniality",
+    "relationship": "shared_actor",
+    "label": "Both feature Michael Caine",
+    "strength": 3
+  },
+  {
+    "source": "the-dark-knight",
+    "target": "miss-congeniality",
+    "relationship": "shared_actor",
+    "label": "Both feature Michael Caine",
+    "strength": 3
+  },
+  {
+    "source": "batman-begins",
+    "target": "schindlers-list",
+    "relationship": "shared_actor",
+    "label": "Both feature Liam Neeson",
+    "strength": 3
+  },
+  {
+    "source": "better-call-saul",
+    "target": "the-mandalorian",
+    "relationship": "shared_actor",
+    "label": "Both feature Giancarlo Esposito",
+    "strength": 3
+  },
+  {
+    "source": "breaking-bad",
+    "target": "the-mandalorian",
+    "relationship": "shared_actor",
+    "label": "Both feature Giancarlo Esposito",
+    "strength": 3
+  },
+  {
+    "source": "the-big-lebowski",
+    "target": "iron-man",
+    "relationship": "shared_actor",
+    "label": "Both feature Jeff Bridges",
+    "strength": 3
+  },
+  {
+    "source": "the-big-lebowski",
+    "target": "inside-llewyn-davis",
+    "relationship": "shared_actor",
+    "label": "Both feature John Goodman",
+    "strength": 3
+  },
+  {
+    "source": "the-big-lebowski",
+    "target": "children-of-men",
+    "relationship": "shared_actor",
+    "label": "Both feature Julianne Moore",
+    "strength": 3
+  },
+  {
+    "source": "blade-runner-2049",
+    "target": "the-big-short",
+    "relationship": "shared_actor",
+    "label": "Both feature Ryan Gosling",
+    "strength": 3
+  },
+  {
+    "source": "blade-runner-2049",
+    "target": "drive",
+    "relationship": "shared_actor",
+    "label": "Both feature Ryan Gosling",
+    "strength": 3
+  },
+  {
+    "source": "blade-runner-2049",
+    "target": "la-la-land",
+    "relationship": "shared_actor",
+    "label": "Both feature Ryan Gosling",
+    "strength": 3
+  },
+  {
+    "source": "blade-runner-2049",
+    "target": "the-nice-guys",
+    "relationship": "shared_actor",
+    "label": "Both feature Ryan Gosling",
+    "strength": 3
+  },
+  {
+    "source": "the-big-short",
+    "target": "drive",
+    "relationship": "shared_actor",
+    "label": "Both feature Ryan Gosling",
+    "strength": 3
+  },
+  {
+    "source": "the-big-short",
+    "target": "la-la-land",
+    "relationship": "shared_actor",
+    "label": "Both feature Ryan Gosling",
+    "strength": 3
+  },
+  {
+    "source": "the-big-short",
+    "target": "the-nice-guys",
+    "relationship": "shared_actor",
+    "label": "Both feature Ryan Gosling",
+    "strength": 3
+  },
+  {
+    "source": "drive",
+    "target": "la-la-land",
+    "relationship": "shared_actor",
+    "label": "Both feature Ryan Gosling",
+    "strength": 3
+  },
+  {
+    "source": "drive",
+    "target": "the-nice-guys",
+    "relationship": "shared_actor",
+    "label": "Both feature Ryan Gosling",
+    "strength": 3
+  },
+  {
+    "source": "la-la-land",
+    "target": "the-nice-guys",
+    "relationship": "shared_actor",
+    "label": "Both feature Ryan Gosling",
+    "strength": 3
+  },
+  {
+    "source": "blade-runner-2049",
+    "target": "knives-out",
+    "relationship": "shared_actor",
+    "label": "Both feature Ana de Armas",
+    "strength": 3
+  },
+  {
+    "source": "breaking-bad",
+    "target": "drive",
+    "relationship": "shared_actor",
+    "label": "Both feature Bryan Cranston",
+    "strength": 3
+  },
+  {
+    "source": "breaking-bad",
+    "target": "isle-of-dogs",
+    "relationship": "shared_actor",
+    "label": "Both feature Bryan Cranston",
+    "strength": 3
+  },
+  {
+    "source": "drive",
+    "target": "isle-of-dogs",
+    "relationship": "shared_actor",
+    "label": "Both feature Bryan Cranston",
+    "strength": 3
+  },
+  {
+    "source": "braveheart",
+    "target": "mad-max",
+    "relationship": "shared_actor",
+    "label": "Both feature Mel Gibson",
+    "strength": 3
+  },
+  {
+    "source": "cast-away",
+    "target": "saving-private-ryan",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Hanks",
+    "strength": 3
+  },
+  {
+    "source": "cast-away",
+    "target": "toy-story",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Hanks",
+    "strength": 3
+  },
+  {
+    "source": "cast-away",
+    "target": "toy-story-3",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Hanks",
+    "strength": 3
+  },
+  {
+    "source": "forrest-gump",
+    "target": "saving-private-ryan",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Hanks",
+    "strength": 3
+  },
+  {
+    "source": "forrest-gump",
+    "target": "toy-story",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Hanks",
+    "strength": 3
+  },
+  {
+    "source": "forrest-gump",
+    "target": "toy-story-3",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Hanks",
+    "strength": 3
+  },
+  {
+    "source": "the-green-mile",
+    "target": "saving-private-ryan",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Hanks",
+    "strength": 3
+  },
+  {
+    "source": "the-green-mile",
+    "target": "toy-story",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Hanks",
+    "strength": 3
+  },
+  {
+    "source": "the-green-mile",
+    "target": "toy-story-3",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Hanks",
+    "strength": 3
+  },
+  {
+    "source": "saving-private-ryan",
+    "target": "toy-story",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Hanks",
+    "strength": 3
+  },
+  {
+    "source": "saving-private-ryan",
+    "target": "toy-story-3",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Hanks",
+    "strength": 3
+  },
+  {
+    "source": "cast-away",
+    "target": "twister",
+    "relationship": "shared_actor",
+    "label": "Both feature Helen Hunt",
+    "strength": 3
+  },
+  {
+    "source": "cast-away",
+    "target": "justified",
+    "relationship": "shared_actor",
+    "label": "Both feature Nick Searcy",
+    "strength": 3
+  },
+  {
+    "source": "children-of-men",
+    "target": "doctor-strange",
+    "relationship": "shared_actor",
+    "label": "Both feature Chiwetel Ejiofor",
+    "strength": 3
+  },
+  {
+    "source": "coco",
+    "target": "miss-congeniality",
+    "relationship": "shared_actor",
+    "label": "Both feature Benjamin Bratt",
+    "strength": 3
+  },
+  {
+    "source": "curb-your-enthusiasm",
+    "target": "wall-e",
+    "relationship": "shared_actor",
+    "label": "Both feature Jeff Garlin",
+    "strength": 3
+  },
+  {
+    "source": "the-departed",
+    "target": "oppenheimer",
+    "relationship": "shared_actor",
+    "label": "Both feature Matt Damon",
+    "strength": 3
+  },
+  {
+    "source": "the-departed",
+    "target": "the-talented-mr-ripley",
+    "relationship": "shared_actor",
+    "label": "Both feature Matt Damon",
+    "strength": 3
+  },
+  {
+    "source": "good-will-hunting",
+    "target": "oppenheimer",
+    "relationship": "shared_actor",
+    "label": "Both feature Matt Damon",
+    "strength": 3
+  },
+  {
+    "source": "good-will-hunting",
+    "target": "the-talented-mr-ripley",
+    "relationship": "shared_actor",
+    "label": "Both feature Matt Damon",
+    "strength": 3
+  },
+  {
+    "source": "oppenheimer",
+    "target": "saving-private-ryan",
+    "relationship": "shared_actor",
+    "label": "Both feature Matt Damon",
+    "strength": 3
+  },
+  {
+    "source": "oppenheimer",
+    "target": "the-talented-mr-ripley",
+    "relationship": "shared_actor",
+    "label": "Both feature Matt Damon",
+    "strength": 3
+  },
+  {
+    "source": "saving-private-ryan",
+    "target": "the-talented-mr-ripley",
+    "relationship": "shared_actor",
+    "label": "Both feature Matt Damon",
+    "strength": 3
+  },
+  {
+    "source": "the-departed",
+    "target": "chinatown",
+    "relationship": "shared_actor",
+    "label": "Both feature Jack Nicholson",
+    "strength": 3
+  },
+  {
+    "source": "the-departed",
+    "target": "one-flew-over-the-cuckoos-nest",
+    "relationship": "shared_actor",
+    "label": "Both feature Jack Nicholson",
+    "strength": 3
+  },
+  {
+    "source": "the-departed",
+    "target": "the-shining",
+    "relationship": "shared_actor",
+    "label": "Both feature Jack Nicholson",
+    "strength": 3
+  },
+  {
+    "source": "chinatown",
+    "target": "one-flew-over-the-cuckoos-nest",
+    "relationship": "shared_actor",
+    "label": "Both feature Jack Nicholson",
+    "strength": 3
+  },
+  {
+    "source": "chinatown",
+    "target": "the-shining",
+    "relationship": "shared_actor",
+    "label": "Both feature Jack Nicholson",
+    "strength": 3
+  },
+  {
+    "source": "one-flew-over-the-cuckoos-nest",
+    "target": "the-shining",
+    "relationship": "shared_actor",
+    "label": "Both feature Jack Nicholson",
+    "strength": 3
+  },
+  {
+    "source": "the-departed",
+    "target": "the-other-guys",
+    "relationship": "shared_actor",
+    "label": "Both feature Mark Wahlberg",
+    "strength": 3
+  },
+  {
+    "source": "die-hard",
+    "target": "pulp-fiction",
+    "relationship": "shared_actor",
+    "label": "Both feature Bruce Willis",
+    "strength": 3
+  },
+  {
+    "source": "die-hard",
+    "target": "the-sixth-sense",
+    "relationship": "shared_actor",
+    "label": "Both feature Bruce Willis",
+    "strength": 3
+  },
+  {
+    "source": "pulp-fiction",
+    "target": "the-sixth-sense",
+    "relationship": "shared_actor",
+    "label": "Both feature Bruce Willis",
+    "strength": 3
+  },
+  {
+    "source": "dune",
+    "target": "drive",
+    "relationship": "shared_actor",
+    "label": "Both feature Oscar Isaac",
+    "strength": 3
+  },
+  {
+    "source": "dune",
+    "target": "ex-machina",
+    "relationship": "shared_actor",
+    "label": "Both feature Oscar Isaac",
+    "strength": 3
+  },
+  {
+    "source": "dune",
+    "target": "inside-llewyn-davis",
+    "relationship": "shared_actor",
+    "label": "Both feature Oscar Isaac",
+    "strength": 3
+  },
+  {
+    "source": "drive",
+    "target": "ex-machina",
+    "relationship": "shared_actor",
+    "label": "Both feature Oscar Isaac",
+    "strength": 3
+  },
+  {
+    "source": "drive",
+    "target": "inside-llewyn-davis",
+    "relationship": "shared_actor",
+    "label": "Both feature Oscar Isaac",
+    "strength": 3
+  },
+  {
+    "source": "ex-machina",
+    "target": "inside-llewyn-davis",
+    "relationship": "shared_actor",
+    "label": "Both feature Oscar Isaac",
+    "strength": 3
+  },
+  {
+    "source": "eternal-sunshine-of-the-spotless-mind",
+    "target": "the-truman-show",
+    "relationship": "shared_actor",
+    "label": "Both feature Jim Carrey",
+    "strength": 3
+  },
+  {
+    "source": "eternal-sunshine-of-the-spotless-mind",
+    "target": "titanic",
+    "relationship": "shared_actor",
+    "label": "Both feature Kate Winslet",
+    "strength": 3
+  },
+  {
+    "source": "eternal-sunshine-of-the-spotless-mind",
+    "target": "rush-hour",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Wilkinson",
+    "strength": 3
+  },
+  {
+    "source": "eternal-sunshine-of-the-spotless-mind",
+    "target": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+    "relationship": "shared_actor",
+    "label": "Both feature Elijah Wood",
+    "strength": 3
+  },
+  {
+    "source": "eternal-sunshine-of-the-spotless-mind",
+    "target": "the-lord-of-the-rings-the-return-of-the-king",
+    "relationship": "shared_actor",
+    "label": "Both feature Elijah Wood",
+    "strength": 3
+  },
+  {
+    "source": "eternal-sunshine-of-the-spotless-mind",
+    "target": "the-lord-of-the-rings-the-two-towers",
+    "relationship": "shared_actor",
+    "label": "Both feature Elijah Wood",
+    "strength": 3
+  },
+  {
+    "source": "everything-everywhere-all-at-once",
+    "target": "halloween",
+    "relationship": "shared_actor",
+    "label": "Both feature Jamie Lee Curtis",
+    "strength": 3
+  },
+  {
+    "source": "fight-club",
+    "target": "the-big-short",
+    "relationship": "shared_actor",
+    "label": "Both feature Brad Pitt",
+    "strength": 3
+  },
+  {
+    "source": "the-big-short",
+    "target": "inglourious-basterds",
+    "relationship": "shared_actor",
+    "label": "Both feature Brad Pitt",
+    "strength": 3
+  },
+  {
+    "source": "the-big-short",
+    "target": "moneyball",
+    "relationship": "shared_actor",
+    "label": "Both feature Brad Pitt",
+    "strength": 3
+  },
+  {
+    "source": "the-big-short",
+    "target": "once-upon-a-time-in-hollywood",
+    "relationship": "shared_actor",
+    "label": "Both feature Brad Pitt",
+    "strength": 3
+  },
+  {
+    "source": "the-big-short",
+    "target": "se7en",
+    "relationship": "shared_actor",
+    "label": "Both feature Brad Pitt",
+    "strength": 3
+  },
+  {
+    "source": "fight-club",
+    "target": "the-kings-speech",
+    "relationship": "shared_actor",
+    "label": "Both feature Helena Bonham Carter",
+    "strength": 3
+  },
+  {
+    "source": "finding-nemo",
+    "target": "drive",
+    "relationship": "shared_actor",
+    "label": "Both feature Albert Brooks",
+    "strength": 3
+  },
+  {
+    "source": "finding-nemo",
+    "target": "platoon",
+    "relationship": "shared_actor",
+    "label": "Both feature Willem Dafoe",
+    "strength": 3
+  },
+  {
+    "source": "fleabag",
+    "target": "the-crown",
+    "relationship": "shared_actor",
+    "label": "Both feature Olivia Colman",
+    "strength": 3
+  },
+  {
+    "source": "fleabag",
+    "target": "the-favourite",
+    "relationship": "shared_actor",
+    "label": "Both feature Olivia Colman",
+    "strength": 3
+  },
+  {
+    "source": "forrest-gump",
+    "target": "house-of-cards",
+    "relationship": "shared_actor",
+    "label": "Both feature Robin Wright",
+    "strength": 3
+  },
+  {
+    "source": "forrest-gump",
+    "target": "the-princess-bride",
+    "relationship": "shared_actor",
+    "label": "Both feature Robin Wright",
+    "strength": 3
+  },
+  {
+    "source": "house-of-cards",
+    "target": "the-princess-bride",
+    "relationship": "shared_actor",
+    "label": "Both feature Robin Wright",
+    "strength": 3
+  },
+  {
+    "source": "friends",
+    "target": "office-space",
+    "relationship": "shared_actor",
+    "label": "Both feature Jennifer Aniston",
+    "strength": 3
+  },
+  {
+    "source": "frozen",
+    "target": "the-good-place",
+    "relationship": "shared_actor",
+    "label": "Both feature Kristen Bell",
+    "strength": 3
+  },
+  {
+    "source": "frozen",
+    "target": "uncut-gems",
+    "relationship": "shared_actor",
+    "label": "Both feature Idina Menzel",
+    "strength": 3
+  },
+  {
+    "source": "frozen",
+    "target": "mindhunter",
+    "relationship": "shared_actor",
+    "label": "Both feature Jonathan Groff",
+    "strength": 3
+  },
+  {
+    "source": "get-out",
+    "target": "black-mirror",
+    "relationship": "shared_actor",
+    "label": "Both feature Daniel Kaluuya",
+    "strength": 3
+  },
+  {
+    "source": "black-mirror",
+    "target": "nope",
+    "relationship": "shared_actor",
+    "label": "Both feature Daniel Kaluuya",
+    "strength": 3
+  },
+  {
+    "source": "get-out",
+    "target": "the-west-wing",
+    "relationship": "shared_actor",
+    "label": "Both feature Bradley Whitford",
+    "strength": 3
+  },
+  {
+    "source": "get-out",
+    "target": "into-the-wild",
+    "relationship": "shared_actor",
+    "label": "Both feature Catherine Keener",
+    "strength": 3
+  },
+  {
+    "source": "gladiator",
+    "target": "a-beautiful-mind",
+    "relationship": "shared_actor",
+    "label": "Both feature Russell Crowe",
+    "strength": 3
+  },
+  {
+    "source": "gladiator",
+    "target": "la-confidential",
+    "relationship": "shared_actor",
+    "label": "Both feature Russell Crowe",
+    "strength": 3
+  },
+  {
+    "source": "gladiator",
+    "target": "the-nice-guys",
+    "relationship": "shared_actor",
+    "label": "Both feature Russell Crowe",
+    "strength": 3
+  },
+  {
+    "source": "a-beautiful-mind",
+    "target": "la-confidential",
+    "relationship": "shared_actor",
+    "label": "Both feature Russell Crowe",
+    "strength": 3
+  },
+  {
+    "source": "a-beautiful-mind",
+    "target": "the-nice-guys",
+    "relationship": "shared_actor",
+    "label": "Both feature Russell Crowe",
+    "strength": 3
+  },
+  {
+    "source": "la-confidential",
+    "target": "the-nice-guys",
+    "relationship": "shared_actor",
+    "label": "Both feature Russell Crowe",
+    "strength": 3
+  },
+  {
+    "source": "gladiator",
+    "target": "her",
+    "relationship": "shared_actor",
+    "label": "Both feature Joaquin Phoenix",
+    "strength": 3
+  },
+  {
+    "source": "gladiator",
+    "target": "joker",
+    "relationship": "shared_actor",
+    "label": "Both feature Joaquin Phoenix",
+    "strength": 3
+  },
+  {
+    "source": "gladiator",
+    "target": "hotel-rwanda",
+    "relationship": "shared_actor",
+    "label": "Both feature Joaquin Phoenix",
+    "strength": 3
+  },
+  {
+    "source": "her",
+    "target": "joker",
+    "relationship": "shared_actor",
+    "label": "Both feature Joaquin Phoenix",
+    "strength": 3
+  },
+  {
+    "source": "her",
+    "target": "hotel-rwanda",
+    "relationship": "shared_actor",
+    "label": "Both feature Joaquin Phoenix",
+    "strength": 3
+  },
+  {
+    "source": "joker",
+    "target": "hotel-rwanda",
+    "relationship": "shared_actor",
+    "label": "Both feature Joaquin Phoenix",
+    "strength": 3
+  },
+  {
+    "source": "the-godfather",
+    "target": "elf",
+    "relationship": "shared_actor",
+    "label": "Both feature James Caan",
+    "strength": 3
+  },
+  {
+    "source": "the-godfather-part-ii",
+    "target": "joker",
+    "relationship": "shared_actor",
+    "label": "Both feature Robert De Niro",
+    "strength": 3
+  },
+  {
+    "source": "goodfellas",
+    "target": "joker",
+    "relationship": "shared_actor",
+    "label": "Both feature Robert De Niro",
+    "strength": 3
+  },
+  {
+    "source": "the-deer-hunter",
+    "target": "joker",
+    "relationship": "shared_actor",
+    "label": "Both feature Robert De Niro",
+    "strength": 3
+  },
+  {
+    "source": "joker",
+    "target": "taxi-driver",
+    "relationship": "shared_actor",
+    "label": "Both feature Robert De Niro",
+    "strength": 3
+  },
+  {
+    "source": "joker",
+    "target": "raging-bull",
+    "relationship": "shared_actor",
+    "label": "Both feature Robert De Niro",
+    "strength": 3
+  },
+  {
+    "source": "goodfellas",
+    "target": "the-sopranos",
+    "relationship": "shared_actor",
+    "label": "Both feature Lorraine Bracco",
+    "strength": 3
+  },
+  {
+    "source": "inception",
+    "target": "mad-max-fury-road",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Hardy",
+    "strength": 3
+  },
+  {
+    "source": "mad-max-fury-road",
+    "target": "the-dark-knight-rises",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Hardy",
+    "strength": 3
+  },
+  {
+    "source": "mad-max-fury-road",
+    "target": "the-revenant",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Hardy",
+    "strength": 3
+  },
+  {
+    "source": "the-dark-knight-rises",
+    "target": "the-revenant",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Hardy",
+    "strength": 3
+  },
+  {
+    "source": "pulp-fiction",
+    "target": "grease",
+    "relationship": "shared_actor",
+    "label": "Both feature John Travolta",
+    "strength": 3
+  },
+  {
+    "source": "the-shawshank-redemption",
+    "target": "unforgiven",
+    "relationship": "shared_actor",
+    "label": "Both feature Morgan Freeman",
+    "strength": 3
+  },
+  {
+    "source": "se7en",
+    "target": "unforgiven",
+    "relationship": "shared_actor",
+    "label": "Both feature Morgan Freeman",
+    "strength": 3
+  },
+  {
+    "source": "the-matrix",
+    "target": "memento",
+    "relationship": "shared_actor",
+    "label": "Both feature Carrie-Anne Moss",
+    "strength": 3
+  },
+  {
+    "source": "a-beautiful-mind",
+    "target": "gravity",
+    "relationship": "shared_actor",
+    "label": "Both feature Ed Harris",
+    "strength": 3
+  },
+  {
+    "source": "a-beautiful-mind",
+    "target": "the-truman-show",
+    "relationship": "shared_actor",
+    "label": "Both feature Ed Harris",
+    "strength": 3
+  },
+  {
+    "source": "a-beautiful-mind",
+    "target": "westworld",
+    "relationship": "shared_actor",
+    "label": "Both feature Ed Harris",
+    "strength": 3
+  },
+  {
+    "source": "gravity",
+    "target": "the-truman-show",
+    "relationship": "shared_actor",
+    "label": "Both feature Ed Harris",
+    "strength": 3
+  },
+  {
+    "source": "gravity",
+    "target": "westworld",
+    "relationship": "shared_actor",
+    "label": "Both feature Ed Harris",
+    "strength": 3
+  },
+  {
+    "source": "the-truman-show",
+    "target": "westworld",
+    "relationship": "shared_actor",
+    "label": "Both feature Ed Harris",
+    "strength": 3
+  },
+  {
+    "source": "a-beautiful-mind",
+    "target": "top-gun-maverick",
+    "relationship": "shared_actor",
+    "label": "Both feature Jennifer Connelly",
+    "strength": 3
+  },
+  {
+    "source": "the-big-short",
+    "target": "the-office",
+    "relationship": "shared_actor",
+    "label": "Both feature Steve Carell",
+    "strength": 3
+  },
+  {
+    "source": "the-big-short",
+    "target": "little-miss-sunshine",
+    "relationship": "shared_actor",
+    "label": "Both feature Steve Carell",
+    "strength": 3
+  },
+  {
+    "source": "the-office",
+    "target": "little-miss-sunshine",
+    "relationship": "shared_actor",
+    "label": "Both feature Steve Carell",
+    "strength": 3
+  },
+  {
+    "source": "black-mirror",
+    "target": "mad-men",
+    "relationship": "shared_actor",
+    "label": "Both feature Jon Hamm",
+    "strength": 3
+  },
+  {
+    "source": "black-panther",
+    "target": "creed",
+    "relationship": "shared_actor",
+    "label": "Both feature Michael B. Jordan",
+    "strength": 3
+  },
+  {
+    "source": "chinatown",
+    "target": "network",
+    "relationship": "shared_actor",
+    "label": "Both feature Faye Dunaway",
+    "strength": 3
+  },
+  {
+    "source": "deadpool",
+    "target": "silicon-valley",
+    "relationship": "shared_actor",
+    "label": "Both feature T.J. Miller",
+    "strength": 3
+  },
+  {
+    "source": "the-deer-hunter",
+    "target": "fantastic-mr-fox",
+    "relationship": "shared_actor",
+    "label": "Both feature Meryl Streep",
+    "strength": 3
+  },
+  {
+    "source": "doctor-strange",
+    "target": "mean-girls",
+    "relationship": "shared_actor",
+    "label": "Both feature Rachel McAdams",
+    "strength": 3
+  },
+  {
+    "source": "dune-part-two",
+    "target": "midsommar",
+    "relationship": "shared_actor",
+    "label": "Both feature Florence Pugh",
+    "strength": 3
+  },
+  {
+    "source": "dune-part-two",
+    "target": "no-country-for-old-men",
+    "relationship": "shared_actor",
+    "label": "Both feature Javier Bardem",
+    "strength": 3
+  },
+  {
+    "source": "elf",
+    "target": "the-other-guys",
+    "relationship": "shared_actor",
+    "label": "Both feature Will Ferrell",
+    "strength": 3
+  },
+  {
+    "source": "the-favourite",
+    "target": "la-la-land",
+    "relationship": "shared_actor",
+    "label": "Both feature Emma Stone",
+    "strength": 3
+  },
+  {
+    "source": "full-metal-jacket",
+    "target": "daredevil",
+    "relationship": "shared_actor",
+    "label": "Both feature Vincent D'Onofrio",
+    "strength": 3
+  },
+  {
+    "source": "ghostbusters",
+    "target": "groundhog-day",
+    "relationship": "shared_actor",
+    "label": "Both feature Bill Murray",
+    "strength": 3
+  },
+  {
+    "source": "ghostbusters",
+    "target": "fantastic-mr-fox",
+    "relationship": "shared_actor",
+    "label": "Both feature Bill Murray",
+    "strength": 3
+  },
+  {
+    "source": "groundhog-day",
+    "target": "fantastic-mr-fox",
+    "relationship": "shared_actor",
+    "label": "Both feature Bill Murray",
+    "strength": 3
+  },
+  {
+    "source": "the-grand-budapest-hotel",
+    "target": "in-bruges",
+    "relationship": "shared_actor",
+    "label": "Both feature Ralph Fiennes",
+    "strength": 3
+  },
+  {
+    "source": "the-grand-budapest-hotel",
+    "target": "schindlers-list",
+    "relationship": "shared_actor",
+    "label": "Both feature Ralph Fiennes",
+    "strength": 3
+  },
+  {
+    "source": "in-bruges",
+    "target": "schindlers-list",
+    "relationship": "shared_actor",
+    "label": "Both feature Ralph Fiennes",
+    "strength": 3
+  },
+  {
+    "source": "gravity",
+    "target": "miss-congeniality",
+    "relationship": "shared_actor",
+    "label": "Both feature Sandra Bullock",
+    "strength": 3
+  },
+  {
+    "source": "gravity",
+    "target": "fantastic-mr-fox",
+    "relationship": "shared_actor",
+    "label": "Both feature George Clooney",
+    "strength": 3
+  },
+  {
+    "source": "atlanta",
+    "target": "community",
+    "relationship": "shared_actor",
+    "label": "Both feature Donald Glover",
+    "strength": 3
+  },
+  {
+    "source": "atlanta",
+    "target": "joker",
+    "relationship": "shared_actor",
+    "label": "Both feature Zazie Beetz",
+    "strength": 3
+  },
+  {
+    "source": "the-conjuring",
+    "target": "office-space",
+    "relationship": "shared_actor",
+    "label": "Both feature Ron Livingston",
+    "strength": 3
+  },
+  {
+    "source": "the-empire-strikes-back",
+    "target": "star-wars-the-empire-strikes-back",
+    "relationship": "shared_actor",
+    "label": "Both feature Mark Hamill",
+    "strength": 3
+  },
+  {
+    "source": "edge-of-tomorrow",
+    "target": "jerry-maguire",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Cruise",
+    "strength": 3
+  },
+  {
+    "source": "edge-of-tomorrow",
+    "target": "mission-impossible",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Cruise",
+    "strength": 3
+  },
+  {
+    "source": "edge-of-tomorrow",
+    "target": "rain-man",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Cruise",
+    "strength": 3
+  },
+  {
+    "source": "edge-of-tomorrow",
+    "target": "top-gun-maverick",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Cruise",
+    "strength": 3
+  },
+  {
+    "source": "jerry-maguire",
+    "target": "mission-impossible",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Cruise",
+    "strength": 3
+  },
+  {
+    "source": "jerry-maguire",
+    "target": "rain-man",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Cruise",
+    "strength": 3
+  },
+  {
+    "source": "jerry-maguire",
+    "target": "top-gun-maverick",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Cruise",
+    "strength": 3
+  },
+  {
+    "source": "mission-impossible",
+    "target": "rain-man",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Cruise",
+    "strength": 3
+  },
+  {
+    "source": "rain-man",
+    "target": "top-gun-maverick",
+    "relationship": "shared_actor",
+    "label": "Both feature Tom Cruise",
+    "strength": 3
+  },
+  {
+    "source": "edge-of-tomorrow",
+    "target": "oppenheimer",
+    "relationship": "shared_actor",
+    "label": "Both feature Emily Blunt",
+    "strength": 3
+  },
+  {
+    "source": "edge-of-tomorrow",
+    "target": "sicario",
+    "relationship": "shared_actor",
+    "label": "Both feature Emily Blunt",
+    "strength": 3
+  },
+  {
+    "source": "oppenheimer",
+    "target": "sicario",
+    "relationship": "shared_actor",
+    "label": "Both feature Emily Blunt",
+    "strength": 3
+  },
+  {
+    "source": "edge-of-tomorrow",
+    "target": "nightcrawler",
+    "relationship": "shared_actor",
+    "label": "Both feature Bill Paxton",
+    "strength": 3
+  },
+  {
+    "source": "edge-of-tomorrow",
+    "target": "twister",
+    "relationship": "shared_actor",
+    "label": "Both feature Bill Paxton",
+    "strength": 3
+  },
+  {
+    "source": "nightcrawler",
+    "target": "twister",
+    "relationship": "shared_actor",
+    "label": "Both feature Bill Paxton",
+    "strength": 3
+  },
+  {
+    "source": "edge-of-tomorrow",
+    "target": "in-bruges",
+    "relationship": "shared_actor",
+    "label": "Both feature Brendan Gleeson",
+    "strength": 3
+  },
+  {
+    "source": "gone-girl",
+    "target": "good-will-hunting",
+    "relationship": "shared_actor",
+    "label": "Both feature Ben Affleck",
+    "strength": 3
+  },
+  {
+    "source": "gone-girl",
+    "target": "how-i-met-your-mother",
+    "relationship": "shared_actor",
+    "label": "Both feature Neil Patrick Harris",
+    "strength": 3
+  },
+  {
+    "source": "the-goonies",
+    "target": "the-lord-of-the-rings-the-return-of-the-king",
+    "relationship": "shared_actor",
+    "label": "Both feature Sean Astin",
+    "strength": 3
+  },
+  {
+    "source": "the-goonies",
+    "target": "no-country-for-old-men",
+    "relationship": "shared_actor",
+    "label": "Both feature Josh Brolin",
+    "strength": 3
+  },
+  {
+    "source": "the-goonies",
+    "target": "sicario",
+    "relationship": "shared_actor",
+    "label": "Both feature Josh Brolin",
+    "strength": 3
+  },
+  {
+    "source": "no-country-for-old-men",
+    "target": "sicario",
+    "relationship": "shared_actor",
+    "label": "Both feature Josh Brolin",
+    "strength": 3
+  },
+  {
+    "source": "the-graduate",
+    "target": "rain-man",
+    "relationship": "shared_actor",
+    "label": "Both feature Dustin Hoffman",
+    "strength": 3
+  },
+  {
+    "source": "ex-machina",
+    "target": "the-revenant",
+    "relationship": "shared_actor",
+    "label": "Both feature Domhnall Gleeson",
+    "strength": 3
+  },
+  {
+    "source": "the-french-connection",
+    "target": "unforgiven",
+    "relationship": "shared_actor",
+    "label": "Both feature Gene Hackman",
+    "strength": 3
+  },
+  {
+    "source": "the-french-connection",
+    "target": "jaws",
+    "relationship": "shared_actor",
+    "label": "Both feature Roy Scheider",
+    "strength": 3
+  },
+  {
+    "source": "friday-night-lights",
+    "target": "the-white-lotus",
+    "relationship": "shared_actor",
+    "label": "Both feature Connie Britton",
+    "strength": 3
+  },
+  {
+    "source": "happy-gilmore",
+    "target": "uncut-gems",
+    "relationship": "shared_actor",
+    "label": "Both feature Adam Sandler",
+    "strength": 3
+  },
+  {
+    "source": "hereditary",
+    "target": "little-miss-sunshine",
+    "relationship": "shared_actor",
+    "label": "Both feature Toni Collette",
+    "strength": 3
+  },
+  {
+    "source": "hereditary",
+    "target": "the-sixth-sense",
+    "relationship": "shared_actor",
+    "label": "Both feature Toni Collette",
+    "strength": 3
+  },
+  {
+    "source": "little-miss-sunshine",
+    "target": "the-sixth-sense",
+    "relationship": "shared_actor",
+    "label": "Both feature Toni Collette",
+    "strength": 3
+  },
+  {
+    "source": "hereditary",
+    "target": "the-usual-suspects",
+    "relationship": "shared_actor",
+    "label": "Both feature Gabriel Byrne",
+    "strength": 3
+  },
+  {
+    "source": "homeland",
+    "target": "the-princess-bride",
+    "relationship": "shared_actor",
+    "label": "Both feature Mandy Patinkin",
+    "strength": 3
+  },
+  {
+    "source": "the-hunger-games",
+    "target": "x-men-days-of-future-past",
+    "relationship": "shared_actor",
+    "label": "Both feature Jennifer Lawrence",
+    "strength": 3
+  },
+  {
+    "source": "hunt-for-the-wilderpeople",
+    "target": "jurassic-park",
+    "relationship": "shared_actor",
+    "label": "Both feature Sam Neill",
+    "strength": 3
+  },
+  {
+    "source": "indiana-jones-and-the-raiders-of-the-lost-ark",
+    "target": "raiders-of-the-lost-ark",
+    "relationship": "shared_actor",
+    "label": "Both feature Karen Allen",
+    "strength": 3
+  },
+  {
+    "source": "inside-out",
+    "target": "parks-and-recreation",
+    "relationship": "shared_actor",
+    "label": "Both feature Amy Poehler",
+    "strength": 3
+  },
+  {
+    "source": "interstellar",
+    "target": "true-detective",
+    "relationship": "shared_actor",
+    "label": "Both feature Matthew McConaughey",
+    "strength": 3
+  },
+  {
+    "source": "iron-man",
+    "target": "the-talented-mr-ripley",
+    "relationship": "shared_actor",
+    "label": "Both feature Gwyneth Paltrow",
+    "strength": 3
+  },
+  {
+    "source": "the-kings-speech",
+    "target": "pirates-of-the-caribbean-the-curse-of-the-black-pearl",
+    "relationship": "shared_actor",
+    "label": "Both feature Geoffrey Rush",
+    "strength": 3
+  },
+  {
+    "source": "the-last-of-us",
+    "target": "the-mandalorian",
+    "relationship": "shared_actor",
+    "label": "Both feature Pedro Pascal",
+    "strength": 3
+  },
+  {
+    "source": "the-last-of-us",
+    "target": "narcos",
+    "relationship": "shared_actor",
+    "label": "Both feature Pedro Pascal",
+    "strength": 3
+  },
+  {
+    "source": "the-mandalorian",
+    "target": "narcos",
+    "relationship": "shared_actor",
+    "label": "Both feature Pedro Pascal",
+    "strength": 3
+  },
+  {
+    "source": "the-last-of-us",
+    "target": "mindhunter",
+    "relationship": "shared_actor",
+    "label": "Both feature Anna Torv",
+    "strength": 3
+  },
+  {
+    "source": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+    "target": "x-men-days-of-future-past",
+    "relationship": "shared_actor",
+    "label": "Both feature Ian McKellen",
+    "strength": 3
+  },
+  {
+    "source": "the-lord-of-the-rings-the-return-of-the-king",
+    "target": "x-men-days-of-future-past",
+    "relationship": "shared_actor",
+    "label": "Both feature Ian McKellen",
+    "strength": 3
+  },
+  {
+    "source": "the-lord-of-the-rings-the-two-towers",
+    "target": "x-men-days-of-future-past",
+    "relationship": "shared_actor",
+    "label": "Both feature Ian McKellen",
+    "strength": 3
+  },
+  {
+    "source": "luther",
+    "target": "pacific-rim",
+    "relationship": "shared_actor",
+    "label": "Both feature Idris Elba",
+    "strength": 3
+  },
+  {
+    "source": "luther",
+    "target": "the-wire",
+    "relationship": "shared_actor",
+    "label": "Both feature Idris Elba",
+    "strength": 3
+  },
+  {
+    "source": "pacific-rim",
+    "target": "the-wire",
+    "relationship": "shared_actor",
+    "label": "Both feature Idris Elba",
+    "strength": 3
+  },
+  {
+    "source": "mad-men",
+    "target": "the-handmaids-tale",
+    "relationship": "shared_actor",
+    "label": "Both feature Elisabeth Moss",
+    "strength": 3
+  },
+  {
+    "source": "memento",
+    "target": "la-confidential",
+    "relationship": "shared_actor",
+    "label": "Both feature Guy Pearce",
+    "strength": 3
+  },
+  {
+    "source": "moneyball",
+    "target": "superbad",
+    "relationship": "shared_actor",
+    "label": "Both feature Jonah Hill",
+    "strength": 3
+  },
+  {
+    "source": "moneyball",
+    "target": "the-wolf-of-wall-street",
+    "relationship": "shared_actor",
+    "label": "Both feature Jonah Hill",
+    "strength": 3
+  },
+  {
+    "source": "superbad",
+    "target": "the-wolf-of-wall-street",
+    "relationship": "shared_actor",
+    "label": "Both feature Jonah Hill",
+    "strength": 3
+  },
+  {
+    "source": "nightcrawler",
+    "target": "prisoners",
+    "relationship": "shared_actor",
+    "label": "Both feature Jake Gyllenhaal",
+    "strength": 3
+  },
+  {
+    "source": "nightcrawler",
+    "target": "zodiac",
+    "relationship": "shared_actor",
+    "label": "Both feature Jake Gyllenhaal",
+    "strength": 3
+  },
+  {
+    "source": "prisoners",
+    "target": "zodiac",
+    "relationship": "shared_actor",
+    "label": "Both feature Jake Gyllenhaal",
+    "strength": 3
+  },
+  {
+    "source": "nurse-jackie",
+    "target": "the-sopranos",
+    "relationship": "shared_actor",
+    "label": "Both feature Edie Falco",
+    "strength": 3
+  },
+  {
+    "source": "once-upon-a-time-in-hollywood",
+    "target": "the-wolf-of-wall-street",
+    "relationship": "shared_actor",
+    "label": "Both feature Margot Robbie",
+    "strength": 3
+  },
+  {
+    "source": "oppenheimer",
+    "target": "peaky-blinders",
+    "relationship": "shared_actor",
+    "label": "Both feature Cillian Murphy",
+    "strength": 3
+  },
+  {
+    "source": "oz",
+    "target": "whiplash",
+    "relationship": "shared_actor",
+    "label": "Both feature J.K. Simmons",
+    "strength": 3
+  },
+  {
+    "source": "parks-and-recreation",
+    "target": "the-white-lotus",
+    "relationship": "shared_actor",
+    "label": "Both feature Aubrey Plaza",
+    "strength": 3
+  },
+  {
+    "source": "pirates-of-the-caribbean-the-curse-of-the-black-pearl",
+    "target": "pride-and-prejudice",
+    "relationship": "shared_actor",
+    "label": "Both feature Keira Knightley",
+    "strength": 3
+  },
+  {
+    "source": "the-prestige",
+    "target": "prisoners",
+    "relationship": "shared_actor",
+    "label": "Both feature Hugh Jackman",
+    "strength": 3
+  },
+  {
+    "source": "prisoners",
+    "target": "logan",
+    "relationship": "shared_actor",
+    "label": "Both feature Hugh Jackman",
+    "strength": 3
+  },
+  {
+    "source": "prisoners",
+    "target": "x-men-days-of-future-past",
+    "relationship": "shared_actor",
+    "label": "Both feature Hugh Jackman",
+    "strength": 3
+  },
+  {
+    "source": "the-pursuit-of-happyness",
+    "target": "westworld",
+    "relationship": "shared_actor",
+    "label": "Both feature Thandiwe Newton",
+    "strength": 3
+  },
+  {
+    "source": "in-bruges",
+    "target": "the-batman",
+    "relationship": "shared_actor",
+    "label": "Both feature Colin Farrell",
+    "strength": 3
+  },
+  {
+    "source": "schindlers-list",
+    "target": "shutter-island",
+    "relationship": "shared_actor",
+    "label": "Both feature Ben Kingsley",
+    "strength": 3
+  },
+  {
+    "source": "seinfeld",
+    "target": "veep",
+    "relationship": "shared_actor",
+    "label": "Both feature Julia Louis-Dreyfus",
+    "strength": 3
+  },
+  {
+    "source": "silence-of-the-lambs",
+    "target": "true-detective",
+    "relationship": "shared_actor",
+    "label": "Both feature Jodie Foster",
+    "strength": 3
+  },
+  {
+    "source": "silence-of-the-lambs",
+    "target": "taxi-driver",
+    "relationship": "shared_actor",
+    "label": "Both feature Jodie Foster",
+    "strength": 3
+  },
+  {
+    "source": "true-detective",
+    "target": "taxi-driver",
+    "relationship": "shared_actor",
+    "label": "Both feature Jodie Foster",
+    "strength": 3
+  },
+  {
+    "source": "succession",
+    "target": "scott-pilgrim-vs-the-world",
+    "relationship": "shared_actor",
+    "label": "Both feature Kieran Culkin",
+    "strength": 3
+  },
+  {
+    "source": "the-usual-suspects",
+    "target": "sicario",
+    "relationship": "shared_actor",
+    "label": "Both feature Benicio del Toro",
+    "strength": 3
+  },
+  {
+    "source": "there-will-be-blood",
+    "target": "the-batman",
+    "relationship": "shared_actor",
+    "label": "Both feature Paul Dano",
+    "strength": 3
+  },
+  {
+    "source": "top-gun-maverick",
+    "target": "whiplash",
+    "relationship": "shared_actor",
+    "label": "Both feature Miles Teller",
+    "strength": 3
+  },
+  {
+    "source": "the-queen-s-gambit",
+    "target": "the-witch",
+    "relationship": "shared_actor",
+    "label": "Both feature Anya Taylor-Joy",
+    "strength": 3
+  },
+  {
+    "source": "twister",
+    "target": "the-princess-bride",
+    "relationship": "shared_actor",
+    "label": "Both feature Cary Elwes",
+    "strength": 3
+  },
+  {
+    "source": "back-to-the-future",
+    "target": "everything-everywhere-all-at-once",
+    "relationship": "genre_thematic",
+    "label": "Both are adventure and comedy titles",
+    "strength": 2
+  },
+  {
+    "source": "back-to-the-future",
+    "target": "aliens",
+    "relationship": "genre_thematic",
+    "label": "Both are adventure and sci-fi titles",
+    "strength": 2
+  },
+  {
+    "source": "better-call-saul",
+    "target": "dark",
+    "relationship": "genre_thematic",
+    "label": "Both are crime and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "better-call-saul",
+    "target": "dexter",
+    "relationship": "genre_thematic",
+    "label": "Both are crime and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "braveheart",
+    "target": "hotel-rwanda",
+    "relationship": "genre_thematic",
+    "label": "Both are biography and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "braveheart",
+    "target": "the-pianist",
+    "relationship": "genre_thematic",
+    "label": "Both are biography and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "the-breakfast-club",
+    "target": "forrest-gump",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "the-breakfast-club",
+    "target": "groundhog-day",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "buffy-the-vampire-slayer",
+    "target": "game-of-thrones",
+    "relationship": "genre_thematic",
+    "label": "Both are action and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "buffy-the-vampire-slayer",
+    "target": "stranger-things",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and fantasy titles",
+    "strength": 2
+  },
+  {
+    "source": "dark",
+    "target": "dexter",
+    "relationship": "genre_thematic",
+    "label": "Both are crime and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "dark",
+    "target": "the-expanse",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and mystery titles",
+    "strength": 2
+  },
+  {
+    "source": "downton-abbey",
+    "target": "outlander",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and romance titles",
+    "strength": 2
+  },
+  {
+    "source": "downton-abbey",
+    "target": "please-like-me",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and romance titles",
+    "strength": 2
+  },
+  {
+    "source": "everything-everywhere-all-at-once",
+    "target": "avatar",
+    "relationship": "genre_thematic",
+    "label": "Both are action and adventure titles",
+    "strength": 2
+  },
+  {
+    "source": "everything-everywhere-all-at-once",
+    "target": "avengers-endgame",
+    "relationship": "genre_thematic",
+    "label": "Both are action and adventure titles",
+    "strength": 2
+  },
+  {
+    "source": "fargo-tv",
+    "target": "breaking-bad",
+    "relationship": "genre_thematic",
+    "label": "Both are crime and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "fargo-tv",
+    "target": "dark",
+    "relationship": "genre_thematic",
+    "label": "Both are crime and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "game-of-thrones",
+    "target": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+    "relationship": "genre_thematic",
+    "label": "Both are action and adventure titles",
+    "strength": 2
+  },
+  {
+    "source": "game-of-thrones",
+    "target": "the-lord-of-the-rings-the-return-of-the-king",
+    "relationship": "genre_thematic",
+    "label": "Both are action and adventure titles",
+    "strength": 2
+  },
+  {
+    "source": "the-boys",
+    "target": "person-of-interest",
+    "relationship": "genre_thematic",
+    "label": "Both are action and crime titles",
+    "strength": 2
+  },
+  {
+    "source": "the-boys",
+    "target": "everything-everywhere-all-at-once",
+    "relationship": "genre_thematic",
+    "label": "Both are action and comedy titles",
+    "strength": 2
+  },
+  {
+    "source": "casablanca",
+    "target": "apocalypse-now",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and war titles",
+    "strength": 2
+  },
+  {
+    "source": "casablanca",
+    "target": "braveheart",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and war titles",
+    "strength": 2
+  },
+  {
+    "source": "city-of-god",
+    "target": "american-history-x",
+    "relationship": "genre_thematic",
+    "label": "Both are crime and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "city-of-god",
+    "target": "american-psycho",
+    "relationship": "genre_thematic",
+    "label": "Both are crime and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "the-good-place",
+    "target": "groundhog-day",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "the-good-place",
+    "target": "fleabag",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "grease",
+    "target": "the-graduate",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and romance titles",
+    "strength": 2
+  },
+  {
+    "source": "grease",
+    "target": "the-princess-bride",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and romance titles",
+    "strength": 2
+  },
+  {
+    "source": "the-bear",
+    "target": "fleabag",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "the-bear",
+    "target": "the-good-place",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "the-conjuring",
+    "target": "get-out",
+    "relationship": "genre_thematic",
+    "label": "Both are horror and mystery titles",
+    "strength": 2
+  },
+  {
+    "source": "the-conjuring",
+    "target": "nope",
+    "relationship": "genre_thematic",
+    "label": "Both are horror and mystery titles",
+    "strength": 2
+  },
+  {
+    "source": "the-expanse",
+    "target": "westworld",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and mystery titles",
+    "strength": 2
+  },
+  {
+    "source": "the-expanse",
+    "target": "severance",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and mystery titles",
+    "strength": 2
+  },
+  {
+    "source": "bridesmaids",
+    "target": "la-la-land",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and romance titles",
+    "strength": 2
+  },
+  {
+    "source": "bridesmaids",
+    "target": "legally-blonde",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and romance titles",
+    "strength": 2
+  },
+  {
+    "source": "the-graduate",
+    "target": "forrest-gump",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "the-graduate",
+    "target": "groundhog-day",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "the-gilded-age",
+    "target": "the-crown",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and history titles",
+    "strength": 2
+  },
+  {
+    "source": "the-gilded-age",
+    "target": "chernobyl",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and history titles",
+    "strength": 2
+  },
+  {
+    "source": "creed",
+    "target": "moneyball",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and sport titles",
+    "strength": 2
+  },
+  {
+    "source": "creed",
+    "target": "friday-night-lights",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and sport titles",
+    "strength": 2
+  },
+  {
+    "source": "dungeons-and-dragons-honor-among-thieves",
+    "target": "avatar",
+    "relationship": "genre_thematic",
+    "label": "Both are action and adventure titles",
+    "strength": 2
+  },
+  {
+    "source": "dungeons-and-dragons-honor-among-thieves",
+    "target": "coco",
+    "relationship": "genre_thematic",
+    "label": "Both are adventure and comedy titles",
+    "strength": 2
+  },
+  {
+    "source": "chernobyl",
+    "target": "breaking-bad",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and thriller titles",
+    "strength": 2
+  },
+  {
+    "source": "chernobyl",
+    "target": "dark",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and thriller titles",
+    "strength": 2
+  },
+  {
+    "source": "happy-gilmore",
+    "target": "jerry-maguire",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and sport titles",
+    "strength": 2
+  },
+  {
+    "source": "happy-gilmore",
+    "target": "ted-lasso",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and sport titles",
+    "strength": 2
+  },
+  {
+    "source": "homeland",
+    "target": "dark",
+    "relationship": "genre_thematic",
+    "label": "Both are crime and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "homeland",
+    "target": "dexter",
+    "relationship": "genre_thematic",
+    "label": "Both are crime and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "house",
+    "target": "dark",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and mystery titles",
+    "strength": 2
+  },
+  {
+    "source": "house",
+    "target": "dexter",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and mystery titles",
+    "strength": 2
+  },
+  {
+    "source": "how-i-met-your-mother",
+    "target": "please-like-me",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and romance titles",
+    "strength": 2
+  },
+  {
+    "source": "how-i-met-your-mother",
+    "target": "this-is-us",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and romance titles",
+    "strength": 2
+  },
+  {
+    "source": "the-hunger-games",
+    "target": "avatar",
+    "relationship": "genre_thematic",
+    "label": "Both are action and adventure titles",
+    "strength": 2
+  },
+  {
+    "source": "the-hunger-games",
+    "target": "avengers-endgame",
+    "relationship": "genre_thematic",
+    "label": "Both are action and adventure titles",
+    "strength": 2
+  },
+  {
+    "source": "hunt-for-the-wilderpeople",
+    "target": "inside-out",
+    "relationship": "genre_thematic",
+    "label": "Both are adventure and comedy titles",
+    "strength": 2
+  },
+  {
+    "source": "hunt-for-the-wilderpeople",
+    "target": "up",
+    "relationship": "genre_thematic",
+    "label": "Both are adventure and comedy titles",
+    "strength": 2
+  },
+  {
+    "source": "the-hurt-locker",
+    "target": "american-psycho",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and thriller titles",
+    "strength": 2
+  },
+  {
+    "source": "the-hurt-locker",
+    "target": "blade-runner-2049",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and thriller titles",
+    "strength": 2
+  },
+  {
+    "source": "indiana-jones-and-the-raiders-of-the-lost-ark",
+    "target": "aliens",
+    "relationship": "genre_thematic",
+    "label": "Both are action and adventure titles",
+    "strength": 2
+  },
+  {
+    "source": "indiana-jones-and-the-raiders-of-the-lost-ark",
+    "target": "the-empire-strikes-back",
+    "relationship": "genre_thematic",
+    "label": "Both are action and adventure titles",
+    "strength": 2
+  },
+  {
+    "source": "into-the-wild",
+    "target": "avengers-endgame",
+    "relationship": "genre_thematic",
+    "label": "Both are adventure and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "into-the-wild",
+    "target": "braveheart",
+    "relationship": "genre_thematic",
+    "label": "Both are biography and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "justified",
+    "target": "daredevil",
+    "relationship": "genre_thematic",
+    "label": "Both are action and crime titles",
+    "strength": 2
+  },
+  {
+    "source": "justified",
+    "target": "person-of-interest",
+    "relationship": "genre_thematic",
+    "label": "Both are action and crime titles",
+    "strength": 2
+  },
+  {
+    "source": "killing-eve",
+    "target": "person-of-interest",
+    "relationship": "genre_thematic",
+    "label": "Both are action and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "killing-eve",
+    "target": "squid-game",
+    "relationship": "genre_thematic",
+    "label": "Both are action and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "law-and-order",
+    "target": "twin-peaks",
+    "relationship": "genre_thematic",
+    "label": "Both are crime and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "law-and-order",
+    "target": "dark",
+    "relationship": "genre_thematic",
+    "label": "Both are crime and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "money-heist",
+    "target": "the-nice-guys",
+    "relationship": "genre_thematic",
+    "label": "Both are action and crime titles",
+    "strength": 2
+  },
+  {
+    "source": "money-heist",
+    "target": "dark",
+    "relationship": "genre_thematic",
+    "label": "Both are crime and mystery titles",
+    "strength": 2
+  },
+  {
+    "source": "national-treasure",
+    "target": "avatar",
+    "relationship": "genre_thematic",
+    "label": "Both are action and adventure titles",
+    "strength": 2
+  },
+  {
+    "source": "national-treasure",
+    "target": "blade-runner-2049",
+    "relationship": "genre_thematic",
+    "label": "Both are action and mystery titles",
+    "strength": 2
+  },
+  {
+    "source": "nurse-jackie",
+    "target": "fleabag",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "nurse-jackie",
+    "target": "the-good-place",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "old-boy",
+    "target": "blade-runner-2049",
+    "relationship": "genre_thematic",
+    "label": "Both are action and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "old-boy",
+    "target": "squid-game",
+    "relationship": "genre_thematic",
+    "label": "Both are action and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "orange-is-the-new-black",
+    "target": "knives-out",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and crime titles",
+    "strength": 2
+  },
+  {
+    "source": "orange-is-the-new-black",
+    "target": "in-bruges",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and crime titles",
+    "strength": 2
+  },
+  {
+    "source": "outlander",
+    "target": "groundhog-day",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and fantasy titles",
+    "strength": 2
+  },
+  {
+    "source": "outlander",
+    "target": "stranger-things",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and fantasy titles",
+    "strength": 2
+  },
+  {
+    "source": "oz",
+    "target": "breaking-bad",
+    "relationship": "genre_thematic",
+    "label": "Both are crime and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "oz",
+    "target": "dexter",
+    "relationship": "genre_thematic",
+    "label": "Both are crime and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "pan-s-labyrinth",
+    "target": "braveheart",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and war titles",
+    "strength": 2
+  },
+  {
+    "source": "pan-s-labyrinth",
+    "target": "the-green-mile",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and fantasy titles",
+    "strength": 2
+  },
+  {
+    "source": "peaky-blinders",
+    "target": "better-call-saul",
+    "relationship": "genre_thematic",
+    "label": "Both are crime and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "peaky-blinders",
+    "target": "breaking-bad",
+    "relationship": "genre_thematic",
+    "label": "Both are crime and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "the-pianist",
+    "target": "hotel-rwanda",
+    "relationship": "genre_thematic",
+    "label": "Both are biography and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "the-pianist",
+    "target": "goodfellas",
+    "relationship": "genre_thematic",
+    "label": "Both are biography and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "planet-of-the-apes",
+    "target": "avengers-endgame",
+    "relationship": "genre_thematic",
+    "label": "Both are adventure and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "planet-of-the-apes",
+    "target": "dune",
+    "relationship": "genre_thematic",
+    "label": "Both are adventure and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "please-like-me",
+    "target": "this-is-us",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "please-like-me",
+    "target": "la-la-land",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "pride-and-prejudice",
+    "target": "eternal-sunshine-of-the-spotless-mind",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and romance titles",
+    "strength": 2
+  },
+  {
+    "source": "pride-and-prejudice",
+    "target": "forrest-gump",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and romance titles",
+    "strength": 2
+  },
+  {
+    "source": "the-pursuit-of-happyness",
+    "target": "braveheart",
+    "relationship": "genre_thematic",
+    "label": "Both are biography and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "the-pursuit-of-happyness",
+    "target": "a-beautiful-mind",
+    "relationship": "genre_thematic",
+    "label": "Both are biography and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "hot-fuzz",
+    "target": "the-nice-guys",
+    "relationship": "genre_thematic",
+    "label": "Both are action and comedy titles",
+    "strength": 2
+  },
+  {
+    "source": "hot-fuzz",
+    "target": "blade-runner-2049",
+    "relationship": "genre_thematic",
+    "label": "Both are action and mystery titles",
+    "strength": 2
+  },
+  {
+    "source": "john-wick",
+    "target": "the-dark-knight",
+    "relationship": "genre_thematic",
+    "label": "Both are action and crime titles",
+    "strength": 2
+  },
+  {
+    "source": "john-wick",
+    "target": "kill-bill-vol-1",
+    "relationship": "genre_thematic",
+    "label": "Both are action and crime titles",
+    "strength": 2
+  },
+  {
+    "source": "mad-max",
+    "target": "aliens",
+    "relationship": "genre_thematic",
+    "label": "Both are action and adventure titles",
+    "strength": 2
+  },
+  {
+    "source": "mad-max",
+    "target": "the-empire-strikes-back",
+    "relationship": "genre_thematic",
+    "label": "Both are action and adventure titles",
+    "strength": 2
+  },
+  {
+    "source": "penny-dreadful",
+    "target": "the-twilight-zone",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and fantasy titles",
+    "strength": 2
+  },
+  {
+    "source": "penny-dreadful",
+    "target": "stranger-things",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and fantasy titles",
+    "strength": 2
+  },
+  {
+    "source": "rocky",
+    "target": "jerry-maguire",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and sport titles",
+    "strength": 2
+  },
+  {
+    "source": "rocky",
+    "target": "moneyball",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and sport titles",
+    "strength": 2
+  },
+  {
+    "source": "rush-hour",
+    "target": "miss-congeniality",
+    "relationship": "genre_thematic",
+    "label": "Both are action and comedy titles",
+    "strength": 2
+  },
+  {
+    "source": "rush-hour",
+    "target": "the-nice-guys",
+    "relationship": "genre_thematic",
+    "label": "Both are action and comedy titles",
+    "strength": 2
+  },
+  {
+    "source": "spider-man-into-the-spider-verse",
+    "target": "avatar",
+    "relationship": "genre_thematic",
+    "label": "Both are action and adventure titles",
+    "strength": 2
+  },
+  {
+    "source": "spider-man-into-the-spider-verse",
+    "target": "avengers-endgame",
+    "relationship": "genre_thematic",
+    "label": "Both are action and adventure titles",
+    "strength": 2
+  },
+  {
+    "source": "star-wars-the-empire-strikes-back",
+    "target": "avatar",
+    "relationship": "genre_thematic",
+    "label": "Both are action and adventure titles",
+    "strength": 2
+  },
+  {
+    "source": "star-wars-the-empire-strikes-back",
+    "target": "the-mandalorian",
+    "relationship": "genre_thematic",
+    "label": "Both are action and adventure titles",
+    "strength": 2
+  },
+  {
+    "source": "ted-lasso",
+    "target": "jerry-maguire",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "ted-lasso",
+    "target": "fleabag",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "severance",
+    "target": "dark",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and mystery titles",
+    "strength": 2
+  },
+  {
+    "source": "severance",
+    "target": "blade-runner-2049",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and mystery titles",
+    "strength": 2
+  },
+  {
+    "source": "the-terminator",
+    "target": "blade-runner",
+    "relationship": "genre_thematic",
+    "label": "Both are action and sci-fi titles",
+    "strength": 2
+  },
+  {
+    "source": "the-terminator",
+    "target": "the-empire-strikes-back",
+    "relationship": "genre_thematic",
+    "label": "Both are action and sci-fi titles",
+    "strength": 2
+  },
+  {
+    "source": "the-thing",
+    "target": "nope",
+    "relationship": "genre_thematic",
+    "label": "Both are horror and mystery titles",
+    "strength": 2
+  },
+  {
+    "source": "the-thing",
+    "target": "stranger-things",
+    "relationship": "genre_thematic",
+    "label": "Both are horror and mystery titles",
+    "strength": 2
+  },
+  {
+    "source": "the-handmaids-tale",
+    "target": "dark",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and sci-fi titles",
+    "strength": 2
+  },
+  {
+    "source": "the-handmaids-tale",
+    "target": "black-mirror",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and sci-fi titles",
+    "strength": 2
+  },
+  {
+    "source": "the-walking-dead",
+    "target": "penny-dreadful",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and horror titles",
+    "strength": 2
+  },
+  {
+    "source": "the-walking-dead",
+    "target": "yellowjackets",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and horror titles",
+    "strength": 2
+  },
+  {
+    "source": "the-x-files",
+    "target": "dark",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and mystery titles",
+    "strength": 2
+  },
+  {
+    "source": "the-x-files",
+    "target": "the-expanse",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and mystery titles",
+    "strength": 2
+  },
+  {
+    "source": "twin-peaks",
+    "target": "dark",
+    "relationship": "genre_thematic",
+    "label": "Both are crime and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "twin-peaks",
+    "target": "dexter",
+    "relationship": "genre_thematic",
+    "label": "Both are crime and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "south-park",
+    "target": "finding-nemo",
+    "relationship": "genre_thematic",
+    "label": "Both are animation and comedy titles",
+    "strength": 2
+  },
+  {
+    "source": "south-park",
+    "target": "fantastic-mr-fox",
+    "relationship": "genre_thematic",
+    "label": "Both are animation and comedy titles",
+    "strength": 2
+  },
+  {
+    "source": "the-simpsons",
+    "target": "finding-nemo",
+    "relationship": "genre_thematic",
+    "label": "Both are animation and comedy titles",
+    "strength": 2
+  },
+  {
+    "source": "the-simpsons",
+    "target": "toy-story",
+    "relationship": "genre_thematic",
+    "label": "Both are animation and comedy titles",
+    "strength": 2
+  },
+  {
+    "source": "the-twilight-zone",
+    "target": "stranger-things",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and fantasy titles",
+    "strength": 2
+  },
+  {
+    "source": "the-twilight-zone",
+    "target": "dark",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and mystery titles",
+    "strength": 2
+  },
+  {
+    "source": "spirited-away",
+    "target": "frozen",
+    "relationship": "genre_thematic",
+    "label": "Both are animation and adventure titles",
+    "strength": 2
+  },
+  {
+    "source": "spirited-away",
+    "target": "toy-story",
+    "relationship": "genre_thematic",
+    "label": "Both are animation and adventure titles",
+    "strength": 2
+  },
+  {
+    "source": "this-is-us",
+    "target": "la-la-land",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "this-is-us",
+    "target": "groundhog-day",
+    "relationship": "genre_thematic",
+    "label": "Both are comedy and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "wonka",
+    "target": "coco",
+    "relationship": "genre_thematic",
+    "label": "Both are family and fantasy titles",
+    "strength": 2
+  },
+  {
+    "source": "wonka",
+    "target": "frozen",
+    "relationship": "genre_thematic",
+    "label": "Both are family and fantasy titles",
+    "strength": 2
+  },
+  {
+    "source": "yellowstone",
+    "target": "django-unchained",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and western titles",
+    "strength": 2
+  },
+  {
+    "source": "yellowstone",
+    "target": "unforgiven",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and western titles",
+    "strength": 2
+  },
+  {
+    "source": "you",
+    "target": "breaking-bad",
+    "relationship": "genre_thematic",
+    "label": "Both are crime and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "you",
+    "target": "dark",
+    "relationship": "genre_thematic",
+    "label": "Both are crime and drama titles",
+    "strength": 2
+  },
+  {
+    "source": "rear-window",
+    "target": "blade-runner-2049",
+    "relationship": "genre_thematic",
+    "label": "Both are mystery and thriller titles",
+    "strength": 2
+  },
+  {
+    "source": "rear-window",
+    "target": "get-out",
+    "relationship": "genre_thematic",
+    "label": "Both are mystery and thriller titles",
+    "strength": 2
+  },
+  {
+    "source": "talk-to-me",
+    "target": "get-out",
+    "relationship": "genre_thematic",
+    "label": "Both are horror and thriller titles",
+    "strength": 2
+  },
+  {
+    "source": "talk-to-me",
+    "target": "the-conjuring",
+    "relationship": "genre_thematic",
+    "label": "Both are horror and thriller titles",
+    "strength": 2
+  },
+  {
+    "source": "the-witch-part-2",
+    "target": "avatar",
+    "relationship": "genre_thematic",
+    "label": "Both are action and sci-fi titles",
+    "strength": 2
+  },
+  {
+    "source": "the-witch-part-2",
+    "target": "avengers-endgame",
+    "relationship": "genre_thematic",
+    "label": "Both are action and sci-fi titles",
+    "strength": 2
+  },
+  {
+    "source": "yellowjackets",
+    "target": "the-twilight-zone",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and horror titles",
+    "strength": 2
+  },
+  {
+    "source": "yellowjackets",
+    "target": "dark",
+    "relationship": "genre_thematic",
+    "label": "Both are drama and mystery titles",
+    "strength": 2
+  },
+  {
+    "source": "avatar",
+    "target": "the-terminator",
+    "relationship": "shared_director",
+    "label": "Both directed by James Cameron",
+    "strength": 4
+  },
+  {
+    "source": "avatar",
+    "target": "terminator-2-judgment-day",
+    "relationship": "shared_director",
+    "label": "Both directed by James Cameron",
+    "strength": 4
+  },
+  {
+    "source": "titanic",
+    "target": "the-terminator",
+    "relationship": "shared_director",
+    "label": "Both directed by James Cameron",
+    "strength": 4
+  },
+  {
+    "source": "titanic",
+    "target": "terminator-2-judgment-day",
+    "relationship": "shared_director",
+    "label": "Both directed by James Cameron",
+    "strength": 4
+  },
+  {
+    "source": "back-to-the-future",
+    "target": "cast-away",
+    "relationship": "shared_director",
+    "label": "Both directed by Robert Zemeckis",
+    "strength": 4
+  },
+  {
+    "source": "back-to-the-future",
+    "target": "forrest-gump",
+    "relationship": "shared_director",
+    "label": "Both directed by Robert Zemeckis",
+    "strength": 4
+  },
+  {
+    "source": "children-of-men",
+    "target": "gravity",
+    "relationship": "shared_director",
+    "label": "Both directed by Alfonso Cuaron",
+    "strength": 4
+  },
+  {
+    "source": "goodfellas",
+    "target": "shutter-island",
+    "relationship": "shared_director",
+    "label": "Both directed by Martin Scorsese",
+    "strength": 4
+  },
+  {
+    "source": "shutter-island",
+    "target": "taxi-driver",
+    "relationship": "shared_director",
+    "label": "Both directed by Martin Scorsese",
+    "strength": 4
+  },
+  {
+    "source": "shutter-island",
+    "target": "raging-bull",
+    "relationship": "shared_director",
+    "label": "Both directed by Martin Scorsese",
+    "strength": 4
+  },
+  {
+    "source": "et-the-extra-terrestrial",
+    "target": "indiana-jones-and-the-raiders-of-the-lost-ark",
+    "relationship": "shared_director",
+    "label": "Both directed by Steven Spielberg",
+    "strength": 4
+  },
+  {
+    "source": "indiana-jones-and-the-raiders-of-the-lost-ark",
+    "target": "jaws",
+    "relationship": "shared_director",
+    "label": "Both directed by Steven Spielberg",
+    "strength": 4
+  },
+  {
+    "source": "indiana-jones-and-the-raiders-of-the-lost-ark",
+    "target": "jurassic-park",
+    "relationship": "shared_director",
+    "label": "Both directed by Steven Spielberg",
+    "strength": 4
+  },
+  {
+    "source": "indiana-jones-and-the-raiders-of-the-lost-ark",
+    "target": "saving-private-ryan",
+    "relationship": "shared_director",
+    "label": "Both directed by Steven Spielberg",
+    "strength": 4
+  },
+  {
+    "source": "indiana-jones-and-the-raiders-of-the-lost-ark",
+    "target": "schindlers-list",
+    "relationship": "shared_director",
+    "label": "Both directed by Steven Spielberg",
+    "strength": 4
+  },
+  {
+    "source": "the-shawshank-redemption",
+    "target": "the-green-mile",
+    "relationship": "shared_director",
+    "label": "Both directed by Frank Darabont",
+    "strength": 4
+  },
+  {
+    "source": "the-big-short",
+    "target": "the-other-guys",
+    "relationship": "shared_director",
+    "label": "Both directed by Adam McKay",
+    "strength": 4
+  },
+  {
+    "source": "chinatown",
+    "target": "the-pianist",
+    "relationship": "shared_director",
+    "label": "Both directed by Roman Polanski",
+    "strength": 4
+  },
+  {
+    "source": "elf",
+    "target": "iron-man",
+    "relationship": "shared_director",
+    "label": "Both directed by Jon Favreau",
+    "strength": 4
+  },
+  {
+    "source": "the-exorcist",
+    "target": "the-french-connection",
+    "relationship": "shared_director",
+    "label": "Both directed by William Friedkin",
+    "strength": 4
+  },
+  {
+    "source": "halloween",
+    "target": "the-thing",
+    "relationship": "shared_director",
+    "label": "Both directed by John Carpenter",
+    "strength": 4
+  },
+  {
+    "source": "no-country-for-old-men",
+    "target": "inside-llewyn-davis",
+    "relationship": "shared_director",
+    "label": "Both directed by Joel Coen, Ethan Coen",
+    "strength": 4
+  },
+  {
+    "source": "pacific-rim",
+    "target": "pan-s-labyrinth",
+    "relationship": "shared_director",
+    "label": "Both directed by Guillermo del Toro",
+    "strength": 4
+  },
+  {
+    "source": "hot-fuzz",
+    "target": "scott-pilgrim-vs-the-world",
+    "relationship": "shared_director",
+    "label": "Both directed by Edgar Wright",
+    "strength": 4
+  },
+  {
+    "source": "scott-pilgrim-vs-the-world",
+    "target": "shaun-of-the-dead",
+    "relationship": "shared_director",
+    "label": "Both directed by Edgar Wright",
+    "strength": 4
+  },
+  {
+    "source": "mission-impossible",
+    "target": "scarface",
+    "relationship": "shared_director",
+    "label": "Both directed by Brian De Palma",
+    "strength": 4
+  },
+  {
+    "source": "the-usual-suspects",
+    "target": "x-men-days-of-future-past",
+    "relationship": "shared_director",
+    "label": "Both directed by Bryan Singer",
+    "strength": 4
+  },
+  {
+    "source": "fleabag",
+    "target": "killing-eve",
+    "relationship": "same_creator",
+    "label": "Both created by Phoebe Waller-Bridge",
+    "strength": 4
+  },
+  {
+    "source": "chernobyl",
+    "target": "the-last-of-us",
+    "relationship": "same_creator",
+    "label": "Both created by Craig Mazin",
+    "strength": 4
+  },
+  {
+    "source": "person-of-interest",
+    "target": "westworld",
+    "relationship": "same_creator",
+    "label": "Both created by Jonathan Nolan",
+    "strength": 4
+  }
+]
