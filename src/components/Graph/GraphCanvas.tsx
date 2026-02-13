@@ -239,6 +239,10 @@ export default function GraphCanvas() {
     [selectedNodeId, posOverrides]
   );
 
+  const stopDrift = useCallback(() => {
+    driftActiveRef.current = false;
+  }, []);
+
   if (isLoading) {
     return (
       <div className="flex items-center justify-center w-full h-full">
@@ -246,11 +250,6 @@ export default function GraphCanvas() {
       </div>
     );
   }
-
-
-  const stopDrift = useCallback(() => {
-    driftActiveRef.current = false;
-  }, []);
 
   return (
     <div onPointerDown={stopDrift}>
