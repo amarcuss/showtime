@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Analytics } from "@vercel/analytics/react";
 import GraphCanvas from "./components/Graph/GraphCanvas";
 import DetailPanel from "./components/DetailPanel/DetailPanel";
 import SearchBar from "./components/Controls/SearchBar";
@@ -71,6 +72,8 @@ export default function App() {
 
       {/* Detail panel */}
       <DetailPanel onNavigate={zoomToNode} />
+
+      <Analytics />
     </div>
   );
 }
